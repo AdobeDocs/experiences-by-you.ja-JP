@@ -1,15 +1,15 @@
 ---
 title: Experience Manager
-description: 顧客生成コンテンツ
+description: Experience Manager:Adobe Experience Managerに関する知識と影響力を持つ日々のユーザーが作成した、ユーザー生成コンテンツを提供します。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 26%
+source-wordcount: '204'
+ht-degree: 23%
 
 ---
 
