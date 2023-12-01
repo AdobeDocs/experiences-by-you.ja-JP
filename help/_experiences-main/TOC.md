@@ -1,18 +1,18 @@
 ---
-user-guide-title: エクスペリエンス — 自分別
-user-guide-description: Adobe顧客生成コンテンツ
-breadcrumb-title: エクスペリエンス — 自分別
+user-guide-title: ユーザーによる Experience
+user-guide-description: アドビの顧客生成コンテンツ
+breadcrumb-title: ユーザーによる Experience
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 
 
-# エクスペリエンス — 自分別 {#experiences-by-you}
+# ユーザーによる Experience {#experiences-by-you}
 
-+ [エクスペリエンス — 自分別](/help/overview.md)
++ [ユーザーによる Experience](/help/overview.md)
 
 + [!DNL Analytics] お客様別 {#analytics}
    + [概要](/help/analytics/overview.md)
@@ -64,7 +64,7 @@ ht-degree: 74%
       + [マーケター向けトラブルシューティング](/help/campaign/acs/troubleshooting-for-marketers.md)
    + 戦略とソートリーダーシップ{#strategy}
       + [マーケター向けの  [!DNL Adobe Campaign]  成功のベストプラクティス 10 件](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager {#experience-manager}
++ ユーザーによる Experience Manager {#experience-manager}
    + [概要](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites の成熟度評価](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
