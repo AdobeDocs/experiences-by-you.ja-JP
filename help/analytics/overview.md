@@ -1,6 +1,6 @@
 ---
-title: Analytics by You
-description: Analytics by You は、Adobe Analyticsの知識と影響力のレベルを達成した日々のユーザーが作成した、ユーザー生成コンテンツを提供します。
+title: ユーザーによる Analytics
+description: ユーザーによる Analytics は、Adobe Analytics の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 21%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 
@@ -77,6 +77,6 @@ ht-degree: 21%
 ## その他のリソース
 
 * [Experience LeagueAdobe Analyticsコミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
-* [Adobe Analytics ドキュメント](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
+* [Adobe Analytics Documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
 * [Adobe Analytics チュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja)
 * [Adobe Analyticsの製品情報](https://business.adobe.com/jp/products/analytics/adobe-analytics.html)

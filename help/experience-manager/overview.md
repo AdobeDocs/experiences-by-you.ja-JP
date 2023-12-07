@@ -1,6 +1,6 @@
 ---
-title: Experience Manager
-description: Experience Manager:Adobe Experience Managerに関する知識と影響力を持つ日々のユーザーが作成した、ユーザー生成コンテンツを提供します。
+title: ユーザーによる Experience Manager
+description: ユーザーによる Experience Manager は、Adobe Experience Manager の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 23%
+source-wordcount: '188'
+ht-degree: 26%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 23%
 
 ## その他のリソース
 
-* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)
+* [Experience Managerコミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)
 * [Experience Managerドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 * [Experience ManagerTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=ja)
 * [Experience Managerの製品情報](https://business.adobe.com/jp/products/experience-manager/adobe-experience-manager.html)

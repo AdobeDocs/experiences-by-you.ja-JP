@@ -1,6 +1,6 @@
 ---
-title: 自分でキャンペーン
-description: Campaign by You は、Adobe Campaignの知識と影響力を持ち、高度な専門知識と影響力を得た日常ユーザーが作成したユーザー生成コンテンツを提供します。
+title: ユーザーによる Campaign
+description: ユーザーによる Campaign は、Adobe Campaign の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 33%
+source-wordcount: '195'
+ht-degree: 27%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 33%
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>マーケター向けのトラブルシューティング：ワークフローと配信に関する 5 つの一般的なエラー</strong>
+    <strong>マーケター向けのトラブルシューティング：5 つの一般的なワークフローと配信エラー</strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ ht-degree: 33%
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>マーケター向け Adobe Campaign 成功のベストプラクティス 10 件</strong>
+    <strong>マーケター向けAdobe Campaign成功のベストプラクティス 10 件</strong>
     </a>
     </div>
     <p>

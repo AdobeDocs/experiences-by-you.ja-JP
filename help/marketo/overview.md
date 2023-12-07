@@ -1,6 +1,6 @@
 ---
-title: Marketo by You
-description: Marketo by Marketoは、Adobeに関する知識と影響力を身に付けた日常ユーザーが作成した、ユーザー生成コンテンツを提供します。
+title: ユーザーによる Marketo
+description: ユーザーによる Marketo は、Adobe Marketo の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 24%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -40,16 +40,16 @@ ht-degree: 24%
     </a>
     </div>
     <p>
-    <em>[!DNL Marketo Engage] プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。</em>
+    <em>ユーザーインターフェイスを操作する方法と、 [!DNL Marketo Engage] プラットフォーム。</em>
     <p>
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="レポートと分析" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="Reporting and Analytics" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong>レポートと分析</strong>
+    <strong>Reporting and Analytics</strong>
     </a>
     </div>
     <p>
@@ -66,7 +66,7 @@ ht-degree: 24%
     </a>
     </div>
     <p>
-    <em>A/B テストを使用してメールプログラムを作成する方法については、このステップバイステップチュートリアルをご覧ください。</em>
+    <em>A/B テストを使用して電子メールプログラムを作成する方法については、この詳しい手順のチュートリアルをご覧ください。</em>
     <p>
   </td>
 </tr>
@@ -77,6 +77,6 @@ ht-degree: 24%
 ## その他のリソース
 
 * [Marketo Nation（コミュニティ）](https://nation.marketo.com/)
-* [Adobe Marketo Engage ドキュメント](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Adobe Marketo Engage Documentation](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
 * [Adobe Marketo Engageの製品情報](https://business.adobe.com/products/marketo/adobe-marketo.html)
