@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '905'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 1%
 
 ### 手順 2:[!DNL] に含める要素を特定する [!DNL Marketo Engage]] ドキュメント&amp; [!DNL Changelogs]
 
-形式は、クラウドベースのプラットフォームによって共有ドキュメントによって異なります。 組織のニーズに応じた形式をデザインできます。 [以下に、簡単なドキュメントと変更ログの Excel テンプレートを示します。](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) では、最初に使用できる重要な要素を説明しています。 これには、以下が含まれます。
+形式は、クラウドベースのプラットフォームによって共有ドキュメントによって異なります。 組織のニーズに応じた形式をデザインできます。 [以下に、簡単なドキュメントと変更ログの Excel テンプレートを示します。](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) 最初に取り上げる重要な要素について説明します。 これには、以下が含まれます。
 
 * ドキュメント
    * プログラムテンプレート名
@@ -62,7 +62,7 @@ ht-degree: 1%
    * プログラムの目的
    * ステータス
    * プログラムテンプレートへのリンク
-   * 注釈
+   * 注意
 * 変更ログ
    * プログラムテンプレート名
    * 変更日
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ## 次の手順
 
-ダウンロードを開始する [単純テンプレート](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)。
+ダウンロードを開始する [単純テンプレート](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 上記の手順に従って、ガバナンスガイドとドキュメントを作成します。 このプロセスを進める際は、次の経験則に留意してください。
 
