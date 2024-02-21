@@ -2,10 +2,10 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: アドビの顧客生成コンテンツ
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 81%
+source-wordcount: '293'
+ht-degree: 73%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 81%
 
 + [!DNL Analytics] お客様別 {#analytics}
    + [概要](/help/analytics/overview.md)
-   + [!DNL Analytics] の概要{#intro-to-analytics}
+   + の概要 [!DNL Analytics] {#intro-to-analytics}
       + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
          + [移行元 [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -63,8 +63,8 @@ ht-degree: 81%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [マーケター向けトラブルシューティング](/help/campaign/acs/troubleshooting-for-marketers.md)
    + 戦略とソートリーダーシップ{#strategy}
-      + [マーケター向けの  [!DNL Adobe Campaign]  成功のベストプラクティス 10 件](/help/campaign/10-best-practices-for-marketers.md)
-+ ユーザーによる Experience Manager {#experience-manager}
+      + [の 10 のベストプラクティス [!DNL Adobe Campaign] マーケター向けの成功](/help/campaign/10-best-practices-for-marketers.md)
++ Experience Manager {#experience-manager}
    + [概要](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites の成熟度評価](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
@@ -75,6 +75,8 @@ ht-degree: 81%
       + [[!DNL Cloud Manager] オンボーディングプレイブック](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] 環境タイプ](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + ベストプラクティス {#cloud-manager-best-practices}
+         + [Cloud Manager でのログの使用](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] お客様別 {#marketo-engage}
    + [概要](/help/marketo/overview.md)
    + 基本 {#fundamentals}
@@ -83,5 +85,5 @@ ht-degree: 81%
    + プログラムとキャンペーン {#programs-and-campaigns}
       + [メールプログラム](/help/marketo/programs/email-programs.md)
       + [エンゲージメントプログラム](/help/marketo/programs/engagement-programs.md)
-   + レポートと分析 {#reporting-and-analytics}
-      + [レポートと分析](/help/marketo/reporting/reporting-and-analytics.md)
+   + Reporting and Analytics {#reporting-and-analytics}
+      + [Reporting and Analytics](/help/marketo/reporting/reporting-and-analytics.md)
