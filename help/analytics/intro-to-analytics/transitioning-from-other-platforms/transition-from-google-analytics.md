@@ -7,11 +7,10 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
-ht-degree: 75%
+source-wordcount: '3323'
+ht-degree: 72%
 
 ---
 
@@ -43,7 +42,7 @@ ht-degree: 75%
 
 ##### 2.1.1.1.ワークスペース/カスタムセットのホーム画面 ([!DNL Adobe Analytics])
 
-[!DNL Adobe Analytics] は、すべてのユーザーがログイン時に表示できるように事前定義済みレポートを作成することを想定していません。デフォルトのホームページでは、ユーザーは Workspace のランディング画面に移動します。ここには、各ユーザーが作成または共有したすべてのワークスペースレポートが表示されます。また、各ユーザーは、必要に応じて、これらのレポートのいずれかをホーム画面として設定できます。
+[!DNL Adobe Analytics] では、すべてのユーザーがログイン時に表示する事前定義済みレポートを作成することを推奨しません。 デフォルトのホームページでは、ユーザーは Workspace のランディング画面に移動します。ここには、各ユーザーが作成または共有したすべてのワークスペースレポートが表示されます。また、各ユーザーは、必要に応じて、これらのレポートのいずれかをホーム画面として設定できます。
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -158,7 +157,7 @@ Googleと [!DNL Adobe] には、ディメンションに基づく、作成され
 
 ##### 2.1.3.1. [!DNL Adobe Analytics] レポート
 
-[!DNL Adobe Analytics] には「レポート」セクションもありますが、Analysis Workspace を優先して段階的に廃止されています。実際、Workspace はより強力なツールなので、このインターフェイスのサービス終了が発表されました。これらのテーブルのほとんどは、容易に作成したり変更したりできます。[!DNL Adobe]のセクションは、よりはるかに分かれており、これは骨の折れることがあります。
+[!DNL Adobe Analytics] には「レポート」セクションもありますが、廃止されてAnalysis Workspaceに置き換えられています。 実際、Workspace はより強力なツールなので、このインターフェイスのサービス終了が発表されました。これらのテーブルのほとんどは、容易に作成したり変更したりできます。[!DNL Adobe]のセクションは、よりはるかに分かれており、これは骨の折れることがあります。
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
@@ -268,10 +267,10 @@ API は、プルリクエストで指定されているように、分類とセ�
 
 このガイド以外にも、戦略の改善に役立つリソースが多くあります。
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=ja#home) - チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれています
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=ja#home)  — チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれます
 * [[!DNL Adobe] ユーザーグループ](https://analytics-augs.adobe.com/)  — ユーザーが相互に接続し、実装を改善するのに役立つ、コミュニティ実行イベントのハブ。
 * [[!DNL Adobe Analytics] ユーザーグループYouTubeチャネル](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)  — を作成できませんでした [!DNL Adobe Analytics] ユーザーグループセッション？ 世界中の過去のユーザーグループセッションを再視聴して、同業者がどのようにツールを使用しているかを知ることができます。
-* [Measure Chat Slack チャンネル](https://www.measure.chat/)[!DNL Adobe Analytics] - 世界中の ユーザーとつながって、業界の学びを共有したり、同業者に質問したり、測定に焦点を当てたインタレストグループに参加したりできます。
+* [チャットSlackチャネルを測定](https://www.measure.chat/)  — との接続 [!DNL Adobe Analytics] 世界中のユーザーと共有し、業界の知識を共有し、仲間に質問し、測定に焦点を当てた関心グループに参加します。
 * その他
 
 ## 作成者
