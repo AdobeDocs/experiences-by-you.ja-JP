@@ -10,7 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
+source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,6 @@ ht-degree: 2%
 基準： [スラジ・パトラ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}（メイジェール・シニア・コンサルタント）
 
 シニアエンジニアおよび顧客エキスパートとして： [!DNL Adobe] 過去 5 年間のExperience Cloud製品を、 [メイジェール](https://www.meijer.com/){target="_blank"}:1934 年に設立されたアメリカのスーパーセンターチェーンで、ACS と共に複雑なマーケティングキャンペーンとトランザクションキャンペーンを展開しています。 私が取り組んだいくつかのプロジェクトには、と統合され、パーソナライゼーションのオファーと注文の詳細を保存するカスタマイズされたキャンペーンが含まれています。 [!DNL Adobe] Audience Manager、およびセグメント取り込みに関する顧客インサイト。
-
 
 ACS を使用している間にエラーが発生しました。このエラーは、解決に時間がかかり、面倒になる場合があります。 最も一般的なエラーを把握することで、問題をより迅速に解決し、生産性を高めることができます。 以下に、同様のエラーが発生した場合に効果的に解決するのに役立つトラブルシューティングのヒントを示します。
 
