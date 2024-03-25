@@ -2,10 +2,10 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: アドビの顧客生成コンテンツ
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: ba46ad10c20184083076950883f169df09ca7778
+source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 67%
+source-wordcount: '323'
+ht-degree: 66%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 67%
          + [カスタマージャーニーセグメントの作成 — 第 2 部](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [セグメントビルダーとクイックセグメントの違い](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [カーテンの背後にある魔法 — 複雑なセグメント](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 指標 {#metrics}
          + [Excel から計算指標への移行](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [計算指標によるデータ分析レベルの向上](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
