@@ -2,10 +2,10 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: アドビの顧客生成コンテンツ
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
+source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 66%
+source-wordcount: '328'
+ht-degree: 65%
 
 ---
 
@@ -80,6 +80,7 @@ ht-degree: 66%
       + ベストプラクティス {#cloud-manager-best-practices}
          + [Cloud Manager でのログの使用](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
          + [AEM as a Cloud Serviceへの移行の計画](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [ベストプラクティスアナライザーの使用](/help/experience-manager/cloud-service/expert-resources/aem-champions/best-practice-analyzer.md)
          + [AEM as a Cloud Serviceへの移行時の課題への対処](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] お客様別 {#marketo-engage}
    + [概要](/help/marketo/overview.md)
