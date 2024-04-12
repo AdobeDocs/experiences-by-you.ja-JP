@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
+source-git-commit: 1e9e57c00adb37a01e42cbbb82e62918e7543b19
 workflow-type: tm+mt
 source-wordcount: '4102'
 ht-degree: 2%
@@ -202,7 +202,7 @@ _複雑なデータセグメント化、除外、コンテナ、アトリビュ�
 
 まず、毎日の分類を表示するのではなく、ページの分類を表示します。これにより、2 つのセグメントがよりよく説明されると思われるので、
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">最初の 3 つの列（ページビュー、訪問回数、ユニーク訪問者）はセグメント化されていないので、サイト内のすべてのページが表示されます。 注文はアクションで追跡され、したがってページディメンションの範囲の一部ではないので、ここでは注文を含めなかったことに注意してください。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
@@ -210,7 +210,7 @@ _複雑なデータセグメント化、除外、コンテナ、アトリビュ�
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">次に、単純なセグメントの結果を、 <strong>ヒット数</strong> 指定した 2 つのページ 分類内の他のページはすべて、期待どおりに 0 になります。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
@@ -218,7 +218,7 @@ _複雑なデータセグメント化、除外、コンテナ、アトリビュ�
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">ここで、少しボーナスのヒントを紹介します。高度なセグメントの結果を表示する前に、「注文が存在する」という別のシンプルなセグメント（ヒットレベルの範囲）を使用し、ユニーク訪問者とペアにしました。 これにより、レポート期間中に注文した UV の合計と、これらの各ページにヒットした UV が返されます。これにより、次の列セットをより適切に説明できます。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
@@ -226,7 +226,7 @@ _複雑なデータセグメント化、除外、コンテナ、アトリビュ�
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">最終的な列セットは、複雑なセグメントで積み重ねられます。 注文を含む全体の UV は、各ページの単純な「注文が存在する」セグメントと一致しますが、合計が大きく異なることがわかります。このデータセットは、注文を行ってページにヒットした訪問者にのみデータセットを明示的に制限するので、私は明示的に興味があります。</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
         </td>
@@ -333,14 +333,14 @@ _複雑なデータセグメント化、除外、コンテナ、アトリビュ�
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">最初の 4 列はセグメント化されておらず、理解しやすいはずです。 なお、「エントリ」は基本的に、訪問者のセッション開始時の位置に基づいて計算された値です。 ユーザーは複数のマーケティングチャネル（ソーシャルメディアの閲覧、検索の実行、マーケティングメールのクリックなど）を通じてサイトに入る可能性があるので、探している情報が返されないことを示すために、ここに追加しました。 すべて同じ訪問/ セッション内）。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">次の列のセットでは、「標準ヒットセグメント」を使用し、基本的にマーケティングチャネルが「有料検索」であるヒットを調べます。 ただし、これはマーケティングチャネルアトリビューションに基づいてすべてのヒットを返し、実際の「有料検索」クリックスルーを分離しません。 したがって、必要なデータは返されません。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
         </td>
@@ -350,7 +350,7 @@ _複雑なデータセグメント化、除外、コンテナ、アトリビュ�
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">次の 2 つのデータセットは同じように見えますが、実際には、これらは 2 つの異なる方法で同じデータを返します。 しかし、今、私は特に <i>instances</i> マーケティングチャネルの場所 <strong>set</strong> を「ペイド検索」に変更します。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
