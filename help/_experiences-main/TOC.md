@@ -2,10 +2,10 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: アドビの顧客生成コンテンツ
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 75b14fc5c051bffd8110a1e31f72bfdc965f9cff
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 64%
+source-wordcount: '341'
+ht-degree: 62%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 64%
          + [計算指標によるデータ分析レベルの向上](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + プロジェクトのキュレーションと共有 {#curate-and-share-projects}
          + [表示のみの共有機能のロック解除](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [分析インサイトのロック解除；注釈の機能の活用](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + ヒントとテクニック {#tips-and-tricks}
          + [ワークフローの効率を上げる、右クリックのヒントとコツ](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
          + [#Tags - パーソナルアシスタント](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
