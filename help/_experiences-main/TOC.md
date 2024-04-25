@@ -2,10 +2,10 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: アドビの顧客生成コンテンツ
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: 41ca454dc8526d42848033ef30036e200b8adc99
+source-git-commit: d3772a4fd4e5e2d26bc637370c7ba7d29336ccb4
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 62%
+source-wordcount: '350'
+ht-degree: 61%
 
 ---
 
@@ -18,47 +18,48 @@ ht-degree: 62%
    + [概要](/help/analytics/overview.md)
    + の概要 [!DNL Analytics] {#intro-to-analytics}
       + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
-         + [移行元 [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+         + [移行元 [!DNL Google Analytics]](../analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
       + パネルの使用 {#using-panels}
-         + [アトリビューションパネルとルックバックウィンドウについて](/help/analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+         + [アトリビューションパネルとルックバックウィンドウについて](../analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + ビジュアライゼーション {#visualizations}
-         + [ヒストグラムを使用したインサイトのロック解除](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-         + [言葉以上のこと - テキストビジュアライゼーションと説明の使用](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-         + [コホート分析を使用して顧客行動を把握](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+         + [ヒストグラムを使用したインサイトのロック解除](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+         + [言葉以上のこと - テキストビジュアライゼーションと説明の使用](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+         + [コホート分析を使用して顧客行動を把握](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
       + セグメント {#segmentation}
-         + [カスタマージャーニーセグメントの作成](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
-         + [カスタマージャーニーセグメントの作成 – 第 2 部](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
-         + [セグメントビルダーとクイックセグメントの違い](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-         + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
-         + [カーテンの背後にある魔法 – 複雑なセグメント](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
+         + [カスタマージャーニーセグメントの作成](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
+         + [カスタマージャーニーセグメントの作成 – 第 2 部](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
+         + [セグメントビルダーとクイックセグメントの違い](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+         + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [カーテンの背後にある魔法 – 複雑なセグメント](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 指標 {#metrics}
-         + [Excel から計算指標への移行](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+         + [Excel から計算指標への移行](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [計算指標によるデータ分析レベルの向上](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + プロジェクトのキュレーションと共有 {#curate-and-share-projects}
-         + [表示のみの共有機能のロック解除](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [表示のみの共有機能のロック解除](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
          + [分析インサイトのロック解除；注釈の機能の活用](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + ヒントとテクニック {#tips-and-tricks}
-         + [ワークフローの効率を上げる、右クリックのヒントとコツ](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags - パーソナルアシスタント](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+         + [ワークフローの効率を上げる、右クリックのヒントとコツ](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags - パーソナルアシスタント](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 管理 {#administration}
       + 主な管理スキル {#key-admin-skills}
-         + [権限を持つコミュニティの作成](/help/analytics/administration/key-admin-skills/empowered-community.md)
-         + [ユーザートレーニングを簡素化し時間を短縮](/help/analytics/administration/key-admin-skills/simplify-training-users.md)
-         + [テーブルの席を確保する](/help/analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-         + [データを伴う影響力のあるストーリーの伝達](/help/analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
-         + [翻訳中 [!DNL Adobe Analytics] 専門的でない方法での専門用語](/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-         + [部門横断的な働き方](/help/analytics/administration/key-admin-skills/working-cross-functionally.md)
+         + [権限を持つコミュニティの作成](../analytics/administration/key-admin-skills/empowered-community.md)
+         + [ユーザートレーニングを簡素化し時間を短縮](../analytics/administration/key-admin-skills/simplify-training-users.md)
+         + [テーブルの席を確保する](../analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+         + [データを伴う影響力のあるストーリーの伝達](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
+         + [翻訳中 [!DNL Adobe Analytics] 専門的でない方法での専門用語](../analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+         + [部門横断的な働き方](../analytics/administration/key-admin-skills/working-cross-functionally.md)
       + 管理に関するヒントとベストプラクティス {#admin-tips}
-         + [ 継承された実装プレイブックをダウンロードします。](/help/analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-         + [標準化された命名規則の作成](/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md)
-         + [標準化されたコードテンプレートの作成](/help/analytics/administration/admin-tips/create-standardized-code-templates.md)
-         + [基本的なビデオとトレーニングの作成](/help/analytics/administration/admin-tips/create-basic-videos-and-training.md)
-         + [内部を作成 [!DNL Adobe Analytics] サイト](/help/analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-         + [グローバルレポートスイートの使用](/help/analytics/administration/admin-tips/use-a-global-report-suite.md)
-         + [ニュースとお知らせのプロジェクトを作成](/help/analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
-         + [エグゼクティブサマリダッシュボードで成功を推進](/help/analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-         + [操作ダッシュボードを作成](/help/analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [ 継承された実装プレイブックをダウンロードします。](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+         + [標準化された命名規則の作成](../analytics/administration/admin-tips/create-standardized-naming-conventions.md)
+         + [標準化されたコードテンプレートの作成](../analytics/administration/admin-tips/create-standardized-code-templates.md)
+         + [基本的なビデオとトレーニングの作成](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
+         + [内部を作成 [!DNL Adobe Analytics] サイト](../analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+         + [グローバルレポートスイートの使用](../analytics/administration/admin-tips/use-a-global-report-suite.md)
+         + [ニュースとお知らせのプロジェクトを作成](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
+         + [エグゼクティブサマリダッシュボードで成功を推進](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+         + [操作ダッシュボードを作成](../analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [データ文化の構築と優れたソリューションデザインリファレンス](../analytics/administration/admin-tips/better-sdr.md)
 + [!DNL Campaign] あなたによって {#campaign}
    + [概要](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
