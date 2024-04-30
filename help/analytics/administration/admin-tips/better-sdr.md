@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # データ文化の構築と優れたソリューションデザインリファレンス
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 ***プレビューダッシュボード***
 
 1. ファネルマップをガイドとして使用し、モックアップのダッシュボードを作成します。
-1. エグゼクティブサマリーダッシュボードや各ファネルのダッシュボードなど、全体的なビューが必要です。
+1. 次のような全体的なビューが必要です [エグゼクティブサマリーダッシュボード](driving-success-with-executive-summary-dashboards.md)各ファネルの、およびダッシュボード。
 1. また、製品パフォーマンスやコンテンツのパフォーマンスなど、サイトやアプリに固有のものもあります。
 1. これらを関連する関係者に配布し、設計に関するフィードバックを取得します。
 1. 要求された更新を行い、新しい指標やディメンションが必要な場合は、SDR に追加します。
@@ -112,4 +112,3 @@ ht-degree: 0%
 Gitai Ben-Ammi 氏（アクセンチュア、ビジネスアーキテクチャアソシエイトマネージャー）
 
 Adobe Analytics チャンピオン
-
