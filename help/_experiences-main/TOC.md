@@ -2,10 +2,10 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: アドビの顧客生成コンテンツ
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 61%
+source-wordcount: '358'
+ht-degree: 60%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 61%
          + [エグゼクティブサマリダッシュボードで成功を推進](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [操作ダッシュボードを作成](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [データ文化の構築と優れたソリューションデザインリファレンス](../analytics/administration/admin-tips/better-sdr.md)
+   + 実装 {#implementation}
+      + [Web SDK 実装の戦略的ガイド](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] あなたによって {#campaign}
    + [概要](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
