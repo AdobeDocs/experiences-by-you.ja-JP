@@ -1,11 +1,11 @@
 ---
 user-guide-title: ユーザーによる Experience
-user-guide-description: アドビの顧客生成コンテンツ
+user-guide-description: 顧客生成コンテンツのAdobe
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
+source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 60%
+ht-degree: 6%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 60%
          + [アトリビューションパネルとルックバックウィンドウについて](../analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + ビジュアライゼーション {#visualizations}
          + [ヒストグラムを使用したインサイトのロック解除](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-         + [言葉以上のこと - テキストビジュアライゼーションと説明の使用](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-         + [コホート分析を使用して顧客行動を把握](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+         + [単語以上 – テキストビジュアライゼーションと説明の使用](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+         + [コホート分析を使用した顧客行動の把握](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
       + セグメント {#segmentation}
          + [カスタマージャーニーセグメントの作成](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [カスタマージャーニーセグメントの作成 – 第 2 部](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [セグメントビルダーとクイックセグメントの違い](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-         + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [セグメント化を使用して新しいインサイトを見つけてください](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
          + [カーテンの背後にある魔法 – 複雑なセグメント](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 指標 {#metrics}
          + [Excel から計算指標への移行](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
@@ -40,25 +40,25 @@ ht-degree: 60%
          + [分析インサイトのロック解除；注釈の機能の活用](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + ヒントとテクニック {#tips-and-tricks}
          + [ワークフローの効率を上げる、右クリックのヒントとコツ](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags - パーソナルアシスタント](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+         + [タグ – パーソナルアシスタント](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 管理 {#administration}
       + 主な管理スキル {#key-admin-skills}
          + [権限を持つコミュニティの作成](../analytics/administration/key-admin-skills/empowered-community.md)
-         + [ユーザートレーニングを簡素化し時間を短縮](../analytics/administration/key-admin-skills/simplify-training-users.md)
+         + [ユーザーのトレーニングをシンプル化し、時間を短縮](../analytics/administration/key-admin-skills/simplify-training-users.md)
          + [テーブルの席を確保する](../analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
          + [データを伴う影響力のあるストーリーの伝達](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
          + [翻訳中 [!DNL Adobe Analytics] 専門的でない方法での専門用語](../analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
          + [部門横断的な働き方](../analytics/administration/key-admin-skills/working-cross-functionally.md)
       + 管理に関するヒントとベストプラクティス {#admin-tips}
-         + [ 継承された実装プレイブックをダウンロードします。](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+         + [実装プレイブックのダウンロード](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
          + [標準化された命名規則の作成](../analytics/administration/admin-tips/create-standardized-naming-conventions.md)
          + [標準化されたコードテンプレートの作成](../analytics/administration/admin-tips/create-standardized-code-templates.md)
          + [基本的なビデオとトレーニングの作成](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
          + [内部を作成 [!DNL Adobe Analytics] サイト](../analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
          + [グローバルレポートスイートの使用](../analytics/administration/admin-tips/use-a-global-report-suite.md)
-         + [ニュースとお知らせのプロジェクトを作成](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
-         + [エグゼクティブサマリダッシュボードで成功を推進](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-         + [操作ダッシュボードを作成](../analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [ニュースとお知らせプロジェクトの作成](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
+         + [エグゼクティブサマリーダッシュボードで成功を推進](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+         + [運用ダッシュボードの作成](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [データ文化の構築と優れたソリューションデザインリファレンス](../analytics/administration/admin-tips/better-sdr.md)
    + 実装 {#implementation}
       + [Web SDK 実装の戦略的ガイド](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
@@ -67,17 +67,17 @@ ht-degree: 60%
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
       + [ワークフローのベストプラクティス](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
    + [!DNL Campaign Standard] {#campaign-standard}
-      + [マーケター向けトラブルシューティング](/help/campaign/acs/troubleshooting-for-marketers.md)
+      + [マーケター向けのトラブルシューティング](/help/campaign/acs/troubleshooting-for-marketers.md)
    + 戦略とソートリーダーシップ{#strategy}
       + [の 10 のベストプラクティス [!DNL Adobe Campaign] マーケター向けの成功](/help/campaign/10-best-practices-for-marketers.md)
 + あなたによるExperience Manager {#experience-manager}
    + [概要](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
-      + [AEM Sites の成熟度評価](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
+      + [AEM Sites成熟度評価](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
       + ベストプラクティス {#sites-best-practices}
          + [AEM チャンピオンのヒントとテクニック：セッション 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
          + [AEM チャンピオンのヒントとテクニック：セッション 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
-   + AEM as a Cloud Service {#cloud-service}
+   + AEMas a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] オンボーディングプレイブック](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] 環境タイプ](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
