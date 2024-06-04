@@ -2,9 +2,9 @@
 user-guide-title: ユーザーによる Experience
 user-guide-description: 顧客生成コンテンツのAdobe
 breadcrumb-title: ユーザーによる Experience
-source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
+source-git-commit: fdff1bbb525abf98e8923d6bff327470e09b32a0
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '367'
 ht-degree: 6%
 
 ---
@@ -91,6 +91,7 @@ ht-degree: 6%
    + [概要](/help/marketo/overview.md)
    + 基本 {#fundamentals}
       + [UI のナビゲート](/help/marketo/fundamentals/ui-navigation.md)
+      + [新しいインスタンスを実装するためのヒントとテクニック](https://experienceleague.adobe.com/docs/experiences-by-you/implenting-new-instance/overview.html)
       + [継承されたインスタンスの監査 – チュートリアル](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
    + プログラムとキャンペーン {#programs-and-campaigns}
       + [メールプログラム](/help/marketo/programs/email-programs.md)
