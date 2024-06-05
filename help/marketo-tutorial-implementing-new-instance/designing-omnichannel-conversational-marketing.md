@@ -8,13 +8,13 @@ solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
+source-git-commit: 80553c5127afda315e97183e0d3b160871352183
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%
 
 ---
-
 
 # Dynamic Chatを使用したオムニチャネルインタラクティブマーケティングのデザイン
 
@@ -119,7 +119,7 @@ Sara がプロセスを紹介するように、これらのユースケースを
 
 #### フェーズ 1
 
-進行中のキャンペーン使用のための「イベント登録」ダイアログ用のテンプレートを作成します。
+1. 進行中のキャンペーン使用のための「イベント登録」ダイアログ用のテンプレートを作成します。
 
 #### フェーズ 2
 
