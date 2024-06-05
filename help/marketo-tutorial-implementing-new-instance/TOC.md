@@ -2,15 +2,15 @@
 user-guide-title: チュートリアル – 新規実装のヒントとテクニック [!DNL Marketo Engage] instance
 user-guide-description: チュートリアル – 新規実装のヒントとテクニック [!DNL Marketo Engage] instance
 breadcrumb-title: チュートリアル – 新規実装のヒントとテクニック [!DNL Marketo Engage] instance
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-engage/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
+source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '94'
 ht-degree: 2%
 
 ---
@@ -28,3 +28,4 @@ ht-degree: 2%
 + [Dynamic Chatを使用したオムニチャネルインタラクティブマーケティングのデザイン](./designing-omnichannel-conversational-marketing.md)
 + [インスタンスガバナンスとドキュメントの概要](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] チュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
++ [[!DNL Marketo Engage] あなたによって](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
