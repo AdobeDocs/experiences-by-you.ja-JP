@@ -1,21 +1,21 @@
 ---
-title: エクスペリエンス — 自分別
-description: 同じAdobeのお客様から、アプリケーションや機能の使用方法をExperience Cloudします。
+title: ユーザーによる Experience
+description: Adobeの仲間のお客様から、Experience Cloudアプリケーションの使用方法と機能について説明します。
 role: User, Developer, Admin, Data Architect
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 10bf432c85cabe2f131aad05da42b5b1c0af467f
+source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 13%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# ユーザー別のエクスペリエンス：ユーザー別のリソース。
+# Experience by You: ユーザー別のリソース（ユーザー向け）。
 
-～に関して最も強力なこと [!DNL Adobe] デジタルエクスペリエンス (DX) ソリューション あなた。 製品を取り込み、掘り下げ、素晴らしい革新的な方法で適用して、有意義なエクスペリエンスと成果を生み出すユーザー。 _エクスペリエンス — 自分別_ 専門知識と影響力を身に付けた日々のユーザーが作成したコンテンツを特集 [!DNL Adobe] DX ソリューション このピアツーピアの知識は、コラボレーションと発見を促し、製品の専門知識を向上させるために必要なインスピレーションを見つけ出すために、お客様と他のユーザーを可能にします。
+関する最も強力なもの [!DNL Adobe] デジタルエクスペリエンス（DX）ソリューション？ あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 _あなたによる体験_ 高度な専門知識と影響力を持つ日常のユーザーが作成したコンテンツを使用できます [!DNL Adobe] DX ソリューション このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ ht-degree: 13%
     </a>
     </div>
     <p>
-    <em>で使用できるヒント [!DNL Analysis Workspace] を使用して、ワークフローをより効率的にします。</em>
+    <em>で使用できるヒント [!DNL Analysis Workspace] を使用すると、ワークフローを効率化できます。</em>
     <p>
   </td>
   <td>
@@ -53,7 +53,7 @@ ht-degree: 13%
     </a>
     </div>
     <p>
-    <em>A/B テストを使用して電子メールプログラムを作成する手順を示すチュートリアルです。</em>
+    <em>A/B テストを使用してメールプログラムを作成する方法を説明するステップバイステップチュートリアル</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ ht-degree: 13%
     </a>
     </div>
     <p>
-    <em>オンボーディングプレイブックは、新しい管理者および開発者としての役割を担うのに役立ちます。 [!DNL AEM as a Cloud Service].</em>
+    <em>オンボーディングプレイブックは、の新しい管理者および開発者として使用する際に役立ちます [!DNL AEM as a Cloud Service].</em>
     <p>
   </td>
 </tr>
@@ -77,5 +77,6 @@ ht-degree: 13%
 
 * [Experience Leagueコミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
 * [Experience Cloud ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
-* [Experience Cloud チュートリアル](https://experienceleague.adobe.com/?lang=jadocs/home-tutorials.html)
+* [Experience Cloud チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)
 * [business.adobe.com](https://business.adobe.com)
+
