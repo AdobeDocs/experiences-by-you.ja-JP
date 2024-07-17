@@ -1,6 +1,6 @@
 ---
-title: 次に移動： [!DNL Marketo Engage] ユーザーインターフェイス
-description: ' [!DNL Marketo Engage]  プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。'
+title: ユーザーインターフェイス  [!DNL Marketo Engage]  の操作
+description: プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明  [!DNL Marketo Engage]  ます。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ feature: Modern UX
 exl-id: b1bb3d32-bbf3-48e5-999b-102ddd501124
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 42%
+source-wordcount: '68'
+ht-degree: 29%
 
 ---
 
-# 次に移動： [!DNL Marketo Engage] ユーザーインターフェイス
+# [!DNL Marketo Engage] ユーザーインターフェイスの操作
 
 [!DNL Marketo Engage] プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。
 
@@ -26,7 +26,7 @@ ht-degree: 42%
 
 ## その他のリソース
 
-* [[!DNL Marketo Engage] 用語集](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
-Marketoを使用する際に遭遇する可能性のある多くの用語の定義です。
-* [アイコンの用語集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
-のアイコンの用語集 [!DNL Marketo Engage] インターフェイス。
+* [[!DNL Marketo Engage]  用語集 ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+Marketoの使用時に発生する可能性のある多くの用語に関する定義。
+* [ アイコン用語集 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+[!DNL Marketo Engage] インターフェイスのアイコンの用語集。

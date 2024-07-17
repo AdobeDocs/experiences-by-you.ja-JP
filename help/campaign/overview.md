@@ -10,13 +10,13 @@ exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 27%
+ht-degree: 26%
 
 ---
 
-# [!DNL Campaign] ユーザー別：ユーザー別のリソース。
+# [!DNL Campaign] by You: ユーザー別のリソース（ユーザー用）。
 
-～に関して最も強力なこと [!DNL Adobe] Experience Cloud解決？ あなた。 製品を取り込み、掘り下げ、素晴らしい革新的な方法で適用して、有意義なエクスペリエンスと成果を生み出すユーザー。 エクスペリエンス：日常のユーザーが自分の経験に基づいて、一定のレベルの専門知識と影響力を持つ日々のユーザーが作成したコンテンツを提供します。 [!DNL Adobe] Experience Cloudソリューション。 このピアツーピアの知識は、コラボレーションと発見を促し、製品の専門知識を向上させるために必要なインスピレーションを見つけ出すために、お客様と他のユーザーを可能にします。
+Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 エクスペリエンスの特徴は、[!DNL Adobe] しいExperience Cloudソリューションで一定の専門知識と影響力を獲得した日常的なユーザーが作成したコンテンツです。 このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -33,11 +33,11 @@ ht-degree: 27%
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="マーケター向けワークフローのベストプラクティス上位 5 件" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="マーケター向けのワークフローのベストプラクティス上位 5 件" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-    <strong>マーケター向けワークフローのベストプラクティス上位 5 件</strong>
+    <strong> マーケター向けのワークフローのベストプラクティス上位 5 件 </strong>
     </a>
     </div>
     <p>
@@ -50,7 +50,7 @@ ht-degree: 27%
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>マーケター向けのトラブルシューティング：5 つの一般的なワークフローと配信エラー</strong>
+    <strong> マーケター向けのトラブルシューティング：ワークフローと配信に関する 5 つの一般的なエラー </strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ ht-degree: 27%
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>マーケター向けAdobe Campaign成功のベストプラクティス 10 件</strong>
+    <strong> マーケター向けのAdobe Campaign成功のベストプラクティス 10 件 </strong>
     </a>
     </div>
     <p>
@@ -77,8 +77,8 @@ ht-degree: 27%
 
 ## その他のリソース
 
-* [Experience LeagueAdobe Campaignコミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
-* Adobe Campaign v8 -  [ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
-* Adobe Campaign Classic v7 - [ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
-* Adobe Campaign Standard - [ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
-* [Adobe Campaignの製品情報](https://business.adobe.com/products/campaign/adobe-campaign.html?lang=ja)
+* [Adobe Campaign コミュニティのExperience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
+* Adobe Campaign v8 - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign Classic v7 - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign Standard - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
+* [Adobe Campaignの製品情報 ](https://business.adobe.com/products/campaign/adobe-campaign.html)

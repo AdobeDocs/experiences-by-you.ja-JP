@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
@@ -18,11 +19,11 @@ ht-degree: 2%
 
 # 新しいインスタンスの編成と命名規則の確立
 
-新しいMarketo Engageインスタンスを実装する管理者は、組織内の今後のマーケターがインスタンス内を簡単に移動できるように、基盤を構築します。 ツリーフォルダーの構造と命名規則に慣れることで、インスタンスを整頓し、長期的な成功に向けて設定できます。 このチュートリアルには、AdobeおよびMarketo Engageチャンピオン（2019～2020）の Natalie Kremer が推奨する例が含まれています [フォルダーを整理し、アセットに一貫した名前を付ける](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+新しいMarketo Engageインスタンスを実装する管理者は、組織内の今後のマーケターがインスタンス内を簡単に移動できるように、基盤を構築します。 ツリーフォルダーの構造と命名規則に慣れることで、インスタンスを整頓し、長期的な成功に向けて設定できます。 このチュートリアルには、AdobeおよびMarketo Engageチャンピオン（2019～2020）の Natalie Kremer が推奨する例が含まれており、[ フォルダーを整理し、アセットに一貫した名前を付ける ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"} のに役立ちます。
 
 ## フォルダーの構造化と命名規則の適用が必要な理由
 
-インスタンス内で整理しておくことで、自分自身や同僚がキャンペーン、プログラム、アセットを追跡したり、プログラムのパフォーマンスをレポートしたりすることが容易になります。 インスタンスでナビゲーションツリーを整理し、大規模に構築するには、を使用することをお勧めします [フォルダー](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [標準命名規則](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}などの機能があります [複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+インスタンス内で整理しておくことで、自分自身や同僚がキャンペーン、プログラム、アセットを追跡したり、プログラムのパフォーマンスをレポートしたりすることが容易になります。 インスタンス内のナビゲーションツリーを整理し、大規模に構築するには、[ フォルダー ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[ 標準の命名規則 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、および [ クローン作成 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"} などの機能を使用することをお勧めします。
 
 ## Marketo Engageインスタンスの整理方法
 
@@ -30,7 +31,7 @@ ht-degree: 2%
 
 ### 手順 1 - プログラムを整理するためのフォルダー構造の設定
 
-インスタンスを整理する最初の手順は次のとおりです。 [フォルダー構造の設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) プログラムとアセットを簡単に見つけて整然と格納します。
+インスタンスを整理する最初の手順は、[ フォルダー構造を設定 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) し、プログラムとアセットを見つけやすく整然と格納することです。
 
 ツリー内のフォルダーを構造化する際のクイックヒントを次に示します。
 
@@ -47,15 +48,15 @@ ht-degree: 2%
 
 >[!TAB マーケティングアクティビティ]
 
-![フォルダーのマーケティングアクティビティ](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
+![ フォルダーマーケティングアクティビティ ](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
->[!TAB デザインスタジオ]
+>[!TAB Design Studio]
 
-![フォルダーデザイン スタジオ](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
+![Folder Design Studio](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
 >[!TAB データベース]
 
-![フォルダーデータベース](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
+![ フォルダーデータベース ](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
 
 >[!ENDTABS]
 
@@ -64,13 +65,13 @@ ht-degree: 2%
 次に、プログラムレベルでフォルダー構造を適用します。 ベストプラクティスとして、ローカルアセットをサブフォルダーに格納すると、プログラムを整理し、内部ユーザーがプログラムを効率的に変更またはレポートできるようになります。 一般的なサブフォルダーには、メール、ランディングページ、スマートキャンペーン、リスト、レポートなどが含まれます。
 
 **プログラム内のフォルダー名**
-* キャンペーン - *インタラクションとステータストラッキングを管理するすべてのキャンペーン用のフォルダー。*
-* ローカルアセット - *このプログラムに固有のすべてのアセット用のフォルダー。*
+* キャンペーン - *インタラクションとステータストラッキングを管理するすべてのキャンペーン用のフォルダー*
+* ローカル Assets - *このプログラムに固有のすべてのアセットのフォルダー*
    * メール
    * ランディングページ
    * スマートキャンペーン
    * リスト - *プログラム固有のリストがある場合にのみ必要です。*
-   * FORMS - *プログラム固有のFormsがある場合にのみ必要です。ほとんどのFormsはグローバルアセットです。*
+   * Forms - *プログラム固有のFormsがある場合にのみ必要です。ほとんどのFormsはグローバルAssetsです。*
    * レポート - *プログラム固有のレポートがある場合にのみ必要です。*
 
 ### 手順 3 - プログラムとアセットの命名規則の作成
@@ -86,7 +87,7 @@ ht-degree: 2%
 
 #### プログラム命名規則
 
-| **プログラムタイプの略語** | **YYYY** | **\-** | **MM** | **\-** | **DD （オプション）** | **カテゴリ** | **\-** | **プログラムの概要** |
+| **プログラムの種類の略称** | **YYYY** | **\-** | **MM** | **\-** | **DD （オプション）** | **カテゴリ** | **\-** | **プログラムの簡単な説明** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EM - メール送信（メールプログラム） | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
 | NL - ニュースレター | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
@@ -99,7 +100,7 @@ ht-degree: 2%
 | WC:Web サイト・コンテンツ | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
 | CS - コンテンツシンジケーション | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
 | LI - リスト インポート | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
-| OA - オンライン広告 | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
+| OA - オンラインAdvertising | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
 | PPC - クリック課金 | YYYY | \- | MM | \- | DD （オプション） | カテゴリ | \- | プログラムの概要 |
 
 | **例** |
@@ -137,7 +138,7 @@ ht-degree: 2%
 
 ##### アセットにアセットタイプの略語で名前を付ける
 
-| **アセットタイプの略語** | **アセットタイプ** | **\-** | **目標の説明** |
+| **資産の種類の略称** | **アセットタイプ** | **\-** | **目標の説明** |
 | --- | --- | --- | --- |
 | LP - ランディングページ | LP | \- | 目標の説明 |
 | メール – メール（アウトバウンド） | EMAIL | \- | 目標の説明 |
@@ -159,7 +160,7 @@ ht-degree: 2%
 
 ##### ダウンロード可能なファイル（.pdf）にアセットタイプの略称を付けます
 
-| **アセットタイプ** | **コンテンツの説明** | **\-** | **アセットタイプの略語** | **.** | **PDF** |
+| **アセットタイプ** | **コンテンツの説明** | **\-** | **資産の種類の略称** | **.** | **PDF** |
 | --- | --- | --- | --- | --- | --- |
 | WP – 白紙 | コンテンツの説明 | \- | WP | 。 | pdf |
 | CS – 導入事例 | コンテンツの説明 | \- | CS | 。 | pdf |
@@ -177,9 +178,9 @@ ht-degree: 2%
 
 ## 次の手順
 
-* ワークシートをダウンロードします。 [Marketo Engageの編成と命名規則](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} フォルダー構造と命名規則の作成をサポートします。
+* Marketo Engageー構造と命名規則の作成をサポートするために、[Folder Organization and Naming Conventions](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} をダウンロードします。
 * 標準の命名規則で必要なコンポーネントを決定したら、Google Sheet またはMicrosoft Excel に式を構築することを検討してください。 今後の使用のために、スプレッドシートに値を入力するだけでプログラム名を生成できます。
-* フォルダー構造全体に合わせたら、最も頻繁な使用例と、チームが受け取る最も一般的なリクエストに基づいて、必要なテンプレートを検討します。 次に、最初のプログラムテンプレートの作成を開始します。 を読んで、基本を学ぶ [Adobe Marketo Engage プログラムテンプレート](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* フォルダー構造全体に合わせたら、最も頻繁な使用例と、チームが受け取る最も一般的なリクエストに基づいて、必要なテンプレートを検討します。 次に、最初のプログラムテンプレートの作成を開始します。 以下では、[Adobe Marketo Engage プログラムテンプレート ](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"} の基本を学びます。
 
 ### 作成者
 

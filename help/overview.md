@@ -15,7 +15,7 @@ ht-degree: 9%
 
 # Experience by You: ユーザー別のリソース（ユーザー向け）。
 
-関する最も強力なもの [!DNL Adobe] デジタルエクスペリエンス（DX）ソリューション？ あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 _あなたによる体験_ 高度な専門知識と影響力を持つ日常のユーザーが作成したコンテンツを使用できます [!DNL Adobe] DX ソリューション このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
+デジタルエクスペリエ [!DNL Adobe] ス（DX）ソリューションの中で最も強力なのは、 あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 _Experience by You_ では、[!DNL Adobe] しい DX ソリューションで高度な専門知識と影響力を獲得した日常的なユーザーが作成したコンテンツを使用します。 このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ ht-degree: 9%
     </a>
     </div>
     <p>
-    <em>で使用できるヒント [!DNL Analysis Workspace] を使用すると、ワークフローを効率化できます。</em>
+    <em> ワークフローの効率を上げるために [!DNL Analysis Workspace] で使用できるヒント。</em>
     <p>
   </td>
   <td>
@@ -53,12 +53,12 @@ ht-degree: 9%
     </a>
     </div>
     <p>
-    <em>A/B テストを使用してメールプログラムを作成する方法を説明するステップバイステップチュートリアル</em>
+    <em>A/B テストを使用してメールプログラムを作成する方法を説明するステップバイステップのチュートリアル </em>
     <p>
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="AEMas a Cloud Serviceオンボーディングプレイブック" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="AEM as a Cloud Service オンボーディングプレイブック" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
@@ -66,7 +66,7 @@ ht-degree: 9%
     </a>
     </div>
     <p>
-    <em>オンボーディングプレイブックは、の新しい管理者および開発者として使用する際に役立ちます [!DNL AEM as a Cloud Service].</em>
+    <em> オンボーディングプレイブックは、[!DNL AEM as a Cloud Service] の新しい管理者および開発者として使用する際に役立ちます。</em>
     <p>
   </td>
 </tr>
@@ -75,7 +75,7 @@ ht-degree: 9%
 
 ## その他のリソース
 
-* [Experience Leagueコミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
+* [Experience Leagueコミュニティ ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
 * [Experience Cloud ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
 * [Experience Cloud チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)
 * [business.adobe.com](https://business.adobe.com)

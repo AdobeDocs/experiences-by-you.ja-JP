@@ -1,6 +1,6 @@
 ---
-title: AEMチャンピオンのヒントとテクニック — Cloud Manager でのログの使用
-description: 仲間のAEMチャンピオン、Rami EL Gamal からのヒントをご覧ください。 このビデオでは、Rami が Cloud Manager でログをダウンロードする方法を説明する一方で、ベストプラクティスのヒントも共有します。
+title: AEM チャンピオンのヒントとテクニック - Cloud Managerでのログの使用
+description: AEM チャンピオン仲間の Rami EL Gamal 氏からのヒントをご覧ください。このビデオでは、Cloud Managerでログをダウンロードする方法を説明すると同時に、ベストプラクティスのヒントを紹介します。
 version: Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Experience Manager
@@ -13,16 +13,16 @@ duration: 457
 last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-14962
 thumbnail: 3427314.jpeg
-source-git-commit: 2997601d889a278e00ddff5148096768b1c35e62
+exl-id: 19ee2bf4-80e5-4242-b0fa-fa7a7bea8c4d
+source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 
+# AEM チャンピオンのヒントとテクニック - Cloud Managerでのログの使用
 
-# AEMチャンピオンのヒントとテクニック — Cloud Manager でのログの使用
-
-仲間のAEMチャンピオン、Rami EL Gamal からのヒントをご覧ください。 このビデオでは、Rami が Cloud Manager でログをダウンロードする方法を説明する一方で、ベストプラクティスのヒントも共有します。
+AEM チャンピオン仲間の Rami EL Gamal 氏からのヒントをご覧ください。このビデオでは、Cloud Managerでログをダウンロードする方法を説明すると同時に、ベストプラクティスのヒントを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427492/?learn=on)

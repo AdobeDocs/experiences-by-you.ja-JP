@@ -13,7 +13,7 @@ solution: Marketo Engage
 exl-id: 6bd2433a-ec79-4ce6-873c-4c897c4b9f82
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '56'
 ht-degree: 25%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 25%
 ## その他のリソース
 
 詳しくは、関連する製品ガイドを参照してください。
-* [エンゲージメントプログラムについてドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [ エンゲージメントプログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
 
-エンゲージメントプログラムの使用方法について、同業者から学ぶ：
-* [エキスパートカスタマーブログ投稿：エンゲージメントプログラム](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
+同僚からエンゲージメントプログラムの使用方法を学ぶ：
+* [ エキスパートのお客様のブログ投稿：エンゲージメントプログラム ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

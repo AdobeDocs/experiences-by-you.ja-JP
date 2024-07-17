@@ -9,13 +9,13 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
-
 
 # 新しいMarketo Engageの導入に向けた計画
 
@@ -38,8 +38,8 @@ ht-degree: 5%
 
 ### フェーズ 3 - プログラムライブラリの作成とキャンペーンの設定
 
-- メールテンプレートとランディングページの開発。 の概要 [読み込み，スタータープログラム](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) から [プログラム インポート ライブラリ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
-- セグメント化ルールとパーソナライゼーションルールの設定
+- メールテンプレートとランディングページの開発。 [ プログラムのインポート ライブラリ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) から [ スタータープログラムのインポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview) を開始します。
+- セグメント化ルールとPersonalization ルールの設定
 - リードジェネレーションと育成のための初期キャンペーンの作成
 
 ### フェーズ 4 - トレーニングとユーザーの採用
@@ -88,7 +88,7 @@ ht-degree: 5%
         <li>SPF/DKIM </li> 
         <li>Web ドメインの設定</li> 
         <li>CNAME</li> 
-        <li>メール配信品質</li>
+        <li>メールの配信品質</li>
         </td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
 
 新しい実装プロジェクトの計画とタイムラインを作成します。 以下は、サンプルマイルストーン、タスク、担当チーム、期限、依存関係のセクションを含む、サンプルプロジェクトタイムラインです。 これを使用すると、Marketo Engage導入ジャーニーを合理化し、組織全体でロールアウトを成功に導くことができます。
 
-また、特定のマイルストーンタスクの編集と追跡のための例をダウンロードすることもできます [こちら](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+また、特定のマイルストーンタスクの編集と追跡の例をダウンロードすることもできます [ こちら ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx)。
 
 <table>
  <thead>
@@ -158,14 +158,14 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
     </tr>
     <tr>
         <td rowspan="2">技術的セットアップ</td>
-        <td><em>例 – </em> MunchkinID を会社の web サイトにインストールします</td>
+        <td><em> 例 </em> – 会社の web サイトに MunchkinID をインストールします</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>9/5/24</td>
         <td>9/12/24</td>
         <td>Web 開発チーム</td>
     </tr>
     <tr>
-        <td><em>例 – </em> 配信品質とメールトラッキングリンクのために、Domain Keys Identified Mail （DKIM）と 2 つの個別の CNAME を設定します。</td>
+        <td><em> 例 </em> 配信品質とメールトラッキングリンク用に、Domain Keys Identified Mail （DKIM）と 2 つの個別の CNAME を設定します。</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>9/15/24</td>
         <td>9/18/24</td>
@@ -173,28 +173,28 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
     </tr>
     <tr>
         <td rowspan="4">Adobe Admin Consoleと管理設定</td>
-        <td><em>例 – </em> Marketo Engageのユーザーと役割の作成</td>
+        <td><em> 例 – </em> Marketo Engageのユーザーとロールを作成する</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
         <td>Marketo Engageへのアクセスが必要なユーザーに関するマーケティングチームからの情報。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> Adobe Admin Consoleでの追加のMarketo Engage製品管理者の作成</td>
+        <td><em> 例 – </em> Adobe Admin ConsoleでMarketo Engageの Product Admin を追加します。</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
         <td>Marketo Engageに対する管理者アクセス権を必要とするユーザーに関する、マーケティング運営チームからの情報。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> サポート管理者の設定</td>
+        <td><em> 例 – </em> サポート管理者の設定</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
         <td>サポートの主要連絡先を確認するためのマーケティング運営チームからの情報。 サポート管理者ユーザーを割り当てるためのシステム管理者からのサポート。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> フォルダー構造と命名規則の定義</td>
+        <td><em> 例 – </em> フォルダー構造と命名規則の定義</td>
         <td bgcolor="c6f0cf">Complete</td>
         <td>9/7/24</td>
         <td>9/12/24</td>
@@ -202,14 +202,14 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
     </tr>
     <tr>
         <td rowspan="2">CRM 統合（該当する場合）</td>
-        <td><em>例 – </em> 同期前にフィールドマッピングを決定</td>
+        <td><em> 例 – </em> 同期前のフィールドマッピングの特定</td>
         <td bgcolor="ffeb9c">処理中</td>
         <td>10/22/24</td>
         <td>なし</td>
         <td>CRM 管理者のサポートにより、使用可能なフィールドを把握できます。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> データ監査の実施</td>
+        <td><em> 例 </em> データ監査の実施</td>
         <td bgcolor="ffeb9c">処理中</td>
         <td>10/26/24</td>
         <td>なし</td>
@@ -217,28 +217,28 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
     </tr>
     <tr>
         <td rowspan="2">運用プログラム ビルド</td>
-        <td><em>例 – </em> 受信データを標準化するプログラムの作成</td>
+        <td><em> 例 </em> 受信データを標準化するプログラムを作成する</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>11/9/24</td>
         <td>なし</td>
         <td>営業運用チームおよび CRM チームによるデータ管理戦略の決定のサポート。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> メールサブスクリプションセンターの作成</td>
+        <td><em> 例 – </em> メールサブスクリプションセンターの作成</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>11/19/24</td>
         <td>なし</td>
         <td>マーケティングチームからの、メーリングリストのコンテンツタイプとセグメント化に関する入力。</td>
     <tr>
         <td rowspan="2">最初のマーケティングプログラムビルド</td>
-        <td><em>例 – </em> 基本的な電子メールプログラムの設定</td>
+        <td><em> 例 – </em> 基本的な電子メールプログラムの設定</td>
         <td bgcolor="ffeb9c">処理中</td>
         <td>11/12/24</td>
         <td>なし</td>
         <td>メールおよびランディングページ用のデジタルチームのクリエイティブアセット。</td>
     </tr>
     <tr>    
-        <td><em>例 – </em> 四半期ニュースレター用のプログラムを作成</td>
+        <td><em> 例 – </em> 四半期ニュースレター用のプログラムを作成する</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>11/30/24</td>
         <td>なし</td>
@@ -246,14 +246,14 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
     </tr>
     <tr>
         <td rowspan="2">LaunchPoint 統合のセットアップ</td>
-        <td><em>例 – </em> API のみのユーザーおよび役割の作成</td>
+        <td><em> 例 </em> API のみのユーザーと役割を作成する</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>11/23/24</td>
         <td>   </td>
         <td>マーケティングチームを使用して、新しいインスタンスに必要なサービスの範囲を設定します。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> Google Ads のカスタムサービスの作成</td>
+        <td><em> 例 </em> Google Ads のカスタムサービスを作成する</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>12/7/24</td>
         <td>   </td>
@@ -262,27 +262,27 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
     </tr>
     <tr>
         <td rowspan="2">ユーザートレーニングとドキュメント</td>
-        <td><em>例 – </em> 内部ユーザー用のガバナンスガイドの作成</td>
+        <td><em> 例 </em> 内部ユーザー用のガバナンスガイドの作成</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>12/2/24</td>
         <td>なし</td>
         <td>Marketo Engageガバナンスチームを作成して、ガバナンスに関する補助的なドキュメントを作成したり、ガバナンスプロジェクトを縮小するための予算を編成したりします。</td>
     <tr>
-        <td><em>例 – </em> 4 人のユーザーのトレーニングと、標準のMarketo ユーザーアクセスの提供</td>
+        <td><em> 例 </em> 4 人のユーザーのトレーニングと、標準のMarketo ユーザーアクセスの提供</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>12/13/24</td>
         <td>なし</td>
         <td>Marketo Engageへのアクセスにトレーニングを必須にするマーケティング担当副社長のサポート。</td>
     <tr>
         <td rowspan="2">Go-Live</td>
-        <td><em>例 – </em> 最初のニュースレターを送信</td>
+        <td><em> 例 – </em> 最初のニュースレターを送信する</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>12/9/24</td>
         <td>なし</td>
         <td>マーケティングオペレーションチームは、QA、スケジュール設定および送信をおこないます。</td>
     </tr>
     <tr>
-        <td><em>例 – </em> 最初のメールパフォーマンスレポートを取り込みます。</td>
+        <td><em> 例 – </em> 最初のメールのパフォーマンスレポートを取り込みます。</td>
         <td bgcolor="ffc7cf">開始されていません</td>
         <td>12/16/24</td>
         <td>なし</td>
@@ -294,7 +294,7 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
 >[!NOTE]
 >ここで示す例は、実際の実装タイムラインに基づいたものではありません。 実装はすべて、組織のニーズに応じて異なるマイルストーンと要件を持つため、Marketo Engageを使用したオンボーディングの標準タイムラインとしてこれらに依存しないでください。
 
-お使いのインスタンスに合わせてMarketo Engageを実装およびカスタマイズする際の支援については、Adobeアカウントチームに問い合わせるか、に連絡してください。 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+インスタンスにMarketo Engageを実装およびカスタマイズする際の手がかりとなる支援については、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} にお問い合わせください。
 
 ### 作成者
 

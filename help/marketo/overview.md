@@ -13,9 +13,9 @@ ht-degree: 16%
 
 ---
 
-# Marketo by You：ユーザー別のリソース。
+# Marketo by You: ユーザー別のリソース（ユーザー用）。
 
-～に関して最も強力なこと [!DNL Adobe] Experience Cloud解決？ あなた。 製品を取り込み、掘り下げ、素晴らしい革新的な方法で適用して、有意義なエクスペリエンスと成果を生み出すユーザー。 エクスペリエンス：日常のユーザーが自分の経験に基づいて、一定のレベルの専門知識と影響力を持つ日々のユーザーが作成したコンテンツを提供します。 [!DNL Adobe] Experience Cloudソリューション。 このピアツーピアの知識は、コラボレーションと発見を促し、製品の専門知識を向上させるために必要なインスピレーションを見つけ出すために、お客様と他のユーザーを可能にします。
+Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 エクスペリエンスの特徴は、[!DNL Adobe] しいExperience Cloudソリューションで一定の専門知識と影響力を獲得した日常的なユーザーが作成したコンテンツです。 このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,28 +32,28 @@ ht-degree: 16%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="次に移動： [!DNL Marketo Engage] ユーザーインターフェイス" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスの操作" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
-    <strong>次に移動： [!DNL Marketo Engage] ユーザーインターフェイス</strong>
+    <strong>[!DNL Marketo Engage] ユーザーインターフェイスの操作 </strong>
     </a>
     </div>
     <p>
-    <em>ユーザーインターフェイスを操作する方法と、 [!DNL Marketo Engage] プラットフォーム。</em>
+    <em>[!DNL Marketo Engage] プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。</em>
     <p>
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Reporting and Analytics" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="レポートと分析" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong>Reporting and Analytics</strong>
+    <strong> レポートと分析 </strong>
     </a>
     </div>
     <p>
-    <em>「 Analytics とデータベース」の節を操作して、標準の様々なレポートを取り込む方法を説明します。 [!DNL Marketo Engage].</em>
+    <em>[!DNL Marketo Engage] で「分析とデータベース」セクションを操作して様々な標準レポートを取り込む方法を説明します。</em>
     <p>
   </td>
   <td>
@@ -62,11 +62,11 @@ ht-degree: 16%
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
-    <strong>メールプログラム</strong>
+    <strong> メールプログラム </strong>
     </a>
     </div>
     <p>
-    <em>A/B テストを使用して電子メールプログラムを作成する方法については、この詳しい手順のチュートリアルをご覧ください。</em>
+    <em>A/B テストを使用してメールプログラムを作成する方法については、このステップバイステップチュートリアルをご覧ください。</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ ht-degree: 16%
 
 ## その他のリソース
 
-* [Marketo Nation（コミュニティ）](https://nation.marketo.com/)
-* [Adobe Marketo Engage Documentation](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Marketo民族（コミュニティ） ](https://nation.marketo.com/)
+* [Adobe Marketo Engage ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Adobe Marketo Engageの製品情報](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Adobe Marketo Engageの製品情報 ](https://business.adobe.com/products/marketo/adobe-marketo.html)

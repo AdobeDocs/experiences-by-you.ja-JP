@@ -1,7 +1,7 @@
 ---
-user-guide-title: チュートリアル – 新規実装のヒントとテクニック [!DNL Marketo Engage] instance
-user-guide-description: チュートリアル – 新規実装のヒントとテクニック [!DNL Marketo Engage] instance
-breadcrumb-title: 新しい実装のヒントとテクニック [!DNL Marketo Engage] instance
+user-guide-title: チュートリアル – 新しいインスタンスの実装に関するヒン  [!DNL Marketo Engage]  とテクニック
+user-guide-description: チュートリアル – 新しいインスタンスの実装に関するヒン  [!DNL Marketo Engage]  とテクニック
+breadcrumb-title: 新しいインスタンスを実装するためのヒン  [!DNL Marketo Engage]  とテクニック
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 2%
 ---
 
 
-# 新しい実装のヒントとテクニック [!DNL Marketo Engage] instance {#implementing-new-instance}
+# 新しい [!DNL Marketo Engage] インスタンスを実装するためのヒントとテクニック {#implementing-new-instance}
 
 + [チュートリアル – 概要](./overview.md)
 + [Marketo Engageを実施するための関係者の管理](./managing-stakeholder-communications.md)
@@ -28,4 +28,4 @@ ht-degree: 2%
 + [Dynamic Chatを使用したオムニチャネルインタラクティブマーケティングのデザイン](./designing-omnichannel-conversational-marketing.md)
 + [インスタンスガバナンスとドキュメントの概要](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] チュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
-+ [[!DNL Marketo Engage] あなたによって](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [[!DNL Marketo Engage]  あなた ](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)

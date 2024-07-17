@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # インスタンスガバナンスとドキュメントの概要
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 しかし、それだけにとどまりません。 Marketo Engageに対する習熟度を高めるために、補足的なイネーブルメント文書やトレーニング資料が必要になる場合があります。 これらのリソースには、インタラクティブな演習、アクセス用のクイズ、Marketo Engage内のすべてのMarketo Engageユーザーが恩恵を受ける組織内の許容可能なアクションに関するガイドラインが含まれます。 包括的なガバナンスガイドを作成する場合でも、最初に重要なセットアップ側面を文書化する場合でも、オンボーディング中に行われた意思決定を記録することが、現在のチームと将来の世代の新規雇用のMarketo Engageを確保するために重要です。
 
-このチュートリアルでは、ドキュメントとガバナンスの重要性を理解し、エキスパートピアからのベストプラクティスを詳しく説明します [Marketo Engageガバナンスおよびトレーニングドキュメントの概要](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} および [インスタンスのドキュメント化方法](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} プロセスを設定し、内部ユーザーに関連するドキュメントを保持するのに役立ちます。
+ドキュメントとガバナンスの重要性を理解することで、このチュートリアルでは専門家のドキュメント [Marketo Engageガバナンスおよびトレーニングドキュメントの基本を学ぶ ](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} や [ インスタンスのドキュメント化方法を学ぶ）からのベストプラクティスを詳しく説明します。プロセスを設定し、内部ユーザーに関連するドキュメントを保持するのに役立つ ](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} ールです。
 
 ## インスタンス実装時の変更と決定の文書化が不可欠な理由
 
@@ -68,12 +68,12 @@ ht-degree: 0%
    * 人物のライフサイクル
    * データ管理
 1. Marketo Engageインスタンスでのビルド
-   * [センターオブエクセレンス（COE）](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
+   * [ センターオブエクセレンス（COE） ](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
    * フォルダー構造
    * 命名規則
    * プログラム組織
    * プログラムテンプレート*
-   * Design Studio アセット（メールテンプレート、ランディングページテンプレート、スニペット、フォーム）
+   * Design Studio Assets（メールテンプレート、ランディングページテンプレート、スニペット、フォーム）
    * 標準化されたプロセス
    * Checklists
    * 分節
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ## 次の手順
 
-* をダウンロード [サンプルドキュメントと変更ログ](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) また、組織のニーズに基づいて調整できます。
+* [ サンプルドキュメントと変更ログ ](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) をダウンロードし、組織のニーズに基づいて変更してください。
 * 組織が定期的な参照や更新を希望するアクセス可能なプラットフォームに、ドキュメントを保存します。 例えば、一部のMarketo Engageチャンピオンは、Confluence （by Atlassian）または Excel スプレッドシートを使用しています。
 * ガバナンスのために作成したすべてのルールについて、そのルールを実施し、ドキュメントを適応させ、時間の経過と共に最新の状態に保つ所有者を確保します。
 
