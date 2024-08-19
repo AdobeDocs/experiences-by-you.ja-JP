@@ -1,5 +1,5 @@
 ---
-title: 継承されたインスタンスの監査に関するヒン  [!DNL Marketo Engage]  とテクニック
+title: 継承  [!DNL Marketo Engage]  インスタンスの監査に関するヒントとテクニック
 description: 継承したライブインスタンスを最適化およびスケール  [!DNL Marketo Engage]  る方法について説明します。
 solution: Marketo Engage
 feature-set: Marketo Engage
@@ -11,14 +11,14 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# 継承された [!DNL Marketo Engage] インスタンスの監査のヒントとテクニック – チュートリアルの概要
+# 継承された [!DNL Marketo Engage] インスタンスの監査に関するヒントとテクニック
 
 *Source: Adobe Marketo チャンピオン*
 

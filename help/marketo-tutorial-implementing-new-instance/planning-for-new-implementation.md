@@ -1,5 +1,5 @@
 ---
-title: 新しいMarketo Engageの導入に向けた計画
+title: 新しいMarketo Engageの導入を計画する
 description: 新しいMarketo Engageインスタンスを適切に実装するための基本的な計画および部門横断的なチームの共同作業について説明します。 このチュートリアルでは、シームレスなMarketo Engage実装のためのサンプルマイルストーン、チームエンゲージメント、リソース割り当てを提供します。
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
 
-# 新しいMarketo Engageの導入に向けた計画
+# 新しいMarketo Engageの導入を計画する
 
 新しいMarketo Engageインスタンスを導入するには、綿密な計画、チーム間のコラボレーション、継続的な最適化が必要です。 新しいインスタンスを導入するための完璧な方法はありませんが、事前に計画を立てることでプロセスがはるかにスムーズになることにご同意いただけるMarketo Engage管理者がほとんどです。
 

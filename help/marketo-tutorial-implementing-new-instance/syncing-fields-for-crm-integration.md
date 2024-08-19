@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
 
-# ネイティブ CRM コネクタ用のフィールドの同期
+# ネイティブ CRM コネクタのフィールドを同期
 
 組織内で Salesforce またはMicrosoft Dynamics を使用していますか？ その場合、Marketo Engageのネイティブ CRM コネクタ（Salesforce、Microsoft Dynamics、Veeva）を使用すると、Marketo Engageと CRM の間で関連情報をシームレスに共有することで、マーケティングとセールスアクティビティを調整できます。 最初の CRM 同期を設定する前に、Marketo Engageデータベースをクリーンな状態に保つために、2 つのシステム間で同期させるフィールドを特定してください。
 
@@ -31,7 +31,7 @@ Marketo Engageと CRM システムの間の初期同期により、既存のほ�
 
 初期同期を実行する前に CRM から同期したいフィールドを特定して整理することは、ネイティブコネクタのセットアッププロセスにおいて重要な手順です。 これをデータ要素の演習と呼びます。この演習では、作成される重複フィールドの数を最小限に抑え、後続の再マッピング手順をできるだけスムーズに行うことができます。 この演習には、通常、マーケティングチームやセールスチーム、CRM 管理者からの入力が含まれ、関連するフィールドのみがMarketo Engageインスタンスに同期されるようにします。
 
-## データ要素の作成方法
+## データディクショナリの作成
 
 通常、ベストプラクティスは、マーケティング目的で必要になる CRM フィールドのみを同期することです。 この演習から始めて、Marketo Engageにマッピングする必要がある CRM のフィールドを整理し、最初の CRM 同期を初めて正しく実行します。
 

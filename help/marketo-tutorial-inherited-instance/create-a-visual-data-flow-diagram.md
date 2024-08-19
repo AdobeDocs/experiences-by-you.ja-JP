@@ -1,5 +1,5 @@
 ---
-title: マーケティングテクニカルスタックを把握するための視覚的なデータフロー図を作成
+title: マーケティングテクニカルスタックを把握するためのデータフロー図の作成
 description: データユニバースを理解し、インスタンスを効率的に監査および整理するための「リードとデータソース」の図を作成する方法について説明します。
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# マーケティングテクニカルスタックを把握するための視覚的なデータフロー図を作成
+# マーケティングテクニカルスタックを把握するためのデータフロー図を作成
 
 何年も使用されている [!DNL Marketo Engage] インスタンスを引き継ぐ管理者にとって、インスタンスを効率的に監査して整理することは不可能なミッションのようなものです。 [!DNL Adobe] [!DNL Marketo Champion] （2019）の Kelly Jo Horton 氏は、長い歴史を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために [ 「リードとデータソースの図を作成 ](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Horton が共有した例を基に、独自のデータフロー図を作成する方法を学びます。 MarTech エコシステムについて説明します。
 

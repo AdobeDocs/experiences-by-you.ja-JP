@@ -11,14 +11,14 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# CRM 同期エラーをログに記録して、トラブルシューティングを容易にする
+# CRM 同期エラーをトラブルシューティング用にログ記録
 
 [!DNL Marketo Engage] 管理者は、インスタンスが CRM と同期しているかどうかを確認することが、「毎日のルーチン [ の重要な部分になるはず ](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} す。 [ 通知 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} セクション（[!DNL Marketo Engage] インターフェイスの右上隅にあります）では頻繁な同期の問題を見つけて調査しますが、インスタンスのヘルスを組織的に管理するのに役立つヒントが用意されています。 Marketo Champion （2019-2022）の [!DNL Adobe]、管理者ユーザーは、トラブルシューティングを容易にするために、CRM 同期エラーのログを保持することをお勧めします。
 

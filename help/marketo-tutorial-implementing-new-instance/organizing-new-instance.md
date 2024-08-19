@@ -1,5 +1,5 @@
 ---
-title: 新しいインスタンスの編成と命名規則の確立
+title: 新しいインスタンスの整理と命名規則の確立
 description: Marketo Engageインスタンス内に優れた組織を設定する方法を説明します。これにより、組織内の将来のマーケターがプログラム間を簡単に移動し、アセットを変更して、レポートを取り込めるようになります。
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
 
 ---
 
-# 新しいインスタンスの編成と命名規則の確立
+# 新しいインスタンスの整理と命名規則の確立
 
 新しいMarketo Engageインスタンスを実装する管理者は、組織内の今後のマーケターがインスタンス内を簡単に移動できるように、基盤を構築します。 ツリーフォルダーの構造と命名規則に慣れることで、インスタンスを整頓し、長期的な成功に向けて設定できます。 このチュートリアルには、AdobeおよびMarketo Engageチャンピオン（2019～2020）の Natalie Kremer が推奨する例が含まれており、[ フォルダーを整理し、アセットに一貫した名前を付ける ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"} のに役立ちます。
 

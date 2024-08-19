@@ -1,5 +1,5 @@
 ---
-title: Marketo Engageを実施するための関係者の管理
+title: 利害関係者の管理によるMarketo Engageの実装
 description: Marketo Engageインスタンスの実装時に関係者を効果的に管理するための戦略を説明します。 このチュートリアルでは、関係者のニーズを明らかにし、リーダーシップの賛同を得て、部門間でコミュニケーションを取って実装のサポートを求めるための実用的なヒントを提供します。
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Marketo Engageの導入は、MarTech スタックを拡大する重要な瞬間�
 </table>
 
 
-### アクション 3 – 早期の成果を示す
+### アクション 3 – 早期の勝利を示す
 
 迅速な成功やパイロットプロジェクトを紹介し、Marketo Engageの影響を示します。 これは、重要なエンゲージメントを促進するターゲットメールキャンペーンや、リード育成を合理化する自動ワークフローである可能性があります。 これらの成功を関係者と共有して、支持と熱意を強化します。
 
