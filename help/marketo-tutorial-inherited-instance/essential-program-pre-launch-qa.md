@@ -11,9 +11,9 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 286b85beb92a2563d9ec57696834a4ba2a205c73
 workflow-type: tm+mt
-source-wordcount: '4903'
+source-wordcount: '4898'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ QA プロセスを通じて考える際は、次の質問に回答してくだ�
 
 ## 次の手順
 
-[ ここ ] （/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx）をクリックして、カスタマイズ可能なプログラム起動前のチェックリストをダウンロードします。 これは、組織のワークフローに合わせて調整する必要があります。 効果的な QA プロセスを開発することで、責任を負い、顧客に対するミスを制限できます。
+[ ここ ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) をクリックして、編集可能なプログラムの起動前チェックリストをダウンロードし、カスタマイズします。 これは、組織のワークフローに合わせて調整する必要があります。 効果的な QA プロセスを開発することで、責任を負い、顧客に対するミスを制限できます。
 
 ### 作成者
 
