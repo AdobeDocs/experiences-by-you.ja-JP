@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
 # 新しい [!DNL Marketo Engage] インスタンスを実装するためのヒントとテクニック
 
-Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスを設定することは、マーケティング自動化を使用してデジタルマーケティング戦略を強化するための最初の手順です。 [!DNL Marketo Engage] の実装を成功させるための鍵は、ドキュメントです。
+Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスの設定は、マーケティング自動化でデジタルマーケティング戦略を強化するための最初の手順です。 [!DNL Marketo Engage] の実装を成功させるための鍵は、ドキュメントです。
 
-この _新しいインスタンスの導入に関するヒントとテクニック_ シリーズは、以前に導入を勝ち抜いたチャンピオン [!DNL Marketo Engage]Adobeを提供しています。 このチュートリアルでは、新しい管理者が実装プロジェクトを部門横断的に管理し、技術的な設定を独立して設定するためのステップバイステップのガイダンスを提供します。 また、ダウンロード可能なチェックリストやテンプレートには、選択的なトピックが付属しているので、ゼロから始めることなく独自のニーズに合わせてカスタマイズできます。 同業者の知恵を掘り下げましょう！
+この「新しいインスタンスの導入に関するヒントとテクニック」シリーズは、以前に導入を勝ち抜いたAdobe[!DNL Marketo Engage] チャンピオンから提供されています。 このチュートリアルでは、新しい管理者が実装プロジェクトを部門横断的に管理し、技術的な設定を独立して設定するためのステップバイステップのガイダンスを提供します。 また、ダウンロード可能なチェックリストやテンプレートには、選択的なトピックが付属しているので、ゼロから始めることなく独自のニーズに合わせてカスタマイズできます。 同業者の知恵を掘り下げましょう！
 
 ## トピックと学習内容
 
@@ -50,7 +50,7 @@ Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスを設�
   *Marketo Engageインスタンス内に優れた組織を設定する方法を説明します。これにより、組織内の将来のマーケターがプログラム間を簡単に移動し、アセットを変更し、レポートを取り込めるようになります。*
 <br>
 
-* [Dynamic Chatを活用したオムニチャネルインタラクティブマーケティングのデザイン ](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [Dynamic Chat を使用したオムニチャネル対話型マーケティングのデザイン](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *Adobe Marketo Engage内のネイティブな対話型エンゲージメントチャネルであるAdobe Dynamic Chatを使用して、対話型マーケティングをデザインするクイックスタートを取得します。 このチュートリアルでは、販売会議の予約、web サイトのコンテンツエンゲージメント、イベント/ウェビナーのプロモーションなど、ユースケースを実装するための実用的なレシピを提供します。*
 <br>
 
