@@ -1,16 +1,15 @@
 ---
 user-guide-title: チュートリアル – 新しいインスタンスの実装に関するヒン  [!DNL Marketo Engage]  とテクニック
 user-guide-description: チュートリアル – 新しいインスタンスの実装に関するヒン  [!DNL Marketo Engage]  とテクニック
-breadcrumb-title: 新しいインスタンスを実装するためのヒン  [!DNL Marketo Engage]  とテクニック
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
+breadcrumb-title: 新しいインスタンス  [!DNL Marketo Engage]  実装
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 3%
 
 ---
@@ -19,7 +18,7 @@ ht-degree: 3%
 # 新しい [!DNL Marketo Engage] インスタンスを実装するためのヒントとテクニック {#implementing-new-instance}
 
 + [チュートリアルの概要](./overview.md)
-+ [利害関係者の管理によるMarketo Engageの実装](./managing-stakeholder-communications.md)
++ [Marketo Engageを実装する関係者の管理](./managing-stakeholder-communications.md)
 + [Marketo Engageの実装の計画](./planning-for-new-implementation.md)
 + [社内オンボーディングおよびトレーニングロードショーの開発](./internal-training-roadshow.md)
 + [リード/人物スコアリングモデルの作成](./building-person-scoring-model.md)
