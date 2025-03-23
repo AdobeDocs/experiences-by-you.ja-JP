@@ -1,7 +1,7 @@
 ---
 title: AEM チャンピオン - AEM as a Cloud Serviceへの移行の計画
-description: AEM チャンピオンの Wilson Faure から、AEM as a Cloud Serviceへの移行の準備と計画に関する専門的なアドバイスを受けることができます。
-version: Cloud Service
+description: AEM チャンピオンの Wilson Faure 氏から、AEM as a Cloud Serviceへの移行の準備と計画に関する専門的なアドバイスを受けることができます。
+version: Experience Manager as a Cloud Service
 topic: Migration
 role: Admin, Developer
 level: Beginner
@@ -11,7 +11,7 @@ last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-15036
 thumbnail: 3427587.jpeg
 exl-id: 4731c192-9289-42b8-9be9-8a42dd33763d
-source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
+source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 12%

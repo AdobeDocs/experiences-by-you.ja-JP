@@ -1,7 +1,7 @@
 ---
-title: AEM チャンピオンのヒントとテクニック – オ  [!DNL Cloud Manager]  ボーディングプレイブック
+title: AEM チャンピオンのヒントとテクニック - [!DNL Cloud Manager]  オンボーディングプレイブック
 description: AEM チャンピオンでエキスパートの Rakesh Pasupuleti によるオンバ  [!DNL Cloud Manager]  ディングとオンボーディングプレイブックに関するこれらのヒントをご覧ください。
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
 feature: Cloud Manager
@@ -12,7 +12,7 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13228
 exl-id: 3ee98846-35ff-4de1-af4b-b65376572dfe
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
