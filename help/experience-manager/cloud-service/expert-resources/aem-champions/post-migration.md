@@ -21,4 +21,4 @@ ht-degree: 54%
 
 AEM のエキスパートである Wilson Faure 氏からの貴重なインサイトをご覧ください。このビデオでは、移行後の必須の戦略と、移行を最適化するためのヒントを詳しく説明します。移行後の数日間および数週間で何に重点を置くべきかを明確にします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428309/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446600/?learn=on&captions=jpn)

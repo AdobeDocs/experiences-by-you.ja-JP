@@ -22,7 +22,7 @@ ht-degree: 22%
 
 A/B テストを使用してメールプログラムを作成する方法については、このステップバイステップチュートリアルをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453368/?learn=on&captions=jpn){transcript=true}
 
 
 ## その他のリソース

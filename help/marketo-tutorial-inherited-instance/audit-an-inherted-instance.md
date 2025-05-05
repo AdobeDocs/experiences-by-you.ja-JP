@@ -24,4 +24,4 @@ ht-degree: 0%
 
 このチュートリアルでは、「管理」、「マーケティングアクティビティ」、「Design Studio」、「データベース」など、[!DNL Marketo Engage] 内の最も重要なセクションを順を追って説明し、途中で監査や最適化を行うためのヒントを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453023/?learn=on&captions=jpn)

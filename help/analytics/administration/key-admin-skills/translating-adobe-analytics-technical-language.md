@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 技術的 [!DNL Adobe Analytics] 用語を使用しない方法での翻訳
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345330/?quality=12&learn=on&captions=jpn)
 
 ## 異なる言語を話す
 

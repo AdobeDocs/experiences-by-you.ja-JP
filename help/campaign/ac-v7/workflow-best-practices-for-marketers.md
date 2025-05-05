@@ -24,4 +24,4 @@ ht-degree: 81%
 
 強力な [!DNL Adobe] [!DNL Campaign] 機能であるワークフローは、キャンペーンを管理し、より簡単に顧客にリーチするのに役立ちます。 LoyaltyOne のマーケティング担当アソシエイトディレクターである Adam Wilson 氏から、マーケターにとって不可欠な 5 つのワークフローのベストプラクティスを学び、適用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448119?quality=12&learn=on&captions=jpn){transcript=true}

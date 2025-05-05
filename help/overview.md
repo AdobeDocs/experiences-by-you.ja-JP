@@ -45,7 +45,7 @@ ht-degree: 9%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] メールプログラム" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] メールプログラム" src="https://video.tv.adobe.com/v/3453368?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

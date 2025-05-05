@@ -58,7 +58,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="ヒントとテクニック" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="ヒントとテクニック" src="https://video.tv.adobe.com/v/3439838?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">

@@ -33,7 +33,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="マーケター向けのワークフローのベストプラクティス上位 5 件" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="マーケター向けのワークフローのベストプラクティス上位 5 件" src="https://video.tv.adobe.com/v/3448119?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

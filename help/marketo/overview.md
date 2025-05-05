@@ -32,7 +32,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスの操作" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスの操作" src="https://video.tv.adobe.com/v/3450674?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="レポートと分析" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="レポートと分析" src="https://video.tv.adobe.com/v/3446421?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="メールプログラム" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="メールプログラム" src="https://video.tv.adobe.com/v/3453368?format=jpeg&captions=jpn" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

@@ -22,4 +22,4 @@ ht-degree: 47%
 
 AEM のエキスパートである Wilson Faure 氏が紹介する貴重なインサイトとベストプラクティスをご覧ください。このビデオでは、AEM as a Cloud Service への移行時に発生する一般的な課題を詳しく説明し、スムーズに移行を成功させるための推奨事項と専門的なヒントを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427673/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448612/?learn=on&captions=jpn)
