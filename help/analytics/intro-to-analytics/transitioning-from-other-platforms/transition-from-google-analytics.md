@@ -138,7 +138,7 @@ Workspaces のもう 1 つの強力な機能は、ドロップダウンの形式
 
 >[!IMPORTANT]
 >
->ドロップダウンとフリーフォームの分類の使用について詳しくは、<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680> を参照してください。
+>ドロップダウンとフリーフォームの分類の使用について詳しくは、<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=ja> を参照してください。
 
 ##### 2.1.2.2. Google [!DNL Analytics]：ダッシュボード、カスタムレポート、保存済みレポート
 

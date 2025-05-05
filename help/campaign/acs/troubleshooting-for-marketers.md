@@ -59,7 +59,7 @@ ACS を使用している間に、解決に時間がかかりフラストレー�
 
 ![ 紐付けの詳細を使用したワークフロー ](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-詳しくは、[ 紐付け ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en) を参照してください。
+詳しくは、[ 紐付け ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=ja) を参照してください。
 
 ## 共通フィールドデータセットエラー
 

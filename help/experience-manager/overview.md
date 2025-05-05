@@ -77,6 +77,6 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
 ## その他のリソース
 
 * [Experience Managerコミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)
-* [Experience Managerドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-* [Experience ManagerTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Experience Managerドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+* [Experience ManagerTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=ja)
 * [Experience Managerの製品情報 ](https://business.adobe.com/jp/products/experience-manager/adobe-experience-manager.html)

@@ -27,4 +27,4 @@ ht-degree: 3%
 + [Dynamic Chatを使用したオムニチャネルインタラクティブマーケティングのデザイン](./designing-omnichannel-conversational-marketing.md)
 + [インスタンスガバナンスとドキュメントの概要](./documenting-your-instance.md)
 + [[!DNL Marketo Engage]  チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
-+ [ 視点に戻る ](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [ 視点に戻る ](https://experienceleague.adobe.com/ja/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

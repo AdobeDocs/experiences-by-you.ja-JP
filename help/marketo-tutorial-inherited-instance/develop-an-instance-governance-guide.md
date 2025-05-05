@@ -30,7 +30,7 @@ ht-degree: 1%
 
 1. スケーラブルな方法で、社内ユーザーのトレーニングを容易に実施できます。
 2. 長期的には、[!DNL Marketo Engage] 内でより効率的に構築します。
-3. コンテキストを取得するためのメール、[ 監査記録 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)、[ アクティビティログ ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) の掘り下げに費やす時間を節約するために、インスタンスの正常性と衛生状態を今後も維持します。
+3. コンテキストを取得するためのメール、[ 監査記録 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=ja)、[ アクティビティログ ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ja) の掘り下げに費やす時間を節約するために、インスタンスの正常性と衛生状態を今後も維持します。
 4. チームで離職経験が [!DNL Marketo Engage] る場合に、新しい [!DNL Marketo Engage] 管理者に知識を転送する時間を節約できます。
 
 ## [!DNL Marketo Engage] ガバナンスガイド 101

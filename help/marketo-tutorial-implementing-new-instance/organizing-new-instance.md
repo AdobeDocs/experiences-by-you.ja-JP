@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## フォルダーの構造化と命名規則の適用が必要な理由
 
-インスタンス内で整理しておくことで、自分自身や同僚がキャンペーン、プログラム、アセットを追跡したり、プログラムのパフォーマンスをレポートしたりすることが容易になります。 インスタンス内のナビゲーションツリーを整理し、大規模に構築するには、[ フォルダー ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[ 標準の命名規則 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、および [ クローン作成 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"} などの機能を使用することをお勧めします。
+インスタンス内で整理しておくことで、自分自身や同僚がキャンペーン、プログラム、アセットを追跡したり、プログラムのパフォーマンスをレポートしたりすることが容易になります。 インスタンス内のナビゲーションツリーを整理し、大規模に構築するには、[ フォルダー ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[ 標準の命名規則 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、および [ クローン作成 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"} などの機能を使用することをお勧めします。
 
 ## Marketo Engageインスタンスの整理方法
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ### 手順 1 - プログラムを整理するためのフォルダー構造の設定
 
-インスタンスを整理する最初の手順は、[ フォルダー構造を設定 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) し、プログラムとアセットを見つけやすく整然と格納することです。
+インスタンスを整理する最初の手順は、[ フォルダー構造を設定 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=ja) し、プログラムとアセットを見つけやすく整然と格納することです。
 
 ツリー内のフォルダーを構造化する際のクイックヒントを次に示します。
 

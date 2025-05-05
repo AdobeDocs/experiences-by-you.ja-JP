@@ -33,4 +33,4 @@ ht-degree: 1%
 
 ## その他のリソース {#additional-resources}
 
-* [AEM as a Cloud Service オンボーディングジャーニー](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) – 新しいシステム管理者が最初にクラウドリソースをプロビジョニングし、ユーザーを職務責任に基づいてロールに割り当て、チームの各メンバーが新しいAEM as a Cloud Service リソースにログインしてアクセスできるようにするステップバイステップのガイド
+* [AEM as a Cloud Service オンボーディングジャーニー](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html?lang=ja) – 新しいシステム管理者が最初にクラウドリソースをプロビジョニングし、ユーザーを職務責任に基づいてロールに割り当て、チームの各メンバーが新しいAEM as a Cloud Service リソースにログインしてアクセスできるようにするステップバイステップのガイド

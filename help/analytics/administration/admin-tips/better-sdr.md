@@ -65,7 +65,7 @@ _測定会議について説明します。 ファネルマップを使用して
 1. デザイナーやプロダクトマネージャーと共に、各ステップを確認し、そのファネルで成功したと見なされる項目について話し合います。 これはコンバージョン率ですか？ 特定のパスを選択しているか。 特定の機能を使用していますか。
 1. ファネルの各ステップと全体のファネルのパフォーマンスを理解するには、どの指標とディメンションが必要かについての質問をします。
 1. ファネルの各ステップの上に、計算指標を含む、そのステップで測定される指標とディメンションを追加します。
-1. 各ファネルの先頭に、製品マネージャーがパフォーマンスを追跡するために使用できるダッシュボード内のレポートを書き出します。 これらのレポートには、[ フォールアウトレポート ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[ 当月 ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[ コンバージョン率のトレンド ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) およびそのファネルに固有のあらゆるものが含まれます。
+1. 各ファネルの先頭に、製品マネージャーがパフォーマンスを追跡するために使用できるダッシュボード内のレポートを書き出します。 これらのレポートには、[ フォールアウトレポート ](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[ 当月 ](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[ コンバージョン率のトレンド ](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/visualizations/line) およびそのファネルに固有のあらゆるものが含まれます。
 1. 検出した新しい指標とディメンションを SDR に追加し、関係者に送信して 2 回目のレビューを受けます。
 
 ### プレビューダッシュボード

@@ -27,5 +27,5 @@ ht-degree: 3%
 
 ## その他のリソース {#additional-resources}
 
-* [ 環境の管理 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html) - AEM as a Cloud Serviceの環境管理に関するドキュメント
+* [ 環境の管理 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=ja) - AEM as a Cloud Serviceの環境管理に関するドキュメント
 * [ 迅速な開発環境 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html?lang=ja) - AEM as a Cloud Serviceの RDE に関するドキュメント

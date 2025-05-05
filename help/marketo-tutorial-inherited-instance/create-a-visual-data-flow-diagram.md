@@ -26,7 +26,7 @@ ht-degree: 2%
 
 1. **ライブインスタンスから継承したマーケティングテクニカルスタックについて確認します。** すべてのマーケティング運用管理者/プラットフォーム運用管理者は、新しい会社で働き始める際に、この演習を行うことをお勧めします。 この作成プロセスにより、管理者ユーザーは、外部統合から [!DNL Marketo Engage] に送信されたデータとアクティビティの全体像を確認して、API エラーを簡単にトラブルシューティングできます。
 2. **外部統合を管理する主な関係者について確認します。** Kelly Jo Horton が関係者をすばやく特定するために使用するヒントは、API ユーザーのリストを参照することです。
-   1. **「管理者」セクションの「統合/LaunchPoint」タブに移動します。** 「LaunchPoint」タブに移動する方法について詳しくは、[REST API で使用するカスタムサービスの作成 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"} を参照してください。
+   1. **「管理者」セクションの「統合/LaunchPoint」タブに移動します。** 「LaunchPoint」タブに移動する方法について詳しくは、[REST API で使用するカスタムサービスの作成 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ja){target="_blank"} を参照してください。
    2. API 呼び出し情報セクションの統合/「Web サービス」タブで、API ユーザー別の API 使用状況の統計を確認します。 API 呼び出し番号をクリックすると、各ユーザーが実行した特定の個別の呼び出しを表示できます。
 
 ## この視覚的なデータフロー図の演習を行う方法

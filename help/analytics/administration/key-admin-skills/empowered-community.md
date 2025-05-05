@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * 実装について：
 
-  ベスト プラクティスとして、ユーザーは実装でサポートされるビジネス要件の基本的な知識を持っている必要があります。このような知識は通常、[ ビジネス要件ドキュメント ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) （BRD）および [ ソリューションデザインリファレンスドキュメント ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) （SDR）を介して得ることができます。 これらの要件には、実装された内容を含め、カテゴリ別にビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
+  ベスト プラクティスとして、ユーザーは実装でサポートされるビジネス要件の基本的な知識を持っている必要があります。このような知識は通常、[ ビジネス要件ドキュメント ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja) （BRD）および [ ソリューションデザインリファレンスドキュメント ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ja) （SDR）を介して得ることができます。 これらの要件には、実装された内容を含め、カテゴリ別にビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
 
 * レポートテンプレートの使用：
 
@@ -115,4 +115,4 @@ ht-degree: 0%
 
 * キャリア開発 – 権限を持つコミュニティは、多くのアナリストチームの焦点を、反応的で戦術的なものから、規範的で戦略的なものへとシフトさせます。 これにより、コミュニティの管理プロジェクトチームにキャリア開発の機会が生まれます。
 
-社内に [!DNL Adobe Analytics] のユーザーグループやより正式な「コミュニティ」をお持ちの場合、またはその形成に取り組んでいる場合は、[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions) でお話を聞かせてください。
+社内に [!DNL Adobe Analytics] のユーザーグループやより正式な「コミュニティ」をお持ちの場合、またはその形成に取り組んでいる場合は、[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=ja) でお話を聞かせてください。

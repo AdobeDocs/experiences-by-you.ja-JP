@@ -42,8 +42,8 @@ Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスの設�
 
 * [ ネイティブ CRM コネクタ用のフィールドの同期 ](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *統合に必要な CRM フィールドを戦略的に選択して、初期 CRMMarketo Engageを効率化する方法を説明します。 データ要素の演習を実施し、CRM をスムーズに同期するために必要なフィールドを特定します。これにより、販売チームとマーケティングチームの連携が維持されます。*
-   * [Salesforce 同期の概要 ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [Microsoft Dynamics Sync の概要 ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [Salesforce 同期の概要 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [Microsoft Dynamics Sync の概要 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [ 新しいインスタンスの整理と命名規則の確立 ](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスの設�
 
 ## その他のリソース
 
-* [ ベストプラクティスのチェックリストを使用した新しいMarketo Engageインスタンスの実装 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [ ベストプラクティスのチェックリストを使用した新しいMarketo Engageインスタンスの実装 ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査およびユーザーのオンボーディングに関する作業を文書化します。*
 

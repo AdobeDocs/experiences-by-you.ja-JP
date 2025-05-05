@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-注釈の仕組みについて詳しくは、[Experience Leagueに関するビデオチュートリアル ](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace) を参照してください。
+注釈の仕組みについて詳しくは、[Experience Leagueに関するビデオチュートリアル ](https://experienceleague.adobe.com/ja/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace) を参照してください。
 
 ## 開始するためのヒントとコツ
 
@@ -75,7 +75,7 @@ ht-degree: 3%
 
 ![9thimage](assets/9thimage.png)
 
-詳細なドキュメントについては、[ 注釈の概要 ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) および関連する記事を参照してください。
+詳細なドキュメントについては、[ 注釈の概要 ](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/components/annotations/overview) および関連する記事を参照してください。
 
 ## 作成者
 

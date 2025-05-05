@@ -46,7 +46,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="マーケター向けトラブルシューティング" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="マーケター向けトラブルシューティング" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ja" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="マーケター向け Adobe Campaign 成功のベストプラクティス 10 件" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="マーケター向け Adobe Campaign 成功のベストプラクティス 10 件" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ja" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">

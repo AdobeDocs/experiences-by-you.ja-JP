@@ -58,7 +58,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="標準化された命名規則の作成" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="標準化された命名規則の作成" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=ja" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">

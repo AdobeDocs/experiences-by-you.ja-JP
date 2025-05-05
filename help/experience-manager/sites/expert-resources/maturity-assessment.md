@@ -28,9 +28,9 @@ AEM成熟度評価は、主にオンプレミスおよびマネージドサー�
 
 管理、開発またはオーサリングのベストプラクティスについては、次のリソースを参照してください。
 
-* [ ベストプラクティスの管理 ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
-* [ 開発のベストプラクティス ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
-* [ オーサリングのベストプラクティス ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
+* [ ベストプラクティスの管理 ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=ja)
+* [ 開発のベストプラクティス ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=ja)
+* [ オーサリングのベストプラクティス ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=ja)
 
 上記のベストプラクティス領域のそれぞれには、AEMのオーサリング、開発およびデプロイに関するさらなるベストプラクティスも含まれています。
 
