@@ -32,9 +32,9 @@ ht-degree: 0%
 
 開始する前に、[CRM 同期エラーログテンプレート ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx) をダウンロードしてください。
 
-**手順 1:** [!DNL Marketo Engage] の *[!UICONTROL 管理者 ] セクション* に移動します。 *[!UICONTROL 統合]* の下で、使用する [!DNL CRM] に応じて「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」、または「*[!DNL Veeva]*」をクリックし、「*[!UICONTROL 同期エラー]*」タブをクリックします。
+**手順 1:** [!DNL Marketo Engage] の *[!UICONTROL 管理者 &#x200B;] セクション* に移動します。 *[!UICONTROL 統合]* の下で、使用する [!DNL CRM] に応じて「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」、または「*[!DNL Veeva]*」をクリックし、「*[!UICONTROL 同期エラー]*」タブをクリックします。
 
-**手順 2:** [ フィルター ] パネルを使用して、エラーのレコードを  [!DNL CSV]  ファイルとしてエクスポート [!UICONTROL  することを選択できます ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}。 数時間しかない場合は、「同期エラー *[!UICONTROL タブから直接コピーして貼り付け]* 方法をお勧めします。
+**手順 2:** [ フィルター ] パネルを使用して、エラーのレコードを  [!DNL CSV]  ファイルとしてエクスポート [[!UICONTROL &#x200B; することを選択できます &#x200B;]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}。 数時間しかない場合は、「同期エラー *[!UICONTROL タブから直接コピーして貼り付け]* 方法をお勧めします。
 
 **手順 3:** エラーが発生した日付をメモします。
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 **手順 5:** エラーの影響を受けた 1 人の人物のメールアドレスをメモします。 これにより、エラーを簡単に参照して CRM 管理者と話し合うことができます。
 
-**手順 6:** [!DNL Marketo Engage] 内の人物レコードへのリンクを貼り付け、その人物の [!UICONTROL CRM リード/連絡先 ] レコードを貼り付けます。
+**手順 6:** [!DNL Marketo Engage] 内の人物レコードへのリンクを貼り付け、その人物の [!UICONTROL CRM リード/連絡先 &#x200B;] レコードを貼り付けます。
 
 **手順 7:** 最後の列に、エラーの実際のテキストを貼り付けます。
 
