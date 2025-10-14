@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # アトリビューショ [!DNL Adobe Analytics] パネルとルックバックウィンドウについて
 
-[ アトリビューションパネル ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=ja) と **ルックバックウィンドウ** について考えたとき、すぐに「*タイムトラベル」* という概念を思い出しました。そしてもちろん、このような多くの新しいツールに対する典型的な反応は、非常に複雑に見えるので、単に使用しようとするのをやめることです。
+[&#x200B; アトリビューションパネル &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=ja) と **ルックバックウィンドウ** について考えたとき、すぐに「*タイムトラベル」* という概念を思い出しました。そしてもちろん、このような多くの新しいツールに対する典型的な反応は、非常に複雑に見えるので、単に使用しようとするのをやめることです。
 
 正直なところ、これらのオプション、スイッチ、パネル、読み取り、ノブをすべて見てください。  そして真剣に、それらの複雑な点滅ライト、ホース、ゲージについて話しましょう… 待て！!  これはタイムマシンについて話して気を取られる時間ではありません、私たちは時間がありません…それとも私たちですか？
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 簡単に言えば、**10 人** が **大きな赤いボタン** を押してドアを通り抜ける場合、私たちの **アトリビューションモデル** は、その **10 人のどれに「クレジット」を割り当てたいか** または割り当てたい「クレジット」をどのくらい ** 割り当てたいかを教えてくれます。
 
-![ ボタン ](assets/button.png)
+![&#x200B; ボタン &#x200B;](assets/button.png)
 
 このことを念頭に置いて、❸&#x200B;**アトリビューションモデル** がこれらの **10 人** にどのように影響するかを、いくつかの例で示します。
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 - **カスタム**：クレジットを受け取るユーザーを選択します。  それはあなたのキャンペーンです！
 
-これらのアトリビューションモデルおよびその他のアトリビューションモデルについて詳しくは、[ ここをクリック ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja) てください。
+これらのアトリビューションモデルおよびその他のアトリビューションモデルについて詳しくは、[&#x200B; ここをクリック &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja) てください。
 
 これをさらに面白くするために、時計を戻すことについて話しましょう！
 
@@ -122,13 +122,13 @@ ht-degree: 0%
 実行できる内容がわかったので、アトリビューションパネルの一見複雑な機能に騙されたり、威嚇されたりしないでください。  **今すぐ直面**。  *抱き込む* だ。  **わかりました**。
 しかし、すべてのほとんど – あなたの利点にそれを使用 *。* **アトリビューションパネル** と **ルックバックウィンドウ** は、顧客とブランドとのジャーニーをより深く理解するための鍵です。
 
-今では、自信を持って「過去へ [ 移動し ](https://youtu.be/gVryJmZNFdU) 信頼できるタイムマシンの力（**[!DNL Adobe Analytics]***）を使用して、データに基づいた意思決定を行うことができます。
+今では、自信を持って「過去へ [&#x200B; 移動し &#x200B;](https://youtu.be/gVryJmZNFdU) 信頼できるタイムマシンの力（**[!DNL Adobe Analytics]***）を使用して、データに基づいた意思決定を行うことができます。
 
 ## 作成者
 
 このドキュメントの作成者：
 
-![ ジェフ・ブルーマー ](assets/jeff-headshot.png)
+![&#x200B; ジェフ・ブルーマー &#x200B;](assets/jeff-headshot.png)
 
 **Jeff Bloomer**、Kroger Personal Finance、デジタルフ [!DNL Analytics] ーム担当マネージャー
 

@@ -50,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 顧客と同じように、日常生活があります。キャンペーンの送信とオーケストレーションは、このリズムに対応する必要があります。そうしないと、[送信メールの 85％が開封されず、送信メールの 98％がクリックスルーされない](https://www.validity.com/resource-center/state-of-email-2021/)ので、顧客に到達できない可能性があります。
 
-例えば、顧客が朝に電話をチェックして最安値をチェックしている場合は、プロモーションのテキストメッセージを送信することを検討します。次のホットトレンドを夜にブラウジングしている場合は、無料配送のプロモコードを記載したフォローアップメールを送信することを検討します。また、[!DNL [!DNL Campaign]] のヒートマップツールを使用して、ワークフローと送信が実行されているタイミングを追跡することも重要です。 複数のブランド間で通信を調整して促進することは、困難な場合があります。[ メールのリズム、ケイデンス、タイミングを監視し、把握すること ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ja) は、メッセージと [!DNL Campaign] インスタンスの全体的な安定性と強度にとって非常に重要です。
+例えば、顧客が朝に電話をチェックして最安値をチェックしている場合は、プロモーションのテキストメッセージを送信することを検討します。次のホットトレンドを夜にブラウジングしている場合は、無料配送のプロモコードを記載したフォローアップメールを送信することを検討します。また、[!DNL [!DNL Campaign]] のヒートマップツールを使用して、ワークフローと送信が実行されているタイミングを追跡することも重要です。 複数のブランド間で通信を調整して促進することは、困難な場合があります。[&#x200B; メールのリズム、ケイデンス、タイミングを監視し、把握すること &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ja) は、メッセージと [!DNL Campaign] インスタンスの全体的な安定性と強度にとって非常に重要です。
 
 ## 4.必要に応じたパーソナライゼーションの使用
 

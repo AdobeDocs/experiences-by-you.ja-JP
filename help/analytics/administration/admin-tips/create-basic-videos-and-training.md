@@ -33,9 +33,9 @@ ht-degree: 0%
 * [!DNL Adobe Analytics] で役立つヒントのトップ 5 （ドロップダウンの作成方法など）
 * Attribution IQの使用方法
 
-これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。 ユーザー教育に関するその他のヒントとテクニックについては、[[!DNL Adobe] Champion の Thomas Edward Buckley の記事 ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"} 「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
+これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。 ユーザー教育に関するその他のヒントとテクニックについては、[[!DNL Adobe] Champion の Thomas Edward Buckley の記事 &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"} 「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
 
-さらに、Experience League上の [ ビデオチュートリアル ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"} と [ 無料コース ](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"} もたくさん [!DNL Adobe] ります（はい、たくさんの）。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。 しかし、一般的な教育ビデオで十分な場合は、車輪を再発明する理由はありません。
+さらに、Experience League上の [&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"} と [&#x200B; 無料コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"} もたくさん [!DNL Adobe] ります（はい、たくさんの）。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。 しかし、一般的な教育ビデオで十分な場合は、車輪を再発明する理由はありません。
 
 ## 作成者
 
@@ -46,6 +46,6 @@ ht-degree: 0%
 Christel Guidon （NortonLifeLock、デジタル [!DNL Analytics] ッドレスプラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン
 
-![ レイチェル・フェンウィック ](assets/Rachel-Fenwick-150.png)
+![&#x200B; レイチェル・フェンウィック &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick （[!DNL Adobe] 社シニアコンサルタント）

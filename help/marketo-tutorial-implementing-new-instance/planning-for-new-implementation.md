@@ -38,7 +38,7 @@ ht-degree: 5%
 
 ### フェーズ 3 - プログラムライブラリの作成とキャンペーンの設定
 
-- メールテンプレートとランディングページの開発。 [ プログラムのインポート ライブラリ ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) から [ スタータープログラムのインポート ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview) を開始します。
+- メールテンプレートとランディングページの開発。 [&#x200B; プログラムのインポート ライブラリ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) から [&#x200B; スタータープログラムのインポート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview) を開始します。
 - セグメント化ルールとPersonalization ルールの設定
 - リードジェネレーションと育成のための初期キャンペーンの作成
 
@@ -134,7 +134,7 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
 
 新しい実装プロジェクトの計画とタイムラインを作成します。 以下は、サンプルマイルストーン、タスク、担当チーム、期限、依存関係のセクションを含む、サンプルプロジェクトタイムラインです。 これを使用すると、Marketo Engage導入ジャーニーを合理化し、組織全体でロールアウトを成功に導くことができます。
 
-また、特定のマイルストーンタスクの編集と追跡の例をダウンロードすることもできます [ こちら ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx)。
+また、特定のマイルストーンタスクの編集と追跡の例をダウンロードすることもできます [&#x200B; こちら &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx)。
 
 <table>
  <thead>

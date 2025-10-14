@@ -26,14 +26,14 @@ Web SDK 実装に関する戦略的ガイドをダウンロードして、今日
 
 これらのメリットにもかかわらず、Web SDK を実装するという考えは、完全に圧倒されるとは言わないまでも、困難な場合があります。 そのため、Web SDK を実装するこのジャーニーを開始する際に役立つ、この戦略的ガイドを作成しました。
 
-[Web SDK 実装の戦略的ガイド ](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"} をダウンロードします。
+[Web SDK 実装の戦略的ガイド &#x200B;](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"} をダウンロードします。
 
 
 ## 作成者
 
 このドキュメントの作成者：
 
-![ メガン・ヘッド・ショット ](assets/meghan-head-shot.png)
+![&#x200B; メガン・ヘッド・ショット &#x200B;](assets/meghan-head-shot.png)
 
 **メガン・パワーズ**
 

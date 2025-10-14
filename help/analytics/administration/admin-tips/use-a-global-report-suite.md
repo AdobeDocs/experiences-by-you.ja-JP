@@ -56,6 +56,6 @@ ht-degree: 0%
 Christel Guidon （NortonLifeLock、デジタル [!DNL Analytics] ッドレスプラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン
 
-![ レイチェル・フェンウィック ](assets/Rachel-Fenwick-150.png)
+![&#x200B; レイチェル・フェンウィック &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick （[!DNL Adobe] 社シニアコンサルタント）

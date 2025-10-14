@@ -269,16 +269,16 @@ API は、プルリクエストで指定されているように、分類とセ�
 このガイド以外にも、戦略の改善に役立つリソースが多数あります。
 
 * [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/ja#home) - チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれています
-* [[!DNL Adobe]  ユーザーグループ ](https://analytics-augs.adobe.com/) - ユーザーが相互につながり、実装を改善するのに役立つ、コミュニティ実行イベントのハブ。
-* [[!DNL Adobe Analytics]  ユーザーグループのYouTubeチャンネル ](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - [!DNL Adobe Analytics] ユーザーグループのセッションに参加できなかった場合は、 世界中の以前のユーザーグループセッションを再視聴して、同業者がどのようにツールを使用しているかを知ることができます。
-* [Measure Chat Slackチャネル ](https://www.measure.chat/) – 世界中の [!DNL Adobe Analytics] ユーザーとつながって、業界の学びを共有したり、同業者に質問したり、測定に焦点を当てたインタレストグループに参加したりできます。
+* [[!DNL Adobe]  ユーザーグループ &#x200B;](https://analytics-augs.adobe.com/) - ユーザーが相互につながり、実装を改善するのに役立つ、コミュニティ実行イベントのハブ。
+* [[!DNL Adobe Analytics]  ユーザーグループのYouTubeチャンネル &#x200B;](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - [!DNL Adobe Analytics] ユーザーグループのセッションに参加できなかった場合は、 世界中の以前のユーザーグループセッションを再視聴して、同業者がどのようにツールを使用しているかを知ることができます。
+* [Measure Chat Slackチャネル &#x200B;](https://www.measure.chat/) – 世界中の [!DNL Adobe Analytics] ユーザーとつながって、業界の学びを共有したり、同業者に質問したり、測定に焦点を当てたインタレストグループに参加したりできます。
 * その他
 
 ## 作成者
 
 このドキュメントの作成者：
 
-![ ジェニファー・ダンガン ](assets/Jennifer_Dungan_Headshot150.png)
+![&#x200B; ジェニファー・ダンガン &#x200B;](assets/Jennifer_Dungan_Headshot150.png)
 
 Jennifer Dungan （Torstar 社 [!DNL Analytics] 最適化マネージャー）
 

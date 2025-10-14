@@ -46,7 +46,7 @@ Workspace プロジェクト [!DNL Adobe Analytics] 同僚と共有すること�
 
 このドキュメントの作成者：
 
-![ レオ・ラウ ](assets/leo_headshot.png)
+![&#x200B; レオ・ラウ &#x200B;](assets/leo_headshot.png)
 
 **Leo Lau**、Director、MarTech リードアジア
 

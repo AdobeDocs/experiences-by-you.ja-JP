@@ -26,7 +26,7 @@ ht-degree: 27%
 
 ## その他のリソース
 
-* [[!DNL Marketo Engage]  用語集 ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=ja)
+* [[!DNL Marketo Engage]  用語集 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=ja)
 Marketoの使用時に発生する可能性のある多くの用語に関する定義。
-* [ アイコン用語集 ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=ja)
+* [&#x200B; アイコン用語集 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=ja)
 [!DNL Marketo Engage] インターフェイスのアイコンの用語集。

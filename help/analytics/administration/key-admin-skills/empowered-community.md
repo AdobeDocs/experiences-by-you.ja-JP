@@ -35,11 +35,11 @@ ht-degree: 0%
 
 * 適切なユーザー管理とアクセスを実装します。
 
-  レポートスイート、指標、ディメンション、ツール、レポートおよびコンポーネントへのユーザーアクセスは、[!DNL Adobe Analytics] の基盤であり、[ ユーザーグループ管理プロセス ](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=ja) の重要な部分です。 適切なツールアクセスにより、Analysis Workspaceおよび Reports &amp; [!DNL Analytics] 内でセルフサービスを利用できるようになります。
+  レポートスイート、指標、ディメンション、ツール、レポートおよびコンポーネントへのユーザーアクセスは、[!DNL Adobe Analytics] の基盤であり、[&#x200B; ユーザーグループ管理プロセス &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=ja) の重要な部分です。 適切なツールアクセスにより、Analysis Workspaceおよび Reports &amp; [!DNL Analytics] 内でセルフサービスを利用できるようになります。
 
 * 実装について：
 
-  ベスト プラクティスとして、ユーザーは実装でサポートされるビジネス要件の基本的な知識を持っている必要があります。このような知識は通常、[ ビジネス要件ドキュメント ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja) （BRD）および [ ソリューションデザインリファレンスドキュメント ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ja) （SDR）を介して得ることができます。 これらの要件には、実装された内容を含め、カテゴリ別にビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
+  ベスト プラクティスとして、ユーザーは実装でサポートされるビジネス要件の基本的な知識を持っている必要があります。このような知識は通常、[&#x200B; ビジネス要件ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja) （BRD）および [&#x200B; ソリューションデザインリファレンスドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ja) （SDR）を介して得ることができます。 これらの要件には、実装された内容を含め、カテゴリ別にビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
 
 * レポートテンプレートの使用：
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 権限を持つコミュニティを設置して維持するのは大変な作業です。 これを行うことで客観的に捉え、組織が享受できるメリットに気付くことが重要です。 私がこれまで目にしてきたメリットをいくつか紹介します。
 
-* データに基づいた意思決定 – 権限を持つコミュニティは、[ ビジネスを変える ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=ja) ことができます。[!DNL Adobe Analytics] の結果により、組織全体でアクセスできる方法でデータのストーリーテリングや、結果の予測と規定が可能になり、顧客インテリジェンスやデータに基づいた意思決定をサポートします。
+* データに基づいた意思決定 – 権限を持つコミュニティは、[&#x200B; ビジネスを変える &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=ja) ことができます。[!DNL Adobe Analytics] の結果により、組織全体でアクセスできる方法でデータのストーリーテリングや、結果の予測と規定が可能になり、顧客インテリジェンスやデータに基づいた意思決定をサポートします。
 
 * 専門知識と効率の向上 – イネーブルメントエンゲージメントとマーケティング投資回収率の間に直接の相関関係を構築できます。 権限を持つコミュニティは、全員の専門知識を向上させ、インサイト、ベストプラクティス、プロジェクト、製品アップデートの共有を促進し、共同作業を促進します。 同時に、[!DNL Adobe Analytics] を通じて自給自足と更なる最適化を可能にします。 これにより、マーケティングチャネル、ページ、ジオロケーション、オーディエンスなどをサポートします。 また、エクスペリエンスの最適化もサポートされるので、チームは最も大きな影響を与える可能性のある場所に集中できます。
 

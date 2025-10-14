@@ -78,7 +78,7 @@ Experience Cloudソリューション [!DNL Adobe] 最も強力な点は？ あ�
 ## その他のリソース
 
 * [Adobe Campaign コミュニティのExperience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
-* Adobe Campaign v8 - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
-* Adobe Campaign Classic v7 - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
-* Adobe Campaign Standard - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
-* [Adobe Campaignの製品情報 ](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* Adobe Campaign v8 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign Classic v7 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign Standard - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
+* [Adobe Campaignの製品情報 &#x200B;](https://business.adobe.com/products/campaign/adobe-campaign.html)

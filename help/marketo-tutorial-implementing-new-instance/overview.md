@@ -25,28 +25,28 @@ Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスの設�
 
 ## トピックと学習内容
 
-* [ 利害関係者の管理によるMarketo Engageの実施 ](/help/marketo-tutorial-implementing-new-instance/managing-stakeholder-communications.md)
+* [&#x200B; 利害関係者の管理によるMarketo Engageの実施 &#x200B;](/help/marketo-tutorial-implementing-new-instance/managing-stakeholder-communications.md)
   *Marketo Engageインスタンスの実装時に関係者を効果的に管理するための戦略について説明します。 このチュートリアルでは、関係者のニーズを明らかにし、リーダーシップの賛同を得て、部門間でコミュニケーションを取って実装のサポートを求めるための実用的なヒントを提供します。*
 <br>
 
-* [ 新たなMarketo Engage導入に向けた計画 ](/help/marketo-tutorial-implementing-new-instance/planning-for-new-implementation.md)
+* [&#x200B; 新たなMarketo Engage導入に向けた計画 &#x200B;](/help/marketo-tutorial-implementing-new-instance/planning-for-new-implementation.md)
   *新しいMarketo Engageインスタンスを適切に実装するための基本的な計画および部門横断的なチームの共同作業について詳しく説明します。 このチュートリアルでは、シームレスなMarketo Engage実装のためのサンプルマイルストーン、チームエンゲージメント、リソース割り当てを提供します。*
   <br>
-* [ 社内オンボーディングおよびトレーニングロードショーの開発 ](/help/marketo-tutorial-implementing-new-instance/internal-training-roadshow.md)
+* [&#x200B; 社内オンボーディングおよびトレーニングロードショーの開発 &#x200B;](/help/marketo-tutorial-implementing-new-instance/internal-training-roadshow.md)
   *Marketo Engageインスタンスのドキュメントと変更ログを作成および管理するための堅牢な手順を確立する方法を説明します。 これにより、チームの知識の共有に要する時間が節約されるだけでなく、インスタンスの正常性と効率も向上します。*
 <br>
 
-* [ リード/人物スコアリングモデルの作成 ](/help/marketo-tutorial-implementing-new-instance/building-person-scoring-model.md)
+* [&#x200B; リード/人物スコアリングモデルの作成 &#x200B;](/help/marketo-tutorial-implementing-new-instance/building-person-scoring-model.md)
   *Marketo Engageチャンピオンがビジネスで必要なスコアリングモデルの開発に使用する戦略について詳しくは、こちらを参照してください*。
 <br>
 
-* [ ネイティブ CRM コネクタ用のフィールドの同期 ](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
+* [&#x200B; ネイティブ CRM コネクタ用のフィールドの同期 &#x200B;](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *統合に必要な CRM フィールドを戦略的に選択して、初期 CRMMarketo Engageを効率化する方法を説明します。 データ要素の演習を実施し、CRM をスムーズに同期するために必要なフィールドを特定します。これにより、販売チームとマーケティングチームの連携が維持されます。*
-   * [Salesforce 同期の概要 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [Microsoft Dynamics Sync の概要 ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [Salesforce 同期の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [Microsoft Dynamics Sync の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
-* [ 新しいインスタンスの整理と命名規則の確立 ](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
+* [&#x200B; 新しいインスタンスの整理と命名規則の確立 &#x200B;](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
   *Marketo Engageインスタンス内に優れた組織を設定する方法を説明します。これにより、組織内の将来のマーケターがプログラム間を簡単に移動し、アセットを変更し、レポートを取り込めるようになります。*
 <br>
 
@@ -54,11 +54,11 @@ Adobe[!DNL Marketo Engage] へようこそ。 新しいインスタンスの設�
   *Adobe Marketo Engage内のネイティブな対話型エンゲージメントチャネルであるAdobe Dynamic Chatを使用して、対話型マーケティングをデザインするクイックスタートを取得します。 このチュートリアルでは、販売会議の予約、web サイトのコンテンツエンゲージメント、イベント/ウェビナーのプロモーションなど、ユースケースを実装するための実用的なレシピを提供します。*
 <br>
 
-* [ インスタンスガバナンスとドキュメントの概要 ](/help/marketo-tutorial-implementing-new-instance/documenting-your-instance.md)
+* [&#x200B; インスタンスガバナンスとドキュメントの概要 &#x200B;](/help/marketo-tutorial-implementing-new-instance/documenting-your-instance.md)
   *Marketo Engageガバナンスとドキュメントの基本を学ぶための基本的な戦略とベストプラクティスについて説明します。 スケーラブルなドキュメントを作成し、ユーザートレーニングを効率化し、Marketo Engageインスタンス内の構造を使用して構築する方法について説明します。*
 
 ## その他のリソース
 
-* [ ベストプラクティスのチェックリストを使用した新しいMarketo Engageインスタンスの実装 ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [&#x200B; ベストプラクティスのチェックリストを使用した新しいMarketo Engageインスタンスの実装 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査およびユーザーのオンボーディングに関する作業を文書化します。*
 

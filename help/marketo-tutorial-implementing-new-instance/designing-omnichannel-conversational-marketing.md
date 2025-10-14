@@ -26,7 +26,7 @@ ht-degree: 0%
 
 訪問者が、何らかの理由で web サイトを閲覧したとき。 製品やサービスに関するコンテンツを探している場合や、営業担当者と話すための連絡先情報を探している場合があります。 また、追加の製品情報を探している顧客である可能性もあります。 チャットを使用すると、web サイトの訪問者は、セールスチームと話す準備ができている場合に、セルフサービスおよび自己選定をおこなうことができます。
 
-サラ・バリウソがDynamic Chatを導入したとき、彼女はMarketo Engageとのシームレスな統合と、Marketo Engageプログラムをアクティブ化する [ 事前に構築されたアクティビティトリガー](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} に惹かれました。 彼女は、3 つのオーディエンスセグメントを念頭に置いて、対話型のエンゲージメント戦略を開発しました。
+サラ・バリウソがDynamic Chatを導入したとき、彼女はMarketo Engageとのシームレスな統合と、Marketo Engageプログラムをアクティブ化する [&#x200B; 事前に構築されたアクティビティトリガー](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} に惹かれました。 彼女は、3 つのオーディエンスセグメントを念頭に置いて、対話型のエンゲージメント戦略を開発しました。
 
 1. 不明な見込み客：プロアクティブにデモ呼び出しを提供して、新しいリードを生成します。
 2. 既知のリード/顧客：訪問者がコンテンツの閲覧に費やす時間を延長し、デモ呼び出しを提供して、アップセルとクロスセルの機会を生み出します。
@@ -193,7 +193,7 @@ Campaign コンテンツエンゲージメントの拡張 – 設定：
 
 ## 次の手順
 
-* [ ストリームDesigner](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} またはオフラインのフローチャートで、会話フローをマッピングします。
+* [&#x200B; ストリームDesigner](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} またはオフラインのフローチャートで、会話フローをマッピングします。
 * Dynamic Chatでデフォルトのキャッチオールダイアログを作成します。
 * Marketo Engageの自動処理トリガーを使用して、キャンペーン後のエンゲージメントに関する会話をアクティブ化します。
 

@@ -233,8 +233,8 @@ Marketo Engageデータベースのユーザーをスコアリングすること
 
 ## 次の手順
 
-* [ ユーザースコアリング演習シート ](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} をダウンロードして、オフラインでスコアリングモデルを開発します。
-* Marketo Engageにおける人物のスコアを作成します。 開始するには、この [ チュートリアル ](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} と [ デモ ](https://experienceleague.adobe.com/ja/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} を確認してください。 Marketo Engage参照ライブラリからリード/人物スコアリングプログラム [ テンプレート ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} をインポートすると、プログラムを迅速に作成できます。
+* [&#x200B; ユーザースコアリング演習シート &#x200B;](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} をダウンロードして、オフラインでスコアリングモデルを開発します。
+* Marketo Engageにおける人物のスコアを作成します。 開始するには、この [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} と [&#x200B; デモ &#x200B;](https://experienceleague.adobe.com/ja/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} を確認してください。 Marketo Engage参照ライブラリからリード/人物スコアリングプログラム [&#x200B; テンプレート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} をインポートすると、プログラムを迅速に作成できます。
 * 次の 2 つのバージョンのスコアリング・プログラムを作成します。
    * ローカルで更新できないすべてのスコアリングを実行する中央プログラム。
    * 設定可能なスコアリング要素を含むローカルコピー。
@@ -244,8 +244,8 @@ Marketo Engageデータベースのユーザーをスコアリングすること
    * どの人口統計と行動活動に 1 回だけスコアを付けるべきか（業界）、および見込み客が適格になるたびにスコアを付けるべきか（ウェビナーに参加するなど）を決定します。 これにより、データ値の変更によってトリガーされた潜在的な連絡先が、販売に関連したものになります。
    * 選択肢が相互に排他的であることを確認します。
    * 両方のフローステップで更新を行い、ユーザースコアが人口統計スコアと同じ方法で更新されるようにします。 これにより、ユーザースコアは、行動スコアとデモグラフィックスコアの組み合わせに合わせて維持されます。
-* プログラムの作成が完了したら、スマートキャンペーンをテストします。 例えば、デモフォームに移動して、テストメールに入力し、[Marketo Engageデータベース ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank} でテスト担当者のスコアを確認します。
-* モデルを作成したら、その人物のスコアが販売ハンドオフしきい値に達した後に、販売に送信するためのアラートの設定を検討します。 アラートの設定について詳しくは、この [ チュートリアル ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank} を参照してください。
+* プログラムの作成が完了したら、スマートキャンペーンをテストします。 例えば、デモフォームに移動して、テストメールに入力し、[Marketo Engageデータベース &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank} でテスト担当者のスコアを確認します。
+* モデルを作成したら、その人物のスコアが販売ハンドオフしきい値に達した後に、販売に送信するためのアラートの設定を検討します。 アラートの設定について詳しくは、この [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank} を参照してください。
 
 ### 作成者
 

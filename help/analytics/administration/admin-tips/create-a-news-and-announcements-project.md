@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **対象：** 「ニュースとお知らせ」プロジェクトをWorkspace内で主にテキストで作成し、会社全体と共有します。 これをランディングページとしてユーザーに強制することは（可能ですが）必要ありません。更新するたびにリストの先頭に表示されるからです。
 
-**理由：** ユーザーは、[!DNL Adobe Analytics] 内で何かが変更されるたびにメールが送られてくることを望んでいないでしょう。 また、社内の [!DNL Adobe Analytics] サイト（Confluence など）をユーザーが定期的にチェックすることを期待する場合は [ 内部サイトの作成  [!DNL Adobe Analytics]  ヒント）を参照し ](create-an-internal-adobe-analytics-site.md) ください。 代わりにWorkspaceを利用すれば、インターフェイスから離れずにこれを実現できます。 ログインするたびに「ニュースとお知らせ」ダッシュボードが表示されます。
+**理由：** ユーザーは、[!DNL Adobe Analytics] 内で何かが変更されるたびにメールが送られてくることを望んでいないでしょう。 また、社内の [!DNL Adobe Analytics] サイト（Confluence など）をユーザーが定期的にチェックすることを期待する場合は [&#x200B; 内部サイトの作成  [!DNL Adobe Analytics]  ヒント）を参照し &#x200B;](create-an-internal-adobe-analytics-site.md) ください。 代わりにWorkspaceを利用すれば、インターフェイスから離れずにこれを実現できます。 ログインするたびに「ニュースとお知らせ」ダッシュボードが表示されます。
 
 **方法：** Workspaceにログインし、新しいプロジェクトを作成します。 プロジェクト設定で、このプロジェクトが組織内の全員と共有されていることを確認します。 このプロジェクトのトップ（説明）は、社内の [!DNL Adobe Analytics] サイトを指し、最適な連絡先や DL を呼び出すことができます。 それでは、4 つのセクションを提案します。すべてテキストベースです。
 
@@ -56,6 +56,6 @@ ht-degree: 0%
 Christel Guidon （NortonLifeLock、デジタル [!DNL Analytics] ッドレスプラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン
 
-![ レイチェル・フェンウィック ](assets/Rachel-Fenwick-150.png)
+![&#x200B; レイチェル・フェンウィック &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick （[!DNL Adobe] 社シニアコンサルタント）
