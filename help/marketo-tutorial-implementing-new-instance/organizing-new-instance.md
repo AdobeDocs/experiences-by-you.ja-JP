@@ -180,7 +180,7 @@ ht-degree: 2%
 
 * Marketo Engageー構造と命名規則の作成をサポートするために、[Folder Organization and Naming Conventions](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} をダウンロードします。
 * 標準の命名規則で必要なコンポーネントを決定したら、Google Sheet またはMicrosoft Excel に式を構築することを検討してください。 今後の使用のために、スプレッドシートに値を入力するだけでプログラム名を生成できます。
-* フォルダー構造全体に合わせたら、最も頻繁な使用例と、チームが受け取る最も一般的なリクエストに基づいて、必要なテンプレートを検討します。 次に、最初のプログラムテンプレートの作成を開始します。 以下では、[Adobe Marketo Engage プログラムテンプレート &#x200B;](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"} の基本を学びます。
+* フォルダー構造全体に合わせたら、最も頻繁な使用例と、チームが受け取る最も一般的なリクエストに基づいて、必要なテンプレートを検討します。 次に、最初のプログラムテンプレートの作成を開始します。 以下では、[Adobe Marketo Engage プログラムテンプレート &#x200B;](https://business.adobe.com/jp/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"} の基本を学びます。
 
 ### 作成者
 

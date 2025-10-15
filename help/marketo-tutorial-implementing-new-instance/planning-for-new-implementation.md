@@ -294,7 +294,7 @@ Marketo Engageチャンピオン（2019）の Kyle McCormick が、Palotos Netwo
 >[!NOTE]
 >ここで示す例は、実際の実装タイムラインに基づいたものではありません。 実装はすべて、組織のニーズに応じて異なるマイルストーンと要件を持つため、Marketo Engageを使用したオンボーディングの標準タイムラインとしてこれらに依存しないでください。
 
-インスタンスにMarketo Engageを実装およびカスタマイズする際の手がかりとなる支援については、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} にお問い合わせください。
+インスタンスにMarketo Engageを実装およびカスタマイズする際の手がかりとなる支援については、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} にお問い合わせください。
 
 ### 作成者
 
