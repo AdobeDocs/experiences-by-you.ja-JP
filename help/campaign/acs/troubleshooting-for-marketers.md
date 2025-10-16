@@ -11,7 +11,7 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 著者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、シニアコンサルタント、Meijer
 
-過去 5 年間にわたり、シニアエンジニアおよびExperience Cloud[!DNL Adobe] のカスタマーエキスパートとして、1934 年に設立されたアメリカのスーパーセンターチェーンである [Meijer](https://www.meijer.com/){target="_blank"} のビジネスユーザーが、ACS で複雑なマーケティングキャンペーンやトランザクションキャンペーンを実行できるようにしています。 私が取り組んできたいくつかのプロジェクトには、パーソナライゼーションのためのオファーと注文の詳細を保存するカスタマイズされたキャンペーン、[!DNL Adobe] のAudience Managerと統合されたキャンペーン、セグメント取り込みのためのカスタマーインサイトが含まれています。
+過去 5 年間、Experience Cloudの [!DNL Adobe] 品に関するシニアエンジニアおよびカスタマーエキスパートとして、1934 年に設立されたアメリカのスーパーセンターチェーンである [Meijer](https://www.meijer.com/){target="_blank"} のビジネスユーザーが、ACS で複雑なマーケティングおよびトランザクションキャンペーンを実行できるようにしています。 私が取り組んでいるプロジェクトには、パーソナライゼーションのためのオファーや注文の詳細を保存するカスタマイズされたキャンペーン、[!DNL Adobe] Audience Managerと統合したキャンペーン、セグメント取り込みのためのカスタマーinsightなどがあります。
 
 ACS を使用している間に、解決に時間がかかりフラストレーションを伴う可能性のあるエラーに遭遇しました。 最も一般的なエラーを把握することで、問題解決の迅速化と生産性の向上に役立ちます。 同様のエラーが発生した場合に効果的に解決するのに役立つ、トラブルシューティングのヒントを以下に示します。
 
@@ -50,27 +50,28 @@ ACS を使用している間に、解決に時間がかかりフラストレー�
 **原因：**
 このエラーは、メールをアドレスに送信しているとき、メールやその他の識別子がプロファイルと紐付けされない場合に表示されます。 メール通信を送信するには、メールまたは識別子を常にプロファイルにリンクする必要があります。
 
-![&#x200B; 紐付けアクティビティを使用したワークフロー &#x200B;](/help/_assets/kt-13256/del-persn-error-wf.png)
+![ 紐付けアクティビティを使用したワークフロー ](/help/_assets/kt-13256/del-persn-error-wf.png)
 
 **解決策：**
 読み込んだファイルから、受信者テーブルに共通の ID が存在する必要があります。 この共通キーは、紐付けアクティビティ内の受信者テーブルに読み込みファイルを結合します。 ワークフロー内にこの紐付けステップを必要とする受信者テーブルに存在しないレコードに対しては、メールを送信できない場合があります。 その際に、受信した読み込みファイルアクティビティを、プロファイルのメール ID などの識別子と紐付けます。 `nms:recipient` スキーマはプロファイルテーブルを参照し、受信レコードをプロファイルと紐付けすると、メールの準備中に使用できるようになります。
 
 以下に示すように、紐付けアクティビティのスクリーンショットを参照します。
 
-![&#x200B; 紐付けの詳細を使用したワークフロー &#x200B;](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
+![ 紐付けの詳細を使用したワークフロー ](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-詳しくは、[&#x200B; 紐付け &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=ja) を参照してください。
+詳しくは、[ 紐付け ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en) を参照してください。
 
 ## 共通フィールドデータセットエラー
 
 **エラーコード：**
-`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
+
+`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation.`
 
 **原因：**
+
 この問題は、ACS ワークフローで **除外アクティビティ** を使用しているとき、ID に基づいて除外を実行すると、プライマリセットと除外セットが同じフィールド名でない場合に発生します。
 
-
-![&#x200B; 共通フィールドデータセットエラー &#x200B;](/help/_assets/kt-13256/dataset-error.png)
+![ 共通フィールドデータセットエラー ](/help/_assets/kt-13256/dataset-error.png)
 
 **解決策：**
 
@@ -82,7 +83,7 @@ ACS を使用している間に、解決に時間がかかりフラストレー�
 
 2. JOINS 除外メソッドを使用して、レコードを除外するフィールドを選択します。
 
-![&#x200B; 共通フィールドデータセットエラー – ソリューション &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
+![ 共通フィールドデータセットエラー – ソリューション ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## フィールド名のドロップエラー
 
@@ -93,9 +94,9 @@ ACS を使用している間に、解決に時間がかかりフラストレー�
 
 エラーポイントは、**エンリッチメントアクティビティ** で発生する場合があります。 最も一般的なものの 1 つを以下に示します。
 
-![&#x200B; フィールド名のドロップエラー &#x200B;](/help/_assets/kt-13256/field-name-dropped-error.png)
+![ フィールド名のドロップエラー ](/help/_assets/kt-13256/field-name-dropped-error.png)
 
-これは、アクティビティの式名を手動で編集したときに発生します。 この画像は、式が `name ` から `i__name` に変更されたことを示しています。
+これは、アクティビティの式名を手動で編集したときに発生します。 この画像は、式が `name` から `i__name` に変更されたことを示しています。
 
 **解決策：**
 
@@ -115,7 +116,7 @@ ACS を使用している間に、解決に時間がかかりフラストレー�
 **原因：**
 これは、エンリッチメントやその他のアクティビティを含む複雑なワークフローで発生する一般的なエラーです。 ワークフローに対して複数の変更を行う際に、一部のアクティビティワークフローが正しく保存されないことがあります。
 
-![&#x200B; 一時テーブルの削除エラー &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![ 一時テーブルの削除エラー ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **解決策：**
 このエラーが発生する可能性がある方法は多数あるので、単純な修正はありません。 単純なワークフローの場合は、アクティビティを再設定する方が良いでしょう。 複雑なワークフローでは、ワークフローアクティビティを新しいワークフローにコピーし、保存して再実行する方が効率的です。

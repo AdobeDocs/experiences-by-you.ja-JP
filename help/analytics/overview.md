@@ -1,12 +1,12 @@
 ---
 title: ユーザーによる Analytics
 description: ユーザーによる Analytics は、Adobe Analytics の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 19%
@@ -45,7 +45,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="技術的 [!DNL Adobe Analytics] 用語を使用しない方法での翻訳" src="https://video.tv.adobe.com/v/345330?format=jpeg&captions=jpn" />
+      <img alt="技術的 [!DNL Adobe Analytics] 用語を使用しない方法での翻訳" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
@@ -58,7 +58,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="標準化された命名規則の作成" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=ja" />
+      <img alt="標準化された命名規則の作成" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -76,7 +76,7 @@ ht-degree: 19%
 
 ## その他のリソース
 
-* [Adobe Analytics コミュニティのExperience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
-* [Adobe Analytics ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
+* [Experience League Adobe Analytics コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
+* [Adobe Analytics ドキュメント ](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
 * [Adobe Analytics チュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja)
-* [Adobe Analyticsの製品情報 &#x200B;](https://business.adobe.com/jp/products/analytics/adobe-analytics.html)
+* [Adobe Analyticsの製品情報 ](https://business.adobe.com/products/analytics/adobe-analytics.html)
