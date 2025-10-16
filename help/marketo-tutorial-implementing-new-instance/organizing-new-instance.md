@@ -27,7 +27,7 @@ ht-degree: 2%
 
 ## Marketo Engage インスタンスの整理方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422765/?captions=jpn&quality=12&learn=on)
 
 ### 手順 1 - プログラムを整理するためのフォルダー構造の設定
 
