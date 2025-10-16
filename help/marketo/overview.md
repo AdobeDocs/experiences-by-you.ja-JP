@@ -76,7 +76,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
 
 ## その他のリソース
 
-* [Marketo民族（コミュニティ） ](https://nation.marketo.com/)
-* [Adobe Marketo Engage ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Adobe Marketo Engage チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Adobe Marketo Engageの製品情報 ](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Marketo民族（コミュニティ） &#x200B;](https://nation.marketo.com/)
+* [Adobe Marketo Engage ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Adobe Marketo Engage チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [Adobe Marketo Engageの製品情報 &#x200B;](https://business.adobe.com/products/marketo/adobe-marketo.html)

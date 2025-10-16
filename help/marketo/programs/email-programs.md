@@ -29,13 +29,13 @@ A/B テストを使用してメールプログラムを作成する方法につ�
 
 詳しくは、関連する製品ガイドを参照してください。
 
-* [ メールプログラムのドキュメントについて ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [&#x200B; メールプログラムのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 この機能に関するその他のヘルプについては、次のビデオをご覧ください。
 
-* [ スケジュールされたメールの手順 ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [AB テストの手順 ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [&#x200B; スケジュールされたメールの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [AB テストの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 メールプログラムの使用方法について、同業者から学びます。
 
-* [ エキスパートのお客様のブログ投稿：メールプログラム ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [&#x200B; エキスパートのお客様のブログ投稿：メールプログラム &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] 実装プレイブックのダウンロード
 
-はじめる前に、[ プレイブックをダウンロード ](assets/aa-implementation-playbook.xlsx) してください。
+はじめる前に、[&#x200B; プレイブックをダウンロード &#x200B;](assets/aa-implementation-playbook.xlsx) してください。
 
 ## 「Business Requirements」タブ
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 * **名前：** ほとんどの人が理解できるシンプルで短い名前を指定します。 新しいユーザーが取得し、何を取得するための変数なのかを理解できるよう、直感的なものにする必要があります。
 * **説明：** 変数の使用目的と、変数で追跡するデータに関する詳細です。 これはシンプルかつ短くし、インターフェイスで使用されている説明と一致させます。 ユーザーがタグ付けドキュメントを参照する必要がなくなるのが理想です。 したがって、新しいディメンションが管理バックエンドで設定された場合、同じ説明をそこに追加します。 これにより、Workspace内で情報アイコンを直接押すと、ディメンションが何かを把握でき、Excel ドキュメントを取り出す必要がなくなります。
 
-![ ページ URL の簡略化 ](assets/page-url-simplified.png)
+![&#x200B; ページ URL の簡略化 &#x200B;](assets/page-url-simplified.png)
 
 * **Code:** 値を設定するバックエンドのコード。 ページ上のデータレイヤーのフィールドにすることも、ローンチルールや処理ルールなどを使用して実行するよう呼び出すこともできます。
 * **分類レポート：** 分類インポーターまたは分類ルールビルダーを使用して実行される分類レポートを呼び出します。
@@ -63,7 +63,7 @@ ht-degree: 0%
 * **設定：** 各変数の管理 UI 設定（eVar の場合は、有効期限、配分、マーチャンダイジングなど）。
 
 サンプル SDR のスクリーンショット：
-![ サンプル SDR](assets/sample-sdr.png)
+![&#x200B; サンプル SDR](assets/sample-sdr.png)
 
 また、このタグ付けドキュメントを使用して、空き変数と「無効な」変数を追跡することをお勧めします。 ディメンションが役に立たなくなった場合、開発では通常、ディメンションを削除するのに時間がかかります。 その後も、キャッシュが発生する場合や、ディメンションが別の場所にも設定されていることに気付く場合があります。 ディメンションのクリーンアップは簡単ではなく、多くの場合、忍耐が必要です。 ここでは、ユーザーが無効な情報を追いかけて混乱しないように、それらを見えない場所に隠しておくためのヒントを紹介します。
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 
 このようにすると、データは常にクリーンな状態に保たれ、無効な値を明確にすることができます。
 
-![ 変数とイベント ](assets/variables-and-events-overview.png)
+![&#x200B; 変数とイベント &#x200B;](assets/variables-and-events-overview.png)
 
 ## 「プロパティ」タブ
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 >
 >[!DNL Adobe Analytics] にサイト名/プロパティ ディメンションを作成します。 サイト名やアプリ名を特定する専用のディメンション（通常はeVar）を [!DNL Adobe Analytics] 用すると、セグメント化、トラブルシューティング、仮想レポートスイートの作成などを行うことができます。 特に、複数のサイトを 1 つの（グローバルな）レポートスイートにまとめる場合、メリットは無限にあります。 重要なのは、開発チームが、すべてのページ読み込み（s.t calls/trackState）とすべてのカスタムイベント（s.tl calls/trackAction）を含め、常にこの値をプロパティディメンションに設定するようにすることです。 処理ルールは、これらの値を適切に一貫して設定するのに役立つツールとなります。
 
-実装プレイブックの入力の詳細については、[Doug Moore によるこちらのビデオをご覧ください ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}。
+実装プレイブックの入力の詳細については、[Doug Moore によるこちらのビデオをご覧ください &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}。
 
 ## 作成者
 
@@ -116,6 +116,6 @@ ht-degree: 0%
 Christel Guidon （NortonLifeLock、デジタル [!DNL Analytics] ッドレスプラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン
 
-![ レイチェル・フェンウィック ](assets/Rachel-Fenwick-150.png)
+![&#x200B; レイチェル・フェンウィック &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick （[!DNL Adobe] 社シニアコンサルタント）
