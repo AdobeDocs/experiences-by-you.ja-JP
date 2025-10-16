@@ -29,12 +29,12 @@ A/B テストを使用してメールプログラムを作成する方法につ�
 
 詳しくは、関連する製品ガイドを参照してください。
 
-* [&#x200B; メールプログラムのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [&#x200B; メールプログラムのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=ja)
 
 この機能に関するその他のヘルプについては、次のビデオをご覧ください。
 
-* [&#x200B; スケジュールされたメールの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [AB テストの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [&#x200B; スケジュールされたメールの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=ja)
+* [AB テストの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=ja)
 
 メールプログラムの使用方法について、同業者から学びます。
 

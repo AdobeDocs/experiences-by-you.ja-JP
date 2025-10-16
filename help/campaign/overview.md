@@ -46,7 +46,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="マーケター向けトラブルシューティング" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="マーケター向けトラブルシューティング" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ja" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="マーケター向け Adobe Campaign 成功のベストプラクティス 10 件" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="マーケター向け Adobe Campaign 成功のベストプラクティス 10 件" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ja" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -81,4 +81,4 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
 * Adobe Campaign v8 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
 * Adobe Campaign Classic v7 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
 * Adobe Campaign Standard - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja)/[&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
-* [Adobe Campaignの製品情報 &#x200B;](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Adobe Campaignの製品情報 &#x200B;](https://business.adobe.com/jp/products/campaign/adobe-campaign.html)

@@ -105,7 +105,7 @@ ht-degree: 0%
 >
 >[!DNL Adobe Analytics] にサイト名/プロパティ ディメンションを作成します。 サイト名やアプリ名を特定する専用のディメンション（通常はeVar）を [!DNL Adobe Analytics] 用すると、セグメント化、トラブルシューティング、仮想レポートスイートの作成などを行うことができます。 特に、複数のサイトを 1 つの（グローバルな）レポートスイートにまとめる場合、メリットは無限にあります。 重要なのは、開発チームが、すべてのページ読み込み（s.t calls/trackState）とすべてのカスタムイベント（s.tl calls/trackAction）を含め、常にこの値をプロパティディメンションに設定するようにすることです。 処理ルールは、これらの値を適切に一貫して設定するのに役立つツールとなります。
 
-実装プレイブックの入力の詳細については、[Doug Moore によるこちらのビデオをご覧ください &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}。
+実装プレイブックの入力の詳細については、[Doug Moore によるこちらのビデオをご覧ください &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja){target="_blank"}。
 
 ## 作成者
 
