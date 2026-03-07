@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # アーカイブ済み
 
-このリポジトリは <https://github.com/Adobe-Enterprise-Docs/experiences-by-you.en> に移行されました。
+このリポジトリは <https://github.com/Adobe-Enterprise-Docs/experiences-by-you.ja-JP> に移行されました。
