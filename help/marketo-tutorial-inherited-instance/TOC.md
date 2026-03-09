@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 4%
+source-wordcount: '79'
+ht-degree: 8%
 
 ---
 
@@ -24,5 +24,5 @@ ht-degree: 4%
 + [インスタンスガバナンスガイドの作成](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [マーケティングテクニカルスタックを視覚的にマッピング](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [プログラムの運用開始前の品質保証プロセス](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [[!DNL Marketo Engage]  チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
-+ [&#x200B; 視点に戻る &#x200B;](https://experienceleague.adobe.com/ja/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [[!DNL Marketo Engage] チュートリアル](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [視点に戻る](https://experienceleague.adobe.com/ja/perspectives)
