@@ -26,5 +26,5 @@ ht-degree: 7%
 + [新しいインスタンスの整理と命名規則の確立](./organizing-new-instance.md)
 + [Dynamic Chatを使用したオムニチャネルインタラクティブマーケティングのデザイン](./designing-omnichannel-conversational-marketing.md)
 + [インスタンスガバナンスとドキュメントの概要](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage] チュートリアル](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [[!DNL Marketo Engage] チュートリアル](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/overview)
 + [視点に戻る](https://experienceleague.adobe.com/ja/perspectives)
