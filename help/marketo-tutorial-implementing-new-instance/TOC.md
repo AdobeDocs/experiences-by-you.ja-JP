@@ -7,10 +7,10 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 3%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 
@@ -26,5 +26,5 @@ ht-degree: 3%
 + [新しいインスタンスの整理と命名規則の確立](./organizing-new-instance.md)
 + [Dynamic Chatを使用したオムニチャネルインタラクティブマーケティングのデザイン](./designing-omnichannel-conversational-marketing.md)
 + [インスタンスガバナンスとドキュメントの概要](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage]  チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
-+ [&#x200B; 視点に戻る &#x200B;](https://experienceleague.adobe.com/ja/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [[!DNL Marketo Engage] チュートリアル](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/overview)
++ [視点に戻る](https://experienceleague.adobe.com/ja/perspectives)
