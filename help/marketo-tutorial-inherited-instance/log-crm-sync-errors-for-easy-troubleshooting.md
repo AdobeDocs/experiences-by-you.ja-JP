@@ -1,6 +1,6 @@
 ---
-title: CRM 同期エラーをログに記録して、トラブルシューティングを容易にする
-description: CRM 同期エラーのログを使用して、CRM 同期の問題を調査し、スムーズに実行する方法を説明します。
+title: 簡単なトラブルシューティング用のCRM同期エラーのログ
+description: CRM同期エラーのログを使用して、CRM同期の問題を調査し、円滑に実行する方法を説明します。
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -9,56 +9,55 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
-hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
 
-# CRM 同期エラーをトラブルシューティング用にログ記録
+# トラブルシューティング用のCRM同期エラーのログ
 
-[!DNL Marketo Engage] 管理者は、インスタンスが CRM と同期しているかどうかを確認することが、「毎日のルーチン [&#x200B; の重要な部分になるはず &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} す。 [&#x200B; 通知 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ja){target="_blank"} セクション（[!DNL Marketo Engage] インターフェイスの右上隅にあります）では頻繁な同期の問題を見つけて調査しますが、インスタンスのヘルスを組織的に管理するのに役立つヒントが用意されています。 Marketo Champion （2019-2022）の [!DNL Adobe]、管理者ユーザーは、トラブルシューティングを容易にするために、CRM 同期エラーのログを保持することをお勧めします。
+[!DNL Marketo Engage]管理者として、インスタンスがCRMと同期しているかどうかを確認することは、[毎日のルーチン &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}の重要な部分である必要があります。 [通知セクション &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ja){target="_blank"} （[!DNL Marketo Engage] インターフェイスの右上隅にあります）では、頻繁な同期の問題を確認して調査できますが、インスタンスの正常性を整理した方法で管理するのに役立つプロ向けのヒントがあります。[!DNL Adobe] Marketo Champion （2019～2022年）、Amy Goldfineは、管理者ユーザーがトラブルシューティングを容易にするために、CRM Sync エラーのログを保持することを推奨しています。
 
-![&#x200B; 「同期エラー」タブのスクリーンショット &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
+![同期エラーのタブのスクリーンショット &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
-## CRM 同期エラーを記録するのはなぜですか？
+## CRM同期エラーの記録を保持する理由
 
-管理者は、CRM 同期エラーをログに記録 [!DNL Marketo Engage] ることで、CRM 管理者と問題やトレンドをレビューし、根本原因を修正することができます。 次の手順に従って、インスタンスの CRM 同期の問題を文書化します。
+CRM同期エラーをログに記録することで、[!DNL Marketo Engage]管理者はCRM管理者の問題と傾向を確認して、根本原因を修正できます。 以下の手順に従って、インスタンスのCRM同期の問題を文書化します。
 
-## CRM 同期エラーのログを保持する方法
+## CRM同期エラーのログを保持する方法
 
-開始する前に、[CRM 同期エラーログテンプレート &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx) をダウンロードしてください。
+開始する前に、[CRM Sync Errors Log テンプレート &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx)をダウンロードしてください。
 
-**手順 1:** [!DNL Marketo Engage] の *[!UICONTROL 管理者 &#x200B;] セクション* に移動します。 *[!UICONTROL 統合]* の下で、使用する [!DNL CRM] に応じて「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」、または「*[!DNL Veeva]*」をクリックし、「*[!UICONTROL 同期エラー]*」タブをクリックします。
+**手順1:** [!DNL Marketo Engage]の&#x200B;*[!UICONTROL 管理者] セクション*&#x200B;に移動します。 *[!UICONTROL 統合]*&#x200B;で、使用している[!DNL CRM]に応じて&#x200B;*[!DNL Salesforce]*、*[!DNL Microsoft Dynamics]*&#x200B;または&#x200B;*[!DNL Veeva]*&#x200B;をクリックし、「*[!UICONTROL 同期エラー]*」タブをクリックします。
 
-**手順 2:** [ フィルター ] パネルを使用して、エラーのレコードを  [!DNL CSV]  ファイルとしてエクスポート [[!UICONTROL &#x200B; することを選択できます &#x200B;]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=ja#filter-sync-errors){target="_blank"}。 数時間しかない場合は、「同期エラー *[!UICONTROL タブから直接コピーして貼り付け]* 方法をお勧めします。
+**手順2:** [!UICONTROL &#x200B; フィルター] パネル [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=ja#filter-sync-errors){target="_blank"}を使用して、エラーの記録を [!DNL CSV]  ファイルとして書き出すことを選択できます。 時間が数時間しかない場合、「*[!UICONTROL 同期エラー]*」タブから直接コピー&amp;ペーストすることをお勧めします。
 
-**手順 3:** エラーが発生した日付をメモします。
+**手順3:** エラーが発生した日付を記録します。
 
-**手順 4:** このエラーの影響を受ける人物レコードの数を入力します。 （CRM で 1 人のユーザーに対してのみエラーがスローされる場合があります。 同じエラーを一度に抱える人が多い場合があります）。
+**手順4:**&#x200B;そのエラーの影響を受ける人物レコードの数を入力します。 （CRMでエラーがスローされるのは、1人の場合だけです。 同じエラーを一度に持つ人が多い場合があります。
 
-**手順 5:** エラーの影響を受けた 1 人の人物のメールアドレスをメモします。 これにより、エラーを簡単に参照して CRM 管理者と話し合うことができます。
+**手順5:** エラーの影響を受ける1人のユーザーの電子メールアドレスをメモします。 これにより、CRM管理者がエラーを参照して議論することが容易になります。
 
-**手順 6:** [!DNL Marketo Engage] 内の人物レコードへのリンクを貼り付け、その人物の [!UICONTROL CRM リード/連絡先 &#x200B;] レコードを貼り付けます。
+**手順6:**&#x200B;その人物の[!DNL Marketo Engage]および[!UICONTROL CRM リード/コンタクト &#x200B;] レコードの人物レコードにリンクを貼り付けます。
 
-**手順 7:** 最後の列に、エラーの実際のテキストを貼り付けます。
+**手順7:**&#x200B;最後の列に、エラーの実際のテキストを貼り付けます。
 
 ## 次の手順
 
-**エラーコードの特定：** エラーコードを理解するには、開発者向けドキュメント [&#x200B; 応答レベルのエラーコードの表 &#x200B;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} の説明を調べ、エラーを解決するための一般的な次の手順を見つけます。
+**エラーコードの特定：** エラーコードを理解するには、開発者ドキュメント [応答レベルのエラーコード テーブル &#x200B;](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"}の説明を参照し、エラーを解決するための一般的な次の手順を見つけます。
 
-## 作成者
+## 制作者
 
-**エイミー・ゴールドファイン**\
-[!DNL Adobe] Marketo チャンピオン（2019 年～2022 年）
-*創業者、MarketingOpsAdvice.com*
+**Amy Goldfine**\
+[!DNL Adobe] Marketo Champion （2019-2022）
+*Founder, MarketingOpsAdvice.com*
 
-![&#x200B; エイミー・ゴールドファイン &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
+![Amy Goldfine](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
-**エイミー・チウ**
-*[!DNL Adobe]* の導入およびリテンション・マーケティング・マネージャ
+**Amy Chiu**
+*アダプション&amp;リテンションマーケティングマネージャー、[!DNL Adobe]*
 
-![&#x200B; エイミー・チウ &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width="25%"}

@@ -1,6 +1,6 @@
 ---
-title: マーケティングテクニカルスタックを把握するためのデータフロー図の作成
-description: データユニバースを理解し、インスタンスを効率的に監査および整理するための「リードとデータソース」の図を作成する方法について説明します。
+title: データフロー図を作成し、マーケティングテクノロジースタックを把握する
+description: 「リードとデータソース」のダイアグラムを作成してデータのユニバースを理解し、インスタンスを効率的に監査および整理する方法を説明します。
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -9,52 +9,51 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
 
 ---
 
-# マーケティングテクニカルスタックを把握するためのデータフロー図を作成
+# データフロー図を作成し、マーケティングテクノロジースタックを把握する
 
-何年も使用されている [!DNL Marketo Engage] インスタンスを引き継ぐ管理者にとって、インスタンスを効率的に監査して整理することは不可能なミッションのようなものです。 [!DNL Adobe] [!DNL Marketo Champion] （2019）の Kelly Jo Horton 氏は、長い歴史を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために [&#x200B; 「リードとデータソースの図を作成 &#x200B;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Horton が共有した例を基に、独自のデータフロー図を作成する方法を学びます。 MarTech エコシステムについて説明します。
+何年も前から稼働している[!DNL Marketo Engage] インスタンスを引き継ぐ管理者として、インスタンスを効率的に監査して整頓することは不可能な使命です。 [!DNL Adobe] [!DNL Marketo Champion] （2019）のKelly Jo Hortonは、長年の実績を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために、[&#x200B; リードとデータソース&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}の図を作成することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Hortonが共有した例を基に、独自のデータフロー図を作成する方法を説明します。 マーテクエコシステムの実際を知る！
 
-## 継承されたインスタンスのアーキテクチャ図を作成する理由
+## 継承したインスタンスのアーキテクチャ図を作成する理由
 
-1. **ライブインスタンスから継承したマーケティングテクニカルスタックについて確認します。** すべてのマーケティング運用管理者/プラットフォーム運用管理者は、新しい会社で始める際にこの演習を行うことをお勧めします。 この作成プロセスにより、管理者ユーザーは、外部統合から [!DNL Marketo Engage] に送信されたデータとアクティビティの全体像を確認して、API エラーを簡単にトラブルシューティングできます。
-2. **外部統合を管理する主な関係者について確認します。** Kelly Jo Horton が関係者をすばやく特定するために使用するヒントは、API ユーザーのリストを参照することです。
-   1. **「管理者」セクションの「統合/LaunchPoint」タブに移動します。** 「LaunchPoint」タブに移動する方法について詳しくは、[REST API で使用するカスタムサービスの作成 &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ja){target="_blank"} を参照してください。
-   2. API 呼び出し情報セクションの統合/「Web サービス」タブで、API ユーザー別の API 使用状況の統計を確認します。 API 呼び出し番号をクリックすると、各ユーザーが実行した特定の個別の呼び出しを表示できます。
+1. **ライブインスタンスから継承したマーケティングテクノロジースタックを理解します。** すべてのマーケティングオペレーションマネージャー/プラットフォームオペレーションマネージャーは、新しい会社を始める際にこの演習を行うことが推奨されます。 この作成プロセスにより、管理者ユーザーは、外部統合から[!DNL Marketo Engage]に送信されたデータとアクティビティの全体像を確認し、API エラーを簡単にトラブルシューティングできます。
+2. **外部統合を管理する主要な関係者を理解します。** Kelly Jo Hortonが関係者をすばやく特定するために使用するヒントは、API ユーザーリストを参照することです。
+   1. **管理者セクションの「統合>LaunchPoint」タブに移動します。** 「LaunchPoint」タブに移動する方法の詳細：[REST APIで使用するカスタムサービスを作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ja){target="_blank"}。
+   2. API呼び出し情報セクションの統合/Web サービス タブで、API ユーザーによるAPI使用統計を検索します。 API呼び出し番号をクリックすると、各ユーザーが行った特定の個々の呼び出しを表示できます。
 
-## この視覚的なデータフロー図の演習を行う方法
+## この視覚的なデータフロー図の作成方法
 
-### 手順 1：現在の状態のダイアグラム
+### 手順1：現在の状態の図
 
-「現在の状態」ダイアグラムを作成します。 次に例を示します。
+「現在の状態」図を作成します。 次に例を示します。
 
-![&#x200B; 現在の状態の図 &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
+![現在の状態図](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
 
 
-### 手順 2：今後の状況を示す図
+### ステップ 2：未来図
 
-テクノロジーとシステムのロードマップを技術者以外の関係者に提示する際に使用できる、「将来の状態」図を作成します。 次に例を示します。
+技術やシステムのロードマップを技術者以外の関係者に提示する際に使用できる「将来の状態」図を作成します。 次に例を示します。
 
-![&#x200B; 今後の状況を示す図 &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
+![未来状態図](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
 
-### 手順 3：テクニカルバージョン
+### 手順3：技術バージョン
 
-各統合の API ユーザー名、[!DNL Marketo Engage] にプッシュまたは [!DNL Marketo Engage] から取得されるデータのタイプの簡単な説明、ミドルウェアのフローとトリガーの詳細図などの詳細を示す技術バージョンを作成します。次に例を示します：
+各統合のAPI ユーザー名、プッシュ先[!DNL Marketo Engage]または[!DNL Marketo Engage]から取得するデータのタイプの簡単な説明、ミドルウェアフローとトリガーの詳細な図などの詳細を示すテクニカルバージョンを作成します。次に例を示します。
 
-![&#x200B; 技術版 &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![技術バージョン &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## 次の手順
 
-**例の基本を学ぶ：**
-サンプルデータフロー図を 1 つダウンロードして、マーケティングテクニカルスタック、ユーザー、データフローの現在の状態をマッピングするか、インスタンスを監査する際にデータユニバースの図を最初から作成します。
+**例を使用する：**
+サンプルデータフロー図のいずれかをダウンロードして、マーケティングテクノロジースタックの現在の状態、個人とデータフローをマッピングしたり、インスタンスを監査する際にデータ宇宙の図をゼロから作成したりします。
 
 
 <table style="table-layout:fixed">
@@ -62,28 +61,28 @@ ht-degree: 1%
       <td style="border: 0;">
       <div style="text-align: center;">
           <a href="./_assets/downloads/Current_Future_State_Lead_Data_Sources.zip">
-            <strong> 現状と今後の見通し </strong>
+            <strong>現在の状態と将来の状態</strong>
          </a>
       </div>
       </td>
       <td style="border: 0;">
       <div style="text-align: center;">
          <a href="./_assets/downloads/Detailed_Layers_by_Functional_Category_Stacked_Technologies.zip">
-         <strong> 機能カテゴリ別の詳細レイヤー </strong>   
+         <strong>機能別の詳細なレイヤー</strong>   
          </a>
       </div>
       </td>
       <td style="border: 0;">
          <div style="text-align: center;">
          <a href="./_assets/downloads/Lead_Data_Source.zip">
-           <strong> リードとデータSourceのフロー </strong>  
+           <strong> リードとデータ Source フロー</strong>  
          </a>
          </div>
        </td> 
        <td style="border: 0;">
          <div style="text-align: center;">
          <a href="./_assets/downloads/Simple_World_Class_Stage_Stack.zip">
-          <strong> 簡略化された図 </strong>  
+          <strong>簡略化された図</strong>  
          </a>
          </div>
         </td>  
@@ -91,21 +90,21 @@ ht-degree: 1%
    <tr>
     <td style="border: 0;">
          <div>
-          <img alt="現在の状態と将来の状態の図" src="./_assets/Thumbnail_Current-Future State Lead_Data Sources_KellyJo_Horton.png"/>
+          <img alt="現状と未来の状況ダイアグラム" src="./_assets/Thumbnail_Current-Future State Lead_Data Sources_KellyJo_Horton.png"/>
          </a>
       </div>
       </td>
       <td style="border: 0;">
          <div>
          <a href="./_assets/downloads/Detailed_Layers_by_Functional_Category_Stacked_Technologies.zip">
-         <img alt="機能カテゴリ別詳細レイヤー図" src="./_assets/Thumbnail_Detailed_Layers_by_Functional_Category_Stacked_Technologies_KellyJo_Horton.png" />
+         <img alt="機能別の詳細なレイヤーのカテゴリ図" src="./_assets/Thumbnail_Detailed_Layers_by_Functional_Category_Stacked_Technologies_KellyJo_Horton.png" />
        </a>
          </div>
       </td>
        <td style="border: 0;">
          <div>
             <a href="./_assets/downloads/Lead_Data_Source.zip">
-         <img alt="リードと Data Sourceのフロー図" src="./_assets/Thumbnail_Lead-Data Source Diagram_KellyJo_Horton.png" />
+         <img alt="リードとデータSourceのフロー図" src="./_assets/Thumbnail_Lead-Data Source Diagram_KellyJo_Horton.png" />
          </a>
          </div>
       </td>
@@ -118,19 +117,19 @@ ht-degree: 1%
       </td>
 </table>
 
-使用できるツールには、draw.io （Google Docs）、[!DNL Adobe] XD、Figma、Gliffy （Confluence）があります。
+使用できるツールは次のとおりです。draw.io （Google Docs）、[!DNL Adobe] XD、Figma、Gliffy （Confluence）
 
-**アーキテクチャ図がすでにある場合はどうなりますか？** 新しいチームメンバーは、異なる視点を持つことができます。 オンボーディングプロセスの一環として新しい [!DNL Marketo Engage] 管理者にこの演習を行ってもらい、他のユーザーと共有することは価値があります。
+**アーキテクチャ図が既に存在する場合はどうなりますか？** 新しいチームメンバーは、さまざまな視点を持つことができます。 新しい[!DNL Marketo Engage]管理者がオンボーディングプロセスの一環としてこの演習を行い、他のユーザーと共有することは価値があります。
 
-## 作成者
+## 制作者
 
 **ケリー・ジョー・ホートン**\
-[!DNL Adobe] Marketo チャンピオン （2019）
-*Etumos のシニア・クライアント・パートナー*
+[!DNL Adobe] Marketo Champion （2019年）
+*Etumosのシニアクライアントパートナー*
 
 ![&#x200B; ケリー・ジョー・ホートン &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
-**エイミー・チウ**
-*導入およびリテンション・マーケティング・マネージャ、[!DNL Adobe]*
+**Amy Chiu**
+*導入および維持マーケティングマネージャー、[!DNL Adobe]*
 
-![&#x200B; エイミー・チウ &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
