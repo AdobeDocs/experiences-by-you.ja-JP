@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # ドキュメントを使用したインスタンスガバナンスガイドの作成
 
-従来の[!DNL Marketo Engage] インスタンスに移行する際、多くの場合、最新の機能ドキュメントや技術ドキュメントが不足するという課題が伴います。 管理者にとって、適切なインスタンスのガバナンスを確保するためのガイドラインを策定することは、見落とすことのできない重要な責任です。 これは、確立された [!DNL Marketo Engage]  インスタンス ](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)で作業する際に効率性を[向上させるための重要な戦略の1つです。
+従来の[!DNL Marketo Engage] インスタンスに移行する際、多くの場合、最新の機能ドキュメントや技術ドキュメントが不足するという課題が伴います。 管理者にとって、適切なインスタンスのガバナンスを確保するためのガイドラインを策定することは、見落とすことのできない重要な責任です。 これは、確立された [!DNL Marketo Engage]  インスタンス [&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)で作業する際に効率性を向上させるための重要な戦略の1つです。
 
 [!DNL [!DNL Adobe] Marketo Champion] （2018）のNick Hajdinから提供されたこのステップバイステップチュートリアルでは、このプロセスをガイドして、インスタンスの設定の概要、主要な運用プログラムの文書化、厳格なガバナンスポリシーを適用するための[!DNL changelog]のメンテナンスを行います。
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 1. 拡張可能な方法で、社内ユーザーをより簡単にトレーニング。
 2. [!DNL Marketo Engage]でより効率的に長期的に構築します。
-3. 電子メールを掘り下げる時間を節約するために、インスタンスの健全性と健全性を今後も維持します。コンテキストを取得するために、[監査証跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)、[ アクティビティログ ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)。
+3. 電子メールを掘り下げる時間を節約するために、インスタンスの健全性と健全性を今後も維持します。コンテキストを取得するために、[監査証跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)、[&#x200B; アクティビティログ &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)。
 4. チームが離職した場合、[!DNL Marketo Engage]知識を新しい[!DNL Marketo Engage]管理者に転送する際の時間を節約します。
 
 ## [!DNL Marketo Engage] ガバナンスガイド 101
@@ -51,7 +51,7 @@ ht-degree: 1%
 
 ### 手順2: [!DNL Marketo Engage] ドキュメントに含める要素を特定し、[!DNL Changelogs]
 
-形式は、クラウドベースのプラットフォームと共有ドキュメントで異なります。 自社のニーズに合ったフォーマットを設計できます。 [簡単なドキュメントと変更履歴のExcel テンプレート ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)が用意されています。ここでは、最初に使用できる重要な要素について説明します。 これには、以下が含まれます。
+形式は、クラウドベースのプラットフォームと共有ドキュメントで異なります。 自社のニーズに合ったフォーマットを設計できます。 [簡単なドキュメントと変更履歴のExcel テンプレート &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)が用意されています。ここでは、最初に使用できる重要な要素について説明します。 これには、以下が含まれます。
 
 * ドキュメント
    * プログラムテンプレート名
@@ -93,7 +93,7 @@ ht-degree: 1%
 
 ## 次の手順
 
-この[ シンプルなテンプレート ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)をダウンロードして開始します。
+この[&#x200B; シンプルなテンプレート &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)をダウンロードして開始します。
 
 上記の手順に従って、ガバナンスガイドとドキュメントを作成します。 プロセスを進める際には、次の経験則を考慮してください。
 

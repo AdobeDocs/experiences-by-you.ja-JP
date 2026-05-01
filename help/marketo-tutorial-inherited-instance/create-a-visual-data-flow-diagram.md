@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # データフロー図を作成し、マーケティングテクノロジースタックを把握する
 
-何年も前から稼働している[!DNL Marketo Engage] インスタンスを引き継ぐ管理者として、インスタンスを効率的に監査して整頓することは不可能な使命です。 [!DNL Adobe] [!DNL Marketo Champion] （2019）のKelly Jo Hortonは、長年の実績を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために、[ リードとデータソース&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}の図を作成することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Hortonが共有した例を基に、独自のデータフロー図を作成する方法を説明します。 マーテクエコシステムの実際を知る！
+何年も前から稼働している[!DNL Marketo Engage] インスタンスを引き継ぐ管理者として、インスタンスを効率的に監査して整頓することは不可能な使命です。 [!DNL Adobe] [!DNL Marketo Champion] （2019）のKelly Jo Hortonは、長年の実績を持つインスタンスに足を踏み入れたとき、データの世界に慣れるために、[&#x200B; リードとデータソース&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}の図を作成することでこの課題に取り組みました。 このチュートリアルでは、Kelly Jo Hortonが共有した例を基に、独自のデータフロー図を作成する方法を説明します。 マーテクエコシステムの実際を知る！
 
 ## 継承したインスタンスのアーキテクチャ図を作成する理由
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
 各統合のAPI ユーザー名、プッシュ先[!DNL Marketo Engage]または[!DNL Marketo Engage]から取得するデータのタイプの簡単な説明、ミドルウェアフローとトリガーの詳細な図などの詳細を示すテクニカルバージョンを作成します。次に例を示します。
 
-![技術バージョン ](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
+![技術バージョン &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## 次の手順
@@ -127,7 +127,7 @@ ht-degree: 1%
 [!DNL Adobe] Marketo Champion （2019年）
 *Etumosのシニアクライアントパートナー*
 
-![ ケリー・ジョー・ホートン ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
+![&#x200B; ケリー・ジョー・ホートン &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
 *導入および維持マーケティングマネージャー、[!DNL Adobe]*
