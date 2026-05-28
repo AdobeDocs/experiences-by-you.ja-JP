@@ -45,7 +45,7 @@ ht-degree: 28%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="技術的でない方法で[!DNL Adobe Analytics]の技術言語を翻訳しています" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="技術的でない方法で[!DNL Adobe Analytics]の技術言語を翻訳しています" src="https://video.tv.adobe.com/v/345330?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">

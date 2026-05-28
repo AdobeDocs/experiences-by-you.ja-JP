@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # 強化されたコミュニティの構築
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341115/?captions=jpn&quality=12&learn=on)
 
 権限を与えられたコミュニティは、いくつかの顕著な特徴を持つものです。 まず、[!DNL Adobe Analytics]管理者がサポートしています。 実装におけるビジネス要件の表現方法に関する知識があります。 最後に、データにもとづく意思決定に自信を持って分析を活用する方法です。 多くの企業は、社内の[!DNL Adobe Analytics] ユーザーグループまたはより正式なコミュニティが提供する構造から恩恵を受けています。
 
