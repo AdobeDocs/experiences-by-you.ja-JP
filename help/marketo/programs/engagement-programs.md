@@ -1,6 +1,6 @@
 ---
 title: エンゲージメントプログラム
-description: 最初のエンゲージメントプログラムの作成方法を説明します。
+description: 最初のエンゲージメントプログラムの構築方法を学びましょう。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,8 +13,8 @@ solution: Marketo Engage
 exl-id: 6bd2433a-ec79-4ce6-873c-4c897c4b9f82
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 22%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 22%
 
 最初のエンゲージメントプログラムを作成するには、このステップバイステップチュートリアルに従います。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452680/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true}
 
 ## その他のリソース
 
-詳しくは、関連する製品ガイドを参照してください。
+詳しくは、関連製品ガイドを参照してください。
 
-* [&#x200B; エンゲージメントプログラムのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=ja)
+* [エンゲージメントプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
 
-同僚からエンゲージメントプログラムの使用方法を学ぶ：
+エンゲージメントプログラムの活用方法について、他のユーザーから学びましょう。
 
-* [&#x200B; エキスパートのお客様のブログ投稿：エンゲージメントプログラム &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
+* [エキスパートのユーザー事例ブログ：エンゲージメントプログラム](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

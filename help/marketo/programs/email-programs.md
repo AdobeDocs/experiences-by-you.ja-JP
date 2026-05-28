@@ -1,6 +1,6 @@
 ---
 title: メールプログラム
-description: A/B テストを使用してメールプログラムを作成する方法を説明します。
+description: A/B テストを実施して、メールプログラムを作成する方法を説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,8 +13,8 @@ feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 22%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 22%
 
 A/B テストを使用してメールプログラムを作成する方法については、このステップバイステップチュートリアルをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453368/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## その他のリソース
 
-詳しくは、関連する製品ガイドを参照してください。
+詳しくは、関連製品ガイドを参照してください。
 
-* [&#x200B; メールプログラムのドキュメントについて &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=ja)
+* [メールプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
-この機能に関するその他のヘルプについては、次のビデオをご覧ください。
+この機能に関する詳細なヘルプについては、その他のビデオをご覧ください。
 
-* [&#x200B; スケジュールされたメールの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=ja)
-* [AB テストの手順 &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=ja)
+* [スケジュール済みメールのチュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [A/B テストを通じて](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
-メールプログラムの使用方法について、同業者から学びます。
+メールプログラムの使用方法について、他のユーザーから学ぶ：
 
-* [&#x200B; エキスパートのお客様のブログ投稿：メールプログラム &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [エキスパートのユーザー事例ブログ投稿：メールプログラム](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
