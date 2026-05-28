@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '228'
 ht-degree: 16%
 
 ---
 
-# Marketo by You: ユーザー別のリソース（ユーザー用）。
+# Marketo by You: Resources by users, for users.
 
-Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 エクスペリエンスの特徴は、[!DNL Adobe] しいExperience Cloud ソリューションで一定の専門知識と影響力を獲得した日常的なユーザーが作成したコンテンツです。 このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
+[!DNL Adobe]個のExperience Cloud ソリューションの最も強力な機能 あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 「Experiences by You」では、[!DNL Adobe]個のExperience Cloud ソリューションで高度な専門知識と影響力を得た日常的なユーザーが作成するコンテンツが紹介されています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,15 +32,15 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスの操作" src="https://video.tv.adobe.com/v/3450674?captions=jpn&format=jpeg" />
+      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスを移動します" src="https://video.tv.adobe.com/v/3450674?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
-    <strong>[!DNL Marketo Engage] ユーザーインターフェイスの操作 </strong>
+    <strong>[!DNL Marketo Engage] ユーザーインターフェイスを移動</strong>
     </a>
     </div>
     <p>
-    <em>[!DNL Marketo Engage] プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。</em>
+    <em> ユーザーインターフェイスを操作し、[!DNL Marketo Engage] プラットフォームを使い慣れる方法について説明します。</em>
     <p>
   </td>
   <td>
@@ -49,11 +49,11 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong> レポートと分析 </strong>
+    <strong> レポートと分析</strong>
     </a>
     </div>
     <p>
-    <em>[!DNL Marketo Engage] で「分析とデータベース」セクションを操作して様々な標準レポートを取り込む方法を説明します。</em>
+    <em>Analyticsとデータベースのセクションを操作して、[!DNL Marketo Engage]で異なる標準レポートを取得する方法を説明します。</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
     </a>
     </div>
     <p>
-    <em>A/B テストを使用してメールプログラムを作成する方法については、このステップバイステップチュートリアルをご覧ください。</em>
+    <em>A/B テストを使用して電子メールプログラムを作成する方法について、この手順を説明するチュートリアルをご覧ください。</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
 
 ## その他のリソース
 
-* [Marketo民族（コミュニティ） &#x200B;](https://nation.marketo.com/)
-* [Adobe Marketo Engage ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja)
-* [Adobe Marketo Engage チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
-* [Adobe Marketo Engageの製品情報 &#x200B;](https://business.adobe.com/jp/products/marketo/adobe-marketo.html)
+* [Marketo・ネイション（コミュニティ）](https://nation.marketo.com/)
+* [Adobe Marketo Engage ドキュメント](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja)
+* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
+* [Adobe Marketo Engageについて](https://business.adobe.com/jp/products/marketo/adobe-marketo.html)

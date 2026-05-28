@@ -1,6 +1,6 @@
 ---
 title: ユーザーによる Experience
-description: Adobeの他のお客様に、Experience Cloudのアプリケーションや機能の使用方法を説明します。
+description: Adobeをご利用のお客様から、Experience Cloudのアプリケーションと機能の使用方法について学びます。
 role: User, Developer, Admin
 level: Beginner
 doc-type: overview
@@ -13,9 +13,9 @@ ht-degree: 12%
 
 ---
 
-# Experience by You: ユーザー別のリソース（ユーザー向け）。
+# ユーザーによる体験：ユーザーによるユーザーのためのリソース
 
-デジタルエクスペリエ [!DNL Adobe] ス（DX）ソリューションの中で最も強力なのは、 あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。_Experience by You_ では、[!DNL Adobe] しい DX ソリューションで高度な専門知識と影響力を獲得した日常的なユーザーが作成したコンテンツを使用します。 このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
+[!DNL Adobe]のデジタルエクスペリエンス（DX）ソリューションの最も強力な点は何ですか？ あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 _ユーザーによる体験_&#x200B;は、[!DNL Adobe] DX ソリューションで高度な専門知識と影響力を得た日常的なユーザーが作成したコンテンツを特徴としています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ ht-degree: 12%
     </a>
     </div>
     <p>
-    <em> ワークフローの効率を上げるために [!DNL Analysis Workspace] で使用できるヒント。</em>
+    <em> ワークフローをより効率的にするために[!DNL Analysis Workspace]で使用できるヒント。</em>
     <p>
   </td>
   <td>
@@ -53,7 +53,7 @@ ht-degree: 12%
     </a>
     </div>
     <p>
-    <em>A/B テストを使用してメールプログラムを作成する方法を説明するステップバイステップのチュートリアル </em>
+    <em>A/B テストを使用して電子メールプログラムを作成する方法を説明するステップバイステップのチュートリアルです。</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ ht-degree: 12%
     </a>
     </div>
     <p>
-    <em> オンボーディングプレイブックは、[!DNL AEM as a Cloud Service] の新しい管理者および開発者として使用する際に役立ちます。</em>
+    <em> オンボーディングプレイブックは、[!DNL AEM as a Cloud Service]の新しい管理者および開発者として責任を負うのに役立ちます。</em>
     <p>
   </td>
 </tr>
@@ -75,8 +75,8 @@ ht-degree: 12%
 
 ## その他のリソース
 
-* [Experience Leagueコミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
-* [Experience Cloud ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
+* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
+* [Experience Cloud Documentation](https://experienceleague.adobe.com/docs/?lang=ja)
 * [Experience Cloud チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)
 * [business.adobe.com](https://business.adobe.com/jp)
 

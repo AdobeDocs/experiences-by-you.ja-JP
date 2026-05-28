@@ -1,6 +1,6 @@
 ---
-title: 基本的な録画トレーニングセッションと短いビデオの作成
-description: 基本的なトピックから高度なトピックまでをカバーするシンプルで短いトレーニングビデオをいくつか作成します。このツールは新規ユーザーでもすぐに使えるので、毎回会議で同じコンテンツを配信する必要はありません。
+title: 基本的な録画トレーニングセッションとショートビデオを作成する
+description: シンプルなトレーニング動画や短いトレーニング動画を作成することで、基本的なトピックから高度なトピックまでカバーできるようになります。そのため、新規ユーザーがツールを使い始めても、毎回ミーティングを通じて同じコンテンツを提供することはできません。
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -13,39 +13,39 @@ kt: 10533
 exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 8%
 
 ---
 
-# 基本的な録画トレーニングセッションと短いビデオの作成
+# 基本的な録画トレーニングセッションとショートビデオを作成する
 
-**対象：** 基本的なトピックから高度なトピックまでをカバーするシンプルで短いトレーニングビデオをいくつか作成します。このツールは新規ユーザーでもすぐに使えるので、毎回会議で同じコンテンツを配信する必要はありません。
+**WHAT:**&#x200B;基本的なトピックと高度なトピックの範囲をカバーするシンプルで短いトレーニング ビデオを作成します。これにより、新規ユーザーがツールを使い始めても、毎回ミーティングを通じて同じコンテンツを配信することはできません。
 
-**理由：** これにより、AA 管理者の時間が節約され、一人が他のメンバーのトレーニングを担当するという依存関係をなくし、新規ユーザーが自分のペースで自己啓発を行うことができます。
+**理由：**&#x200B;これにより、AA管理者の時間が節約され、1人の担当者が他のユーザーのトレーニングを担当する必要がなくなり、新しいユーザーが自分のペースで自己対応できるようになります。
 
-**方法：** 組織やビジネスユーザーに最も関連のあるトピックを選択し、短いトレーニングビデオを時間をかけて録画します。 基本トピックから高度なトピックまで、いくつかの提案を以下に示します。
+**方法：**&#x200B;組織とビジネスユーザーに最も関連性の高いトピックを選択し、時間をかけて一口サイズのトレーニング ビデオを記録します。 ここでは、基本的なトピックから高度なトピックへの推奨事項をいくつか紹介します。
 
 * キャンペーンのトラッキング方法
-* ページのパフォーマンスの把握方法
+* ページパフォーマンスの理解方法
 * Workspaceでのビジュアライゼーションの作成方法
-* セグメントと計算指標に関するすべて
-* [!DNL Adobe Analytics] で役立つヒントのトップ 5 （ドロップダウンの作成方法など）
-* Attribution IQの使用方法
+* セグメントと計算指標の詳細
+* [!DNL Adobe Analytics]のヒント （例：ドロップダウンの作成方法）
+* Attribution IQの活用方法
 
-これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。 ユーザー教育に関するその他のヒントとテクニックについては、[[!DNL Adobe] Champion の Thomas Edward Buckley の記事 &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"} 「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
+そうすることで、長いメールを書いたり、別のミーティングを開いたりすることなく、顧客をこれらの宛先に簡単に誘導することができます。 ユーザーのトレーニングに関するその他のヒントやテクニックについては、[[!DNL Adobe] Champion Thomas Edward Buckley氏の記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"}で、ユーザーのトレーニングの簡素化と時間の短縮についてご確認ください。
 
-さらに、Experience League上の [&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"} と [&#x200B; 無料コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"} もたくさん [!DNL Adobe] ります（はい、たくさんの）。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。 しかし、一般的な教育ビデオで十分な場合は、車輪を再発明する理由はありません。
+さらに、[!DNL Adobe]Experience Leagueの[&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と、[無料コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータとビジネス KPIに特化した動画が必要な場合は、ぜひ自社の動画を記録してください。 しかし、一般的な説明動画で十分なら、車輪を再発明する理由はありません。
 
-## 作成者
+## 制作者
 
-このドキュメントの共同作成者：
+この文書は次の人によって共同作成されました：
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
 
-Christel Guidon （NortonLifeLock、デジタル [!DNL Analytics] ッドレスプラットフォームマネージャー）
+Christel Guidon氏（NortonLifeLock、デジタル [!DNL Analytics] プラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン
 
-![&#x200B; レイチェル・フェンウィック &#x200B;](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick （[!DNL Adobe] 社シニアコンサルタント）
+Rachel Fenwick、[!DNL Adobe]のシニアコンサルタント
