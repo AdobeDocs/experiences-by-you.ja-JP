@@ -21,7 +21,7 @@ ht-degree: 0%
 
 新しい[!DNL Marketo Engage] インスタンスを公開したら、関連チームが作業に[!DNL Marketo Engage]を活用できるようにスピードアップします。
 
-これらの内部オンボーディングとトレーニングのベストプラクティスは、Adobe Marketo Engageのお客様であるNaomi Liu氏によって提供されました。これは、[内部オンボーディング ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank}および[ トレーニングのベストプラクティス ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank}が、Electronics for Imagingのグローバルチームに新しいインスタンスを導入した経験から得られたものです。 そのインサイトに従って、社内チームの効果的なトレーニング計画を策定しましょう。
+これらの内部オンボーディングとトレーニングのベストプラクティスは、Adobe Marketo Engageのお客様であるNaomi Liu氏によって提供されました。これは、[内部オンボーディング &#x200B;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=_blank}および[&#x200B; トレーニングのベストプラクティス &#x200B;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=_blank}が、Electronics for Imagingのグローバルチームに新しいインスタンスを導入した経験から得られたものです。 そのインサイトに従って、社内チームの効果的なトレーニング計画を策定しましょう。
 
 ## 新しいインスタンスを導入する際に、社内オンボーディングプランを開発する理由を教えてください。
 
@@ -48,7 +48,7 @@ Marketo Engageの管理者は、新しいテクノロジースタック能力を
 
 ## サンプルカリキュラム：社内トレーニングロードショー
 
-ここでは、マーケティングビジネスパートナー向けにカスタマイズするために、Naomi Liuが提案したトレーニングカリキュラムのサンプルを紹介します。 オフラインのカスタマイズ用の[ サンプルトレーニングカリキュラム ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"}をダウンロードします。
+ここでは、マーケティングビジネスパートナー向けにカスタマイズするために、Naomi Liuが提案したトレーニングカリキュラムのサンプルを紹介します。 オフラインのカスタマイズ用の[&#x200B; サンプルトレーニングカリキュラム &#x200B;](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"}をダウンロードします。
 
 | セッションタイトル | 目標 | トレーニング方法 | 時間配分 |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Marketo Engageの管理者は、新しいテクノロジースタック能力を
 
 ## 次の手順
 
-* [ サンプルトレーニングカリキュラム ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} スプレッドシートをダウンロードして、社内トレーニングモジュールを開発します。
+* [&#x200B; サンプルトレーニングカリキュラム &#x200B;](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} スプレッドシートをダウンロードして、社内トレーニングモジュールを開発します。
 * セッションのトピックに適したチームを入力します。
 * トレーニング教材の作成に使用する方法を選択します。
 

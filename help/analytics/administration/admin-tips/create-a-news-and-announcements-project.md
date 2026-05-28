@@ -51,7 +51,7 @@ ht-degree: 0%
 
 この文書は次の人によって共同作成されました：
 
-![ クリステル・ガイドン ](assets/Christel-Headshot-150.png)
+![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon氏（NortonLifeLock、デジタル [!DNL Analytics] プラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン

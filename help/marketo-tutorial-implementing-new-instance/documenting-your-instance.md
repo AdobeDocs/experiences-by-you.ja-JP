@@ -23,7 +23,7 @@ ht-degree: 0%
 
 それだけではありません。 Marketo Engageの習熟度を高めるために、イネーブルメントに関する補足資料やトレーニング教材が必要になる場合があります。 これらのリソースには、インタラクティブな演習、アクセス用のクイズ、Marketo Engage内の許可されたアクションに関するガイドラインなどが含まれ、組織内のあらゆるMarketo Engageユーザーにメリットをもたらします。 包括的なガバナンスガイドの作成や、最初の重要な設定の側面の文書化など、オンボーディング中に下された意思決定を記録することは、現在のチームおよび次世代の新入社員がMarketo Engageを活用して成果を上げることができるようにするための鍵となります。
 
-このチュートリアルでは、ドキュメントとガバナンスの重要性を理解することで、エキスパートの同業者[Marketo Engage Governance and Training Documentationの概要](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank}および[ インスタンスのドキュメントを作成する方法](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank}からベストプラクティスを学習して、プロセスを適切に構築し、社内ユーザーに関連するドキュメントを維持するのに役立ちます。
+このチュートリアルでは、ドキュメントとガバナンスの重要性を理解することで、エキスパートの同業者[Marketo Engage Governance and Training Documentationの概要](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank}および[&#x200B; インスタンスのドキュメントを作成する方法](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}からベストプラクティスを学習して、プロセスを適切に構築し、社内ユーザーに関連するドキュメントを維持するのに役立ちます。
 
 ## インスタンスの実装中に変更や決定を文書化することが重要な理由
 
@@ -68,7 +68,7 @@ Marketo Engageの導入を成功させるためには、プロセスの実施に
    * 人物ライフサイクル
    * データ管理
 1. Marketo Engageインスタンスでの構築
-   * [ センターオブエクセレンス（COE） ](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
+   * [&#x200B; センターオブエクセレンス（COE） &#x200B;](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
    * フォルダー構造
    * 命名規則
    * プログラムの整理
@@ -103,7 +103,7 @@ Marketo Engageの導入を成功させるためには、プロセスの実施に
 
 ## 次の手順
 
-* [ サンプルドキュメントと変更履歴](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)をダウンロードして、組織のニーズに合わせて調整してください。
+* [&#x200B; サンプルドキュメントと変更履歴](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)をダウンロードして、組織のニーズに合わせて調整してください。
 * 組織が定期的に参照および更新することを好む、アクセス可能なプラットフォームにドキュメントを保存します。 例えば、一部のMarketo Engage Championでは、Confluence （Atlassianによる）またはExcel スプレッドシートを使用しています。
 * ガバナンスのために作成したすべてのルールに、それを適用し、ドキュメントを適応させ、経時的に最新の状態に保つ所有者を設定します。
 

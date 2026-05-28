@@ -35,13 +35,13 @@ ht-degree: 8%
 
 そうすることで、長いメールを書いたり、別のミーティングを開いたりすることなく、顧客をこれらの宛先に簡単に誘導することができます。 ユーザーのトレーニングに関するその他のヒントやテクニックについては、[[!DNL Adobe] Champion Thomas Edward Buckley氏の記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"}で、ユーザーのトレーニングの簡素化と時間の短縮についてご確認ください。
 
-さらに、[!DNL Adobe]Experience Leagueの[ ビデオチュートリアル ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と、[無料コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータとビジネス KPIに特化した動画が必要な場合は、ぜひ自社の動画を記録してください。 しかし、一般的な説明動画で十分なら、車輪を再発明する理由はありません。
+さらに、[!DNL Adobe]Experience Leagueの[&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と、[無料コース &#x200B;](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータとビジネス KPIに特化した動画が必要な場合は、ぜひ自社の動画を記録してください。 しかし、一般的な説明動画で十分なら、車輪を再発明する理由はありません。
 
 ## 制作者
 
 この文書は次の人によって共同作成されました：
 
-![ クリステル・ガイドン ](assets/Christel-Headshot-150.png)
+![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon氏（NortonLifeLock、デジタル [!DNL Analytics] プラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン

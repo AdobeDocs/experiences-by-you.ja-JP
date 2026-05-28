@@ -30,10 +30,10 @@ Marketo Engageの導入は、マーテクスタックを成長させる重要な
 | **質問** | **例** | **役に立つリソース** |
 | --- | --- | --- |
 | 焦点を当てるべきステークホルダーは何か？ | <ul><li>営業責任者</li><li>CMO</li><li>CEO</li> |  |
-| 主な目標（マーケティング/セールス/ビジネス）は何ですか？ | <ol><li>顧客および見込み顧客とのエンゲージメントを高める</li><li>業務の拡大。</li> | <ul><li>[ マーケティング目標と戦略の策定について説明します](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=&quot;_blank}</li><ul> |
-| Marketo Engageは、これらの目標の達成にどのように役立ちますか？ | <ol><li>トークンや動的コンテンツなどを利用して、パーソナライズされたプログラムを作成できます</li><li> 見込み客や顧客との長期的なエンゲージメントを維持できるナーチャリングプログラムを構築することができます」</li><li>「各プログラムに費やす時間を削減することで、より多くの人々にリーチするためのマーケティングプログラムを自動化できます。</li></ol> | <ul><li>[あらゆるマーケティング戦略に自動化が不可欠である理由](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=&quot;_blank}</li><li>[ マーケティングオートメーションロードマップを構築するためのヒント ](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=&quot;_blank}</li></ul> |
-| オンボーディングや導入の際に、マーケティングオペレーション部門/株主が認識すべき潜在的な課題や課題は何ですか？ | <ol><li>CRMには多数のカスタムオブジェクトがあり</li><li>リード/個人のスコアリング戦略が明確に定義されていない</li><li>汚いデータ</li><li>非現実的なタイムラインや経営陣からの期待</li><li>リソースを取っている競合プロジェクト</li></ul> | <ul><li>[Marketo Engageの新しい実装のヒント ](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=&quot;_blank}</li><li>[初心者がMarketoを初めて実装および管理する際のヒント ](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=&quot;_blank}</li><li>[Adobe Marketo Engageのオンボーディングに関する同僚からのヒント上位10件](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=&quot;_blank}</li></ul> |
-| どのようなリソース/サポートが必要ですか？また、組織のどの部門に必要ですか？ | <ol><li>CRM管理者との連携</li><li>リード/人物スコアリング戦略を決定するための、セールスリーダーとの定期的なコミュニケーション</li><li>マネージャー/経営陣との定期的なミーティングによるサポート</li><li>経営陣からの優先事項と戦略に関するガイダンス</li><li>IT、SOP （Standard Operating Procedures）、財務などのサポート。</li></ul> | <ul><li>[Marketo Success: Governance and Ongoing Training](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=&quot;_blank}</li></ul> |
+| 主な目標（マーケティング/セールス/ビジネス）は何ですか？ | <ol><li>顧客および見込み顧客とのエンゲージメントを高める</li><li>業務の拡大。</li> | <ul><li>[&#x200B; マーケティング目標と戦略の策定について説明します](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=_blank}</li><ul> |
+| Marketo Engageは、これらの目標の達成にどのように役立ちますか？ | <ol><li>トークンや動的コンテンツなどを利用して、パーソナライズされたプログラムを作成できます</li><li> 見込み客や顧客との長期的なエンゲージメントを維持できるナーチャリングプログラムを構築することができます」</li><li>「各プログラムに費やす時間を削減することで、より多くの人々にリーチするためのマーケティングプログラムを自動化できます。</li></ol> | <ul><li>[あらゆるマーケティング戦略に自動化が不可欠である理由](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=_blank}</li><li>[&#x200B; マーケティングオートメーションロードマップを構築するためのヒント &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=_blank}</li></ul> |
+| オンボーディングや導入の際に、マーケティングオペレーション部門/株主が認識すべき潜在的な課題や課題は何ですか？ | <ol><li>CRMには多数のカスタムオブジェクトがあり</li><li>リード/個人のスコアリング戦略が明確に定義されていない</li><li>汚いデータ</li><li>非現実的なタイムラインや経営陣からの期待</li><li>リソースを取っている競合プロジェクト</li></ul> | <ul><li>[Marketo Engageの新しい実装のヒント &#x200B;](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=_blank}</li><li>[初心者がMarketoを初めて実装および管理する際のヒント &#x200B;](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=_blank}</li><li>[Adobe Marketo Engageのオンボーディングに関する同僚からのヒント上位10件](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=_blank}</li></ul> |
+| どのようなリソース/サポートが必要ですか？また、組織のどの部門に必要ですか？ | <ol><li>CRM管理者との連携</li><li>リード/人物スコアリング戦略を決定するための、セールスリーダーとの定期的なコミュニケーション</li><li>マネージャー/経営陣との定期的なミーティングによるサポート</li><li>経営陣からの優先事項と戦略に関するガイダンス</li><li>IT、SOP （Standard Operating Procedures）、財務などのサポート。</li></ul> | <ul><li>[Marketo Success: Governance and Ongoing Training](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=_blank}</li></ul> |
 
 ### アクション 2 – 株主にターゲットを絞ったコミュニケーションを提供する
 
@@ -117,7 +117,7 @@ Marketo Engageの導入に関する魅力的なニュースをお届けします
 
 最近の成功事例を紹介します。
 
-1. ターゲットを絞ったメールキャンペーンの成功：Marketo Engageでデプロイされた新製品のローンチを促進する最近のメールキャンペーン <i>[が、開封率50%、コンバージョン率10%の]</i>という目覚ましい成果を上げました]</i>。 <i>[このキャンペーンは、オーディエンスを効果的に惹きつけるだけでなく、アドビの全体的なリードジェネレーション目標にも大きく貢献しました。
+1. ターゲットを絞ったメールキャンペーンの成功：Marketo Engageでデプロイされた新製品のローンチを促進する最近のメールキャンペーン <i>[が、開封率50%、コンバージョン率10%の]</i>という目覚ましい成果を上げました&rbrack;</i>。 <i>&lbrack;このキャンペーンは、オーディエンスを効果的に惹きつけるだけでなく、アドビの全体的なリードジェネレーション目標にも大きく貢献しました。
 
 2. ワークフローの自動化効率：Marketo Engageの自動化機能を活用することで、リードナーチャリングのワークフローを合理化し、応答時間を<i>[3日間に短縮し、リードコンバージョン率を10%向上させました]</i>。 この効率性の向上は、売上と顧客満足度に大きな影響を与えています。
 
@@ -182,7 +182,7 @@ SalesforceとMarketo Engageの統合 – <i>[完了/進行中/未開始]</i>
 
 ## 次の手順
 
-[ オンボーディング内部コミュニケーションガイドとテンプレート ](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target=&quot;_blank}をダウンロードして使用し、定期的な更新を作成し、関係者の進捗状況を報告します。 顧客に情報を提供し、エンゲージメントを維持するために、主要な指標、成果、今後のマイルストーンを含めます。
+[&#x200B; オンボーディング内部コミュニケーションガイドとテンプレート &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target=_blank}をダウンロードして使用し、定期的な更新を作成し、関係者の進捗状況を報告します。 顧客に情報を提供し、エンゲージメントを維持するために、主要な指標、成果、今後のマイルストーンを含めます。
 
 ### 作成者
 

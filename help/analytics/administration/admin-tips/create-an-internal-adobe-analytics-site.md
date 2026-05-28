@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成する
 
-**WHAT:** トレーニングドキュメントの作成に関する[このヒント ](create-basic-videos-and-training.md){target="_blank"}の推奨事項に従っている場合、ハードドライブに保存することはできません。 これらをすべてのユーザーが共有および参照できる一元的な場所を作成します。すべてのドキュメントを投稿し、異なるバージョンを管理できる内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成します。
+**WHAT:** トレーニングドキュメントの作成に関する[このヒント &#x200B;](create-basic-videos-and-training.md){target="_blank"}の推奨事項に従っている場合、ハードドライブに保存することはできません。 これらをすべてのユーザーが共有および参照できる一元的な場所を作成します。すべてのドキュメントを投稿し、異なるバージョンを管理できる内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成します。
 
 **理由：**&#x200B;単一の共有リポジトリを設定すると、すべての新規ユーザーをディレクションし、すべてのドキュメントの最新バージョンに関する信頼できる唯一の情報源を提供する1つの場所が得られます。 最適なバージョン管理とコラボレーションが可能になります。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 この文書は次の人によって共同作成されました：
 
-![ クリステル・ガイドン ](assets/Christel-Headshot-150.png)
+![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon氏（NortonLifeLock、デジタル [!DNL Analytics] プラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン

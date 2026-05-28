@@ -27,7 +27,7 @@ ht-degree: 4%
 ## その他のリソース
 
 * **製品ドキュメント**
-取り込むことができる様々なレポートについて説明します – [ レポートの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&sdid=M7K4SLTS&mv=email&mv2=instreml)
+取り込むことができる様々なレポートについて説明します – [&#x200B; レポートの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **エキスパートのユーザー事例ブログ投稿**
-さまざまなレポートの作成についてチャンピオンのChelsea Kikoから学ぶ – [様々なレポート  [!DNL Marketo Engage]  スペース ](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+さまざまなレポートの作成についてチャンピオンのChelsea Kikoから学ぶ – [様々なレポート  [!DNL Marketo Engage]  スペース &#x200B;](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
