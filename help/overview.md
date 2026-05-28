@@ -78,5 +78,5 @@ ht-degree: 12%
 * [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
 * [Experience Cloud Documentation](https://experienceleague.adobe.com/docs/?lang=ja)
 * [Experience Cloud チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/jp)
 

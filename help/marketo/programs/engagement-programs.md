@@ -28,7 +28,7 @@ ht-degree: 16%
 
 詳しくは、関連製品ガイドを参照してください。
 
-* [エンゲージメントプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [エンゲージメントプログラムのドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=ja)
 
 エンゲージメントプログラムの活用方法について、他のユーザーから学びましょう。
 

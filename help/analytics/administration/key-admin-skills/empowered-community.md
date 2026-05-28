@@ -39,7 +39,7 @@ ht-degree: 2%
 
 * 導入の詳細：
 
-  ベストプラクティスとして、ユーザーは実装によってサポートされるビジネス要件に関する基本知識を持っている必要があります。通常、[&#x200B; ビジネス要件ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) （BRD）および[&#x200B; ソリューション設計参照ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) （SDR）を介して取得されます。 これらの要件には、実装された内容を含め、カテゴリ別のビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
+  ベストプラクティスとして、ユーザーは実装によってサポートされるビジネス要件に関する基本知識を持っている必要があります。通常、[&#x200B; ビジネス要件ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja) （BRD）および[&#x200B; ソリューション設計参照ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ja) （SDR）を介して取得されます。 これらの要件には、実装された内容を含め、カテゴリ別のビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
 
 * レポートテンプレートの使用：
 

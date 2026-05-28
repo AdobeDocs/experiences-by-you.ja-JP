@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## フォルダーを構造化し、命名規則を適用する必要があるのはなぜですか？
 
-インスタンスを整理することで、キャンペーン、プログラム、アセットを追跡し、プログラムのパフォーマンスを報告することが容易になります。 インスタンス内のナビゲーションツリーを整理して大規模に構築するには、[&#x200B; フォルダー](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準の命名規則](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、[複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}などの機能を使用することをお勧めします。
+インスタンスを整理することで、キャンペーン、プログラム、アセットを追跡し、プログラムのパフォーマンスを報告することが容易になります。 インスタンス内のナビゲーションツリーを整理して大規模に構築するには、[&#x200B; フォルダー](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準の命名規則](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、[複製](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}などの機能を使用することをお勧めします。
 
 ## Marketo Engage インスタンスを整理する方法
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ### 手順1 - プログラムを順番に配置するためのフォルダー構造の設定
 
-インスタンスを整理するための最初のステップは、プログラムとアセットを見つけやすく整理された方法で[&#x200B; フォルダー構造](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)に設定することです。
+インスタンスを整理するための最初のステップは、プログラムとアセットを見つけやすく整理された方法で[&#x200B; フォルダー構造](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=ja)に設定することです。
 
 以下に、ツリー内のフォルダーを構造化する際の簡単なヒントを示します。
 
@@ -182,7 +182,7 @@ ht-degree: 2%
 
 * フォルダー構造と命名規則の作成をサポートするために、ワークシート [Marketo Engageの組織と命名規則](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}をダウンロードします。
 * 標準的な命名規則で必要なコンポーネントを決定したら、数式をGoogle シートまたはMicrosoft Excelに組み込むことを検討してください。 今後の使用のために、スプレッドシートに値を入力するだけで、プログラム名を生成できます。
-* 全体的なフォルダー構造を整えたら、最も頻繁に使用するユースケースやチームが受ける最も一般的なリクエストにもとづいて、必要なテンプレートを考える必要があります。 最初のプログラムテンプレートの作成を開始します。 [Adobe Marketo Engage プログラムテンプレート &#x200B;](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}を使い始めるには、この記事を読んでください。
+* 全体的なフォルダー構造を整えたら、最も頻繁に使用するユースケースやチームが受ける最も一般的なリクエストにもとづいて、必要なテンプレートを考える必要があります。 最初のプログラムテンプレートの作成を開始します。 [Adobe Marketo Engage プログラムテンプレート &#x200B;](https://business.adobe.com/jp/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}を使い始めるには、この記事を読んでください。
 
 ### 制作者
 
