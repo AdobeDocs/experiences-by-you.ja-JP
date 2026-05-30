@@ -115,4 +115,4 @@ ht-degree: 2%
 
 * キャリア開発 – 権限を持ったコミュニティは、多くのアナリストチームの焦点を、対応的で戦術的なものから、規範的で戦略的なものへと移行させます。 これにより、コミュニティの管理プロジェクトチームのキャリア開発の機会が拡大します。
 
-内部[!DNL Adobe Analytics] ユーザーグループまたはより正式な「コミュニティ」をお持ちの場合、またはフォームを作成しようとしている場合は、[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)でお話を聞きたいと思います。
+内部[!DNL Adobe Analytics] ユーザーグループまたはより正式な「コミュニティ」をお持ちの場合、またはフォームを作成しようとしている場合は、[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=ja)でお話を聞きたいと思います。
