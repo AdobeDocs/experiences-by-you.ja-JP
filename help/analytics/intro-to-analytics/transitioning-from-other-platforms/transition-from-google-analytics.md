@@ -268,7 +268,7 @@ Google [!DNL Analytics]から拡張された方法でデータを取得する必
 このガイド以外にも、戦略の改善に役立つリソースが数多くあります。
 
 * [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=ja#home) - チュートリアル、ビデオ、ドキュメント、コミュニティフォーラムが含まれています
-* [[!DNL Adobe]  ユーザーグループ ](https://analytics-augs.adobe.com/) - ユーザー同士が接続し、実装を改善するのに役立つコミュニティ実行イベントのハブ。
+* [[!DNL Adobe]  ユーザーグループ &#x200B;](https://analytics-augs.adobe.com/) - ユーザー同士が接続し、実装を改善するのに役立つコミュニティ実行イベントのハブ。
 * [[!DNL Adobe Analytics] User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - [!DNL Adobe Analytics] ユーザーグループセッションを作成できませんでした。 世界中の以前のユーザーグループセッションを再視聴して、同僚がこのツールをどのように使用しているかをご確認ください。
 * [Measure Chat Slack channel](https://www.measure.chat/) – 世界中の[!DNL Adobe Analytics]人のユーザーとつながり、業界の知識を共有し、同僚の質問を行い、測定に焦点を当てた興味グループに参加します。
 * その他！
