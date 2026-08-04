@@ -1,7 +1,7 @@
 ---
-title: AEM チャンピオンのヒントとテクニック – 編集可能なテンプレート 1
+title: AEM Championのヒント&テクニック – 編集可能なテンプレート 1
 seo-title: AEM Champion Tips and Tricks - Editable Templates 1
-description: AEM チャンピオンおよびエキスパートの Greg Dimeris による、AEM Sitesの編集可能なテンプレートに関するこれらのクイックヒントをご覧ください。 今すぐご自身のインスタンスで試してみてください。
+description: AEM ChampionとエキスパートであるGreg Dimeris氏による、AEM Sitesの編集可能なテンプレートのヒントをご確認ください。 今すぐインスタンスでお試しください。
 seo-description: Check out these quick tips for Editable Templates in AEM Sites by AEM Champion and expert, Greg Dimeris. Try them out in your instance today.
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Sites
 feature-set: Marketo Engage, Experience Manager Sites
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 ---
 
-# AEM チャンピオンのヒントとテクニック：編集可能なテンプレート
+# Adobe AEM Champion活用のヒント：編集可能なテンプレート
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
