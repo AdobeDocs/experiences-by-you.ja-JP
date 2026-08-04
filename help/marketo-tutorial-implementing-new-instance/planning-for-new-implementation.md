@@ -38,7 +38,7 @@ ht-degree: 9%
 
 ### フェーズ 3 - プログラムライブラリの作成とキャンペーンの設定
 
-- メールテンプレートとランディングページの作成。 [ プログラム読み込みライブラリ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)から[ スタータープログラムの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)を開始します。
+- メールテンプレートとランディングページの作成。 [&#x200B; プログラム読み込みライブラリ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)から[&#x200B; スタータープログラムの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)を開始します。
 - セグメント化とPersonalization ルールの設定
 - リードジェネレーションとリードナーチャリングのための初期キャンペーンの実施
 
