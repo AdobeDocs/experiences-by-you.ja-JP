@@ -77,6 +77,6 @@ ht-degree: 16%
 ## その他のリソース
 
 * [Marketo・ネイション（コミュニティ）](https://nation.marketo.com/)
-* [Adobe Marketo Engage ドキュメント](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Adobe Marketo Engageについて](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Adobe Marketo Engage ドキュメント](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja)
+* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)
+* [Adobe Marketo Engageについて](https://business.adobe.com/jp/products/marketo/adobe-marketo.html)

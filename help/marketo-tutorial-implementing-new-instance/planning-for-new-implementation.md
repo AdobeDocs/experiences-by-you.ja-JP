@@ -38,7 +38,7 @@ ht-degree: 9%
 
 ### フェーズ 3 - プログラムライブラリの作成とキャンペーンの設定
 
-- メールテンプレートとランディングページの作成。 [&#x200B; プログラム読み込みライブラリ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)から[&#x200B; スタータープログラムの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)を開始します。
+- メールテンプレートとランディングページの作成。 [&#x200B; プログラム読み込みライブラリ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)から[&#x200B; スタータープログラムの読み込み](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)を開始します。
 - セグメント化とPersonalization ルールの設定
 - リードジェネレーションとリードナーチャリングのための初期キャンペーンの実施
 
@@ -294,7 +294,7 @@ Palotos Networksでのオンボーディングと導入経験について、Mark
 >[!NOTE]
 >提供される例は、実際の実装タイムラインに基づいていません。 Marketo Engageのオンボーディングでは、企業のニーズに応じて目標や要件が異なるため、これらを標準的なタイムラインとして利用しないでください。
 
-インスタンス用のMarketo Engageの実装とカスタマイズに関する手作業のサポートについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}までお問い合わせください。
+インスタンス用のMarketo Engageの実装とカスタマイズに関する手作業のサポートについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"}までお問い合わせください。
 
 ### 作成者
 
