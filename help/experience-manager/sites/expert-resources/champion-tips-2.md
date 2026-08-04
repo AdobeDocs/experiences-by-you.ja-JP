@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # Adobe AEM Champion活用のヒント&amp;テクニック：セッション 2
 
->[!VIDEO](https://video.tv.adobe.com/v/3409427?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439472?captions=jpn&quality=12&learn=on)

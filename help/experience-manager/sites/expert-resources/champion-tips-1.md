@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Adobe AEM Champion活用のヒント：編集可能なテンプレート
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439838?captions=jpn&quality=12&learn=on)

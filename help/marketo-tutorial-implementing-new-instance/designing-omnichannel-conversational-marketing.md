@@ -49,7 +49,7 @@ Saraさんが会話フローのマッピングから、Dynamic ChatとMarketo En
 
 このダイアログでは、サイト訪問者が最初に選択できる5つのオプションが用意されており、ペルソナにもとづいて必要な情報を見つけることができるセルフガイド型のエクスペリエンスを構築できます。 まず、「お問い合わせ」メールの受信トレイを確認して、一般的なテーマを特定し、サイト訪問者に適用されるダイアログオプションに分類します。 デモを見て、次の手順に従って、デフォルトのキャッチオールダイアログを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446476/?captions=jpn&learn=on)
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ Saraさんが会話フローのマッピングから、Dynamic ChatとMarketo En
 
 業界をターゲットにしたコンテンツを組み込むことで、デフォルトのキャッチオールダイアログをさらに強化でき、訪問者にとって会話がさらに便利になります。 例えば、訪問者がダウンロードできる業界固有のホワイトペーパーやケーススタディを提案します。 デモを見て、次の手順に従って、アカウントベースドマーケティング用のデフォルトのキャッチオールダイアログを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441386/?captions=jpn&learn=on)
 
 >[!BEGINTABS]
 
@@ -111,7 +111,7 @@ Saraさんが会話フローのマッピングから、Dynamic ChatとMarketo En
 
 イベントやウェビナーは、B2B企業が需要を生み出すための人気のあるマーケティング戦術です。 見込み客を惹きつける魅力的な体験と豊富な情報を提供しています。 web サイトの訪問者を今後のイベントやウェビナーに結びつけることで、見込み客の絞り込みをさらに迅速におこなうことができます。 このダイアログを作成するのは、労力が少なくコストも低く、迅速に成功を実証でき、マーケティング関係者のサポートを得て、オムニチャネルオートメーション計画に会話エンゲージメントを追加するのに役立ちます。 デモをご覧になり、次の手順に従ってイベント/ウェビナーのプロモーションダイアログを作成してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445091/?captions=jpn&learn=on)
 
 >[!BEGINTABS]
 
@@ -150,7 +150,7 @@ Saraさんが会話フローのマッピングから、Dynamic ChatとMarketo En
 >[!NOTE]
 >特定の保護国/国に関連する潜在的なセキュリティリスクを考慮し、法務部門と相談して、このパーソナライゼーションを慎重に実装してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437090/?captions=jpn&learn=on)
 
 >[!BEGINTABS]
 
@@ -173,11 +173,11 @@ Saraさんが会話フローのマッピングから、Dynamic ChatとMarketo En
 
 魅力的なウィンドウディスプレイが目を引き、店舗に引き込まれるとします。 その後、受付担当者が商品の選択や質問への回答を支援すれば、購入することに抵抗はないかもしれません。 このエクスペリエンスをオンラインで再現するには、マーケティングキャンペーンが訪問者を誘導するweb ページにDynamic Chat ダイアログを表示させることができます。 オーディエンスがweb コンテンツに関与すると、Dynamic Chatにすぐに関連する会話が表示され、関連するコンテンツを提案したり、潜在的な疑問に回答したりできます。 そのためには、Marketo Engageプログラム内のユーザーエンゲージメントにもとづいて、自動処理トリガーを使用してDynamic Chatキャンペーンをアクティベートする必要があります。 では、このユースケースを実現する方法を見てみましょう。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437580/?captions=jpn&learn=on)
 
 Campaign コンテンツエンゲージメントの拡張 – 設定：
 
->[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439494/?captions=jpn&learn=on)
 
 >[!BEGINTABS]
 

@@ -22,7 +22,7 @@ ht-degree: 20%
 
 [!DNL Marketo Engage] プラットフォームの習熟方法とユーザーインターフェイスの操作方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450427/?captions=jpn&learn=on){transcript=true}
 
 ## その他のリソース
 
