@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # Marketo by You: Resources by users, for users.
 
-[!DNL Adobe]個のExperience Cloud ソリューションの最も強力な機能 あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 「Experiences by You」では、[!DNL Adobe]個のExperience Cloud ソリューションで高度な専門知識と影響力を得た日常的なユーザーが作成するコンテンツが紹介されています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。
+[!DNL Adobe] Experience Cloud ソリューションの最も強力な点は？ あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 Experience by Youは、[!DNL Adobe]のExperience Cloud ソリューションで高度な専門知識と影響力を得た日常的なユーザーによって作成されたコンテンツを特徴としています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,7 +32,7 @@ ht-degree: 16%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスを移動します" src="https://video.tv.adobe.com/v/3450674?captions=jpn&format=jpeg" />
+      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスを移動します" src="https://video.tv.adobe.com/v/3450427?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">

@@ -8,14 +8,14 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 20%
+source-wordcount: '274'
+ht-degree: 27%
 
 ---
 
-# Experience Manager by You: ユーザー別のリソース（ユーザー用）。
+# Experience Manager by You: Resources by users, for users.
 
-Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あなた。 製品を使って掘り下げ、驚くほど革新的な方法で適用して、有意義な体験と成果を生み出すユーザー。 エクスペリエンスの特徴は、[!DNL Adobe] しいExperience Cloud ソリューションで一定の専門知識と影響力を獲得した日常的なユーザーが作成したコンテンツです。 このピアツーピアの知識は、共同作業と発見を促進し、お客様（およびその他のユーザー）が製品の専門知識をレベルアップするために必要なインスピレーションを見つけられるようにします。
+[!DNL Adobe] Experience Cloud ソリューションの最も強力な点は？ あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 Experience by Youは、[!DNL Adobe]のExperience Cloud ソリューションで高度な専門知識と影響力を得た日常的なユーザーによって作成されたコンテンツを特徴としています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,7 +32,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="ヒントとテクニック – 編集可能なテンプレート" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="ヒントとテクニック – 編集可能なテンプレート" src="https://video.tv.adobe.com/v/3439838?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -40,7 +40,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
     </a>
     </div>
     <p>
-    <em> 編集可能テンプレート </em>
+    <em>編集可能なテンプレート </em>
     <p>
   </td>
   <td>
@@ -53,12 +53,12 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
     </a>
     </div>
     <p>
-    <em> オンボーディングプレイブックは、AEM as a Cloud Serviceの新しい管理者および開発者として使用する際に役立ちます。</em>
+    <em> オンボーディングプレイブックは、AEM as a Cloud Serviceの新しい管理者および開発者として責任を負うのに役立ちます。</em>
     <p>
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="ヒントとテクニック" src="https://video.tv.adobe.com/v/3439838?captions=jpn&format=jpeg" />
+      <img alt="ヒントとテクニック" src="https://video.tv.adobe.com/v/3439472?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
@@ -66,7 +66,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
     </a>
     </div>
     <p>
-    <em> 編集可能テンプレート – セッション 2</em>
+    <em>編集可能なテンプレート – セッション 2</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ Experience Cloud ソリューション [!DNL Adobe] 最も強力なこと あな
 
 ## その他のリソース
 
-* [Experience Manager コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)
-* [Experience Manager ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-* [Experience Manager チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=ja)
-* [Experience Managerの製品情報 &#x200B;](https://business.adobe.com/jp/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)
+* [Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+* [Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=ja)
+* [Experience Managerについて](https://business.adobe.com/jp/products/experience-manager/adobe-experience-manager.html)
