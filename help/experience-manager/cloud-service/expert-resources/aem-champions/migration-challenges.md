@@ -1,6 +1,6 @@
 ---
-title: AEM チャンピオン - AEM as a Cloud Serviceへの移行時の課題に対処
-description: AEM チャンピオンの Wilson Faure からAEM as a Cloud Serviceに移行する際の一般的な課題に対処する方法について、専門家からアドバイスを受けることができます。
+title: AEM Champion - AEM as a Cloud Serviceへの移行時の課題に対処する
+description: AEM チャンピオンのWilson Faure氏からAEM as a Cloud Serviceに移行する際の一般的な課題に対処する方法について、専門家のアドバイスを受けます。
 version: Experience Manager as a Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -18,8 +18,8 @@ ht-degree: 47%
 
 ---
 
-# AEM チャンピオンのベストプラクティスとヒント - AEM as a Cloud Serviceへの移行に伴う一般的な課題への対処
+# AEM Championのベストプラクティスとヒント - AEM as a Cloud Serviceへの移行時の一般的な課題への対処
 
-AEM のエキスパートである Wilson Faure 氏が紹介する貴重なインサイトとベストプラクティスをご覧ください。このビデオでは、AEM as a Cloud Service への移行時に発生する一般的な課題を詳しく説明し、スムーズに移行を成功させるための推奨事項と専門的なヒントを紹介します。
+AEM のエキスパートである Wilson Faure 氏が紹介する貴重なインサイトとベストプラクティスをご覧ください。 このビデオでは、AEM as a Cloud Service への移行時に発生する一般的な課題を詳しく説明し、スムーズに移行を成功させるための推奨事項と専門的なヒントを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448612/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3448612/?captions=jpn&learn=on)
