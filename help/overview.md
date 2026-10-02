@@ -1,18 +1,16 @@
 ---
 title: ユーザーによる Experience
-description: Adobeをご利用のお客様から、Experience Cloudのアプリケーションと機能の使用方法について学びます。
+description: Adobe Adobeの活用方法について、アドビの仲間から学びましょう。
 role: User, Developer, Admin
 level: Beginner
 doc-type: overview
-solution: Experience Cloud
+solution: CX Enterprise
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
+source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 12%
-
 ---
-
 # ユーザーによる体験：ユーザーによるユーザーのためのリソース
 
 [!DNL Adobe]のデジタルエクスペリエンス（DX）ソリューションの最も強力な点は何ですか？ あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 _ユーザーによる体験_&#x200B;は、[!DNL Adobe] DX ソリューションで高度な専門知識と影響力を得た日常的なユーザーが作成したコンテンツを特徴としています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。
@@ -76,7 +74,7 @@ ht-degree: 12%
 ## その他のリソース
 
 * [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
-* [Experience Cloud Documentation](https://experienceleague.adobe.com/docs/?lang=ja)
+* [Adobe Experience Cloudのドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
 * [Experience Cloud チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)
 * [business.adobe.com](https://business.adobe.com/jp)
 
