@@ -29,7 +29,7 @@ ht-degree: 0%
 ---
 # 部門をまたいだ取り組み
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345454/?captions=jpn&quality=12&learn=on)
 
 [!DNL Adobe Analytics]へのジャーニーは、適切な実装から始まります。 私たちは皆、「ガベージイン、ガベージアウト」という言葉を知っています。 「ガベージアウト」実装を排除するには、管理者はシステムに入力されるデータのあらゆる詳細を監視する必要があります。 しかし、データ収集戦略は、管理者が日中と一緒に作業する必要がある組織内の多くの関係者に影響されます。
 

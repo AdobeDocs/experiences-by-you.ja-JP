@@ -37,4 +37,4 @@ ht-degree: 29%
 
 AEM チャンピオン仲間の Wilson Faure 氏から、エキスパートによるアドバイスとベストプラクティスを学びます。 このビデオでは、AEM as a Cloud Service への移行の計画と準備に関する複雑な手順を説明します。 パフォーマンスのベンチマークを確立し、顧客コードの互換性や外部/内部APIの管理などの障害を克服するなど、移行ジャーニーの重要なマイルストーンに対する貴重なベストプラクティスを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445930/?captions=jpn&learn=on)

@@ -45,7 +45,7 @@ ht-degree: 14%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスを移動します" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] ユーザーインターフェイスを移動します" src="https://video.tv.adobe.com/v/3450427?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -58,7 +58,7 @@ ht-degree: 14%
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="レポートと分析" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="レポートと分析" src="https://video.tv.adobe.com/v/3446421?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -71,7 +71,7 @@ ht-degree: 14%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="メールプログラム" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="メールプログラム" src="https://video.tv.adobe.com/v/3453368?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

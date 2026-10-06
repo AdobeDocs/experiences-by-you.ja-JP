@@ -46,7 +46,7 @@ ht-degree: 33%
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="マーケターにとってのワークフローのベストプラクティス" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="マーケターにとってのワークフローのベストプラクティス" src="https://video.tv.adobe.com/v/3448119?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

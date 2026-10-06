@@ -136,7 +136,7 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 
 Adobe Marketo EngageとSalesforceを連携させることで、どのようにセールスとマーケティングのデータを同期させることができるのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453797/?captions=jpn&learn=on)
 
 +++**ビデオで使用されているリンク：**
 
@@ -162,7 +162,7 @@ Adobe Marketo EngageとSalesforceを連携させることで、どのように�
 
 Microsoft Dynamics 365 syncの仕組みを説明し、設定を適切に設定して、2つのシステムが互いに話し合えるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430209/?captions=jpn&learn=on)
 
 +++**ビデオで使用されているリンク：**
 

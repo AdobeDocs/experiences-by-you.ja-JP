@@ -45,7 +45,7 @@ ht-degree: 24%
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="ヒントとテクニック – 編集可能なテンプレート" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="ヒントとテクニック – 編集可能なテンプレート" src="https://video.tv.adobe.com/v/3439838?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -71,7 +71,7 @@ ht-degree: 24%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="ヒントとテクニック" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="ヒントとテクニック" src="https://video.tv.adobe.com/v/3439472?captions=jpn&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
