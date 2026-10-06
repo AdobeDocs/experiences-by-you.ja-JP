@@ -38,19 +38,19 @@ ht-degree: 2%
 ---
 # セグメントを利用して、Analysis Workspaceの新しいインサイトを発見する
 
-[!DNL Adobe Analytics]の新規ユーザーであれ、経験豊富なプロフェッショナルであれ、Analysis Workspace プロジェクトでセグメントを十分に活用できます。 [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en)が説明するように、「セグメントを使用すると、特性やweb サイトのインタラクションに基づいて訪問者のサブセットを識別できます。」 この機能の基本的な結果は、ユーザー、訪問、またはサイトへのヒットのグループを分離することを意味しますが、あなたのような鋭い考えを持つアナリストは、このツールを使用して創造性を発揮し、サイトのアクティビティに関するインサイトを得るための新しい方法を見つけることができます。 選択肢の選択肢は膨大であるため、躊躇せずに独自の選択肢を作成し、組織の他のメンバーや、Experience Leagueの[[!DNL Adobe Analytics]  コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)やSlack[&#128279;](https://www.measure.chat/) コミュニティなどのコミュニティでオンラインで共有し#Measureください。
+[!DNL Adobe Analytics]の新規ユーザーであれ、経験豊富なプロフェッショナルであれ、Analysis Workspace プロジェクトでセグメントを十分に活用できます。 [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ja)が説明するように、「セグメントを使用すると、特性やweb サイトのインタラクションに基づいて訪問者のサブセットを識別できます。」 この機能の基本的な結果は、ユーザー、訪問、またはサイトへのヒットのグループを分離することを意味しますが、あなたのような鋭い考えを持つアナリストは、このツールを使用して創造性を発揮し、サイトのアクティビティに関するインサイトを得るための新しい方法を見つけることができます。 選択肢の選択肢は膨大であるため、躊躇せずに独自の選択肢を作成し、組織の他のメンバーや、Experience Leagueの[[!DNL Adobe Analytics]  コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)やSlack[&#128279;](https://www.measure.chat/) コミュニティなどのコミュニティでオンラインで共有し#Measureください。
 
-セグメントの作成方法に関するクイックリフレッシュが必要な場合は、Analysis Workspaceでの[&#x200B; セグメントビルダー](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en)の使用に関するExperience Leagueのドキュメントをご覧ください。
+セグメントの作成方法に関するクイックリフレッシュが必要な場合は、Analysis Workspaceでの[&#x200B; セグメントビルダー](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ja)の使用に関するExperience Leagueのドキュメントをご覧ください。
 
 ## セグメントの比較と比較
 
-Analysis Workspaceでは、「[&#x200B; セグメント比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en)」を使用して2つのセグメントを比較できます。 セグメントの比較は、左側のナビゲーションバーの「パネル」セクションで確認できます。
+Analysis Workspaceでは、「[&#x200B; セグメント比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ja)」を使用して2つのセグメントを比較できます。 セグメントの比較は、左側のナビゲーションバーの「パネル」セクションで確認できます。
 
 ![&#x200B; セグメント 01](assets/seg01.png)
 
 しかし、重要なインサイトをエンドユーザーに提供するために、完全な比較パネルが必要ない場合もあります。 ありがたいことに、一部の機能は標準パネルでも比較できます。
 
-[&#x200B; ベン図ビジュアライゼーション &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en)を使用すると、簡単な比較を作成でき、2～3個のカスタムセグメント間の重複するセッション、注文、ユーザーなどをホバーして表示できます。 また、次の重なり合うセクションのいずれかを右クリックして、セグメントをすばやく作成することもできます。
+[&#x200B; ベン図ビジュアライゼーション &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja)を使用すると、簡単な比較を作成でき、2～3個のカスタムセグメント間の重複するセッション、注文、ユーザーなどをホバーして表示できます。 また、次の重なり合うセクションのいずれかを右クリックして、セグメントをすばやく作成することもできます。
 
 ![&#x200B; セグメント 02](assets/s02.png)
 

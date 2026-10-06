@@ -78,7 +78,7 @@ _測定カンファレンスについて学習します。 Funnelのマップを
 1. デザイナーやプロダクトマネージャーと各ステップを進め、Adobe funnelの成功事例について話し合いましょう。 コンバージョン率とは？ 特定のパスを選択しているか？ 特定の機能を利用しているか？
 1. Funnelの各ステップと全体でfunnelのパフォーマンスを把握するために必要な指標やディメンションについて質問します。
 1. Funnelの各ステップの上に、計算された指標を含め、そのステップで測定される指標とディメンションを追加します。
-1. 各funnelの開始時に、プロダクトマネージャーがパフォーマンスのトラッキングに使用できるダッシュボードに表示されるレポートを書き出します。 これらのレポートには、[&#x200B; フォールアウトレポート &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当月](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[&#x200B; トレンドのコンバージョン率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)など、そのfunnelに特有のものがあります。
+1. 各funnelの開始時に、プロダクトマネージャーがパフォーマンスのトラッキングに使用できるダッシュボードに表示されるレポートを書き出します。 これらのレポートには、[&#x200B; フォールアウトレポート &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当月](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[&#x200B; トレンドのコンバージョン率](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/visualizations/line)など、そのfunnelに特有のものがあります。
 1. 確認した新しい指標とディメンションをSDRに追加し、関係者に送信して2回目のレビューを行います。
 
 ### プレビューダッシュボードでは

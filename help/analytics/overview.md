@@ -71,7 +71,7 @@ ht-degree: 22%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="標準化された命名規則の作成" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="標準化された命名規則の作成" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=ja" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -92,4 +92,4 @@ ht-degree: 22%
 * [Experience League Adobe Analytics コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
 * [Adobe Analytics ドキュメント](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
 * [Adobe Analytics チュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja)
-* [Adobe Analyticsについて](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analyticsについて](https://business.adobe.com/jp/products/analytics/adobe-analytics.html)

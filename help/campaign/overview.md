@@ -59,7 +59,7 @@ ht-degree: 33%
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="マーケター向けトラブルシューティング" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="マーケター向けトラブルシューティング" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ja" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -72,7 +72,7 @@ ht-degree: 33%
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="マーケター向け Adobe Campaign 成功のベストプラクティス 10 件" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="マーケター向け Adobe Campaign 成功のベストプラクティス 10 件" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ja" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -94,4 +94,4 @@ ht-degree: 33%
 * Adobe Campaign v8 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
 * Adobe Campaign Classic v7 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
 * Adobe Campaign Standard - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
-* [Adobe Campaignについて](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Adobe Campaignについて](https://business.adobe.com/jp/products/campaign/adobe-campaign.html)

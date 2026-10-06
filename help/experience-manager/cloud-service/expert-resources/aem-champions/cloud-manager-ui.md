@@ -46,4 +46,4 @@ ht-degree: 2%
 
 ## その他のリソース {#additional-resources}
 
-* [はじめに [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html) - AEM as a Cloud Serviceでの[!DNL Cloud Manager]の使用に関するドキュメント
+* [はじめに [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html?lang=ja) - AEM as a Cloud Serviceでの[!DNL Cloud Manager]の使用に関するドキュメント
