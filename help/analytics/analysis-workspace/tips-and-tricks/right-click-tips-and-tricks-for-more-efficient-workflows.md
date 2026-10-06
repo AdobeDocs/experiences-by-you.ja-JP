@@ -91,7 +91,7 @@ Funnel（フォールアウト）レポートは、複数のページやイベ�
 
 この文書の作成者：
 
-![ クリステル・ガイドン ](assets/christel-guidon.jpg)
+![&#x200B; クリステル・ガイドン &#x200B;](assets/christel-guidon.jpg)
 
 **Christel Guidon**、Gen Digitalのデジタル [!DNL Analytics] プラットフォームマネージャー
 

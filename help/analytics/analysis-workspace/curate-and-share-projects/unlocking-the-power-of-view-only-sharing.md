@@ -59,7 +59,7 @@ ht-degree: 0%
 
 この文書の作成者：
 
-![ レオ・ラウ ](assets/leo_headshot.png)
+![&#x200B; レオ・ラウ &#x200B;](assets/leo_headshot.png)
 
 **Leo Lau**、マーテク責任者、アジア担当ディレクター
 

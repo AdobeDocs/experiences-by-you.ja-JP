@@ -44,7 +44,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->[ オンボーディングプレイブックをこちらからダウンロードしてください。](./assets/Cloud-Manager-for-AEM-as-a-Cloud-Service.xlsx)
+>[&#x200B; オンボーディングプレイブックをこちらからダウンロードしてください。](./assets/Cloud-Manager-for-AEM-as-a-Cloud-Service.xlsx)
 
 テクニカルリーダーのRakesh Pasupuleti氏のアドバイスをご覧ください。 Rakeshは[!DNL Adobe] Experience Manager チャンピオンであり、オンボーディングプレイブックの使用方法に関するアイデアを共有しています。
 

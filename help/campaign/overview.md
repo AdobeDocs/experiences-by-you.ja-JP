@@ -91,7 +91,7 @@ ht-degree: 33%
 ## その他のリソース
 
 * [Experience League Adobe Campaign コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja)
-* Adobe Campaign v8 - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [ チュートリアル ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
-* Adobe Campaign Classic v7 - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [ チュートリアル ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
-* Adobe Campaign Standard - [ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [ チュートリアル ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign v8 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign Classic v7 - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
+* Adobe Campaign Standard - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ja) / [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja)
 * [Adobe Campaignについて](https://business.adobe.com/products/campaign/adobe-campaign.html)

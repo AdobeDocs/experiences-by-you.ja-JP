@@ -36,14 +36,14 @@ web パフォーマンスの最適化、効率的なタグ管理、Adobeサイ�
 
 こうした利点があるにもかかわらず、Web SDKを導入するという考え方は、完全には圧倒されるとは言わないまでも、非常に困難なものです。 Web SDKを導入する際に役立つ戦略的ガイドを作成しました。
 
-Web SDKの導入に関する[戦略ガイド ](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}をダウンロードしてください。
+Web SDKの導入に関する[戦略ガイド &#x200B;](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}をダウンロードしてください。
 
 
 ## 作成者
 
 この文書の作成者：
 
-![ メーガン・ヘッド・ショット ](assets/meghan-head-shot.png)
+![&#x200B; メーガン・ヘッド・ショット &#x200B;](assets/meghan-head-shot.png)
 
 **メーガンの力**
 

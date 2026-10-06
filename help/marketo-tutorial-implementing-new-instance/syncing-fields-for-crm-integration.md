@@ -34,7 +34,7 @@ Adobe Professional Servicesが提案するベストプラクティスを使用�
 
 CRMとMarketo Engageを統合する場合、あらゆるCRM フィールドをMarketo Engageに同期する必要がない可能性があります。 必要なフィールドについて戦略的に判断することで、Marketo Engageインスタンスがより効率的にデータフローを処理できるようになります。
 
-Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フィールド（電子メール、名/姓、会社など）の多くを自動的に関連付けることができます。 さらに、コネクタは、CRMからこれらのフィールドに自動的にマッピングされる新しいフィールドをMarketo Engageに作成することで、リード、取引先責任者、アカウント、商談の[ カスタムフィールド ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}も同期します。
+Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フィールド（電子メール、名/姓、会社など）の多くを自動的に関連付けることができます。 さらに、コネクタは、CRMからこれらのフィールドに自動的にマッピングされる新しいフィールドをMarketo Engageに作成することで、リード、取引先責任者、アカウント、商談の[&#x200B; カスタムフィールド &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}も同期します。
 
 最初の同期を実行する前に、CRMから同期するフィールドを特定して整理することは、Native Connectorのセットアッププロセスにおける重要なステップです。 これはデータ要素の演習と呼ばれ、作成される重複フィールドの数を最小限に抑え、その後のリマッピングステップをできるだけスムーズに実行するのに役立ちます。 通常、この演習では、マーケティング部門と営業部門およびCRM管理者から情報を収集し、関連するフィールドのみがMarketo Engage インスタンスに同期されるようにします。
 
@@ -43,7 +43,7 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 一般的に、ベストプラクティスは、マーケティング目的で必要となるCRM フィールドのみを同期することです。 Marketo Engageにマッピングする必要があるCRMのフィールドを整理し、最初のCRM同期を正しく実行するには、この演習から始めます。
 
 >[!NOTE]
->最初の同期を開始する前に、既にMarketo Engageに同等のカスタムフィールドがあるCRMのカスタムフィールドがある場合、CRM フィールドの新しい「重複」フィールドがMarketo Engageに作成されます。 最初の同期が完了すると、CRM フィールドを元のMarketo Engage フィールドに再マッピングし、重複するフィールドを非表示にできますが、そうするには、[Adobe カスタマーサポート ](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}にお問い合わせください。 詳しくは、手順7を参照してください。
+>最初の同期を開始する前に、既にMarketo Engageに同等のカスタムフィールドがあるCRMのカスタムフィールドがある場合、CRM フィールドの新しい「重複」フィールドがMarketo Engageに作成されます。 最初の同期が完了すると、CRM フィールドを元のMarketo Engage フィールドに再マッピングし、重複するフィールドを非表示にできますが、そうするには、[Adobe カスタマーサポート &#x200B;](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}にお問い合わせください。 詳しくは、手順7を参照してください。
 
 **手順1:** CRMで現在使用可能なフィールドのリストを作成し、それらをMarketo Engageに表示するかどうかをマークします。
 
@@ -52,7 +52,7 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 * これらのフィールド（読み取り専用または読み取り/書き込み）に対して、Marketo Engageがどのレベルのアクセス権を持つかを決定します
 
 
-**手順2:** Marketo Engage インスタンスの[管理者/ フィールド管理セクション ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce){target="_blank"}を確認して、同期に含めるシステム内で以前に直接作成したカスタムフィールドを特定します。
+**手順2:** Marketo Engage インスタンスの[管理者/ フィールド管理セクション &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce){target="_blank"}を確認して、同期に含めるシステム内で以前に直接作成したカスタムフィールドを特定します。
 
 * 各フィールドのAPI名とフィールドタイプを文書化します。
 * CRMに同等のフィールドが既にあるフィールドを示します。
@@ -70,7 +70,7 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
   <br>
 
   その例を次に示します。
-  ![ データ辞書テーブル ](/help/marketo-tutorial-implementing-new-instance/assets/data_dictionary.png){width="100%" zoomable="yes"}
+  ![&#x200B; データ辞書テーブル &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/data_dictionary.png){width="100%" zoomable="yes"}
 
 
 * まず、CRMに自動的にマッピングされるデフォルトフィールドを追加します。
@@ -80,7 +80,7 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
   * [Veeva](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
 
 * Marketo Engageの各デフォルトフィールドが、同期するCRMのフィールドと一致することを確認します。 例えば、Marketo Engageの「購読解除」フィールドは、CRMの「電子メールオプトアウト」フィールドである可能性があります。
-* 必要に応じて、CRM APIの名前、権限、および[ データタイプ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}を調整します。
+* 必要に応じて、CRM APIの名前、権限、および[&#x200B; データタイプ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}を調整します。
 
 **手順4:** データ要素に追加フィールドを追加する
 

@@ -43,14 +43,14 @@ Adobe [!DNL Marketo Engage]へようこそ！ 新しいインスタンスを設�
   *Marketo Engage インスタンスのドキュメントと変更履歴を作成および管理するための堅牢な手順を確立する方法について説明します。 これにより、チームの知識共有にかかる時間を節約できるだけでなく、インスタンスの健全性と効率性を向上させることができます。*
 <br>
 
-* [ リード/人物スコアリングモデルの構築](/help/marketo-tutorial-implementing-new-instance/building-person-scoring-model.md)
+* [&#x200B; リード/人物スコアリングモデルの構築](/help/marketo-tutorial-implementing-new-instance/building-person-scoring-model.md)
   *ビジネスに必要なスコアリングモデルの開発にMarketo Engage Championが使用する戦略について詳しく説明します。*
 <br>
 
-* [ ネイティブ CRM コネクタのフィールドを同期しています](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
+* [&#x200B; ネイティブ CRM コネクタのフィールドを同期しています](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Marketo Engageで使用する重要なCRM フィールドを戦略的に選択して、最初のCRM統合を効率化する方法を説明します。 営業部門とマーケティング部門の連携を維持するのに役立つ、スムーズなCRM同期に必要なフィールドを特定するために、データ要素の演習を実施します。*
-  * [Salesforce syncの概要](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=&quot;_blank}
-  * [Microsoft Dynamics syncの概要](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=&quot;_blank}
+  * [Salesforce syncの概要](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=_blank}
+  * [Microsoft Dynamics syncの概要](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=_blank}
 <br>
 
 * [新しいインスタンスの整理と命名規則の確立](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -61,11 +61,11 @@ Adobe [!DNL Marketo Engage]へようこそ！ 新しいインスタンスを設�
   *Adobe Marketo Engage内のネイティブな会話型エンゲージメント チャネルであるAdobe Dynamic Chatを使用して、会話型マーケティングをすばやくデザインしましょう。 このチュートリアルでは、セールスミーティングの予約、web サイトのコンテンツのエンゲージメント、イベント/ウェビナーのプロモーションなどのユースケースを実装するための実用的なレシピを紹介します。*
 <br>
 
-* [ インスタンスのガバナンスとドキュメントの概要](/help/marketo-tutorial-implementing-new-instance/documenting-your-instance.md)
+* [&#x200B; インスタンスのガバナンスとドキュメントの概要](/help/marketo-tutorial-implementing-new-instance/documenting-your-instance.md)
   *Marketo Engageのガバナンスとドキュメントを開始するための基本的な戦略とベストプラクティスについて説明します。 拡張可能なドキュメントを作成し、ユーザーのトレーニングを合理化し、Marketo Engage インスタンスの構造を使用して確実に構築する方法を説明します。*
 
 ## その他のリソース
 
-* [ ベストプラクティス チェックリストを使用した新しいMarketo Engage インスタンスの実装](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=&quot;_blank}
+* [&#x200B; ベストプラクティス チェックリストを使用した新しいMarketo Engage インスタンスの実装](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=_blank}
   *各チェックリストには、設定の進捗状況を追跡するための重要な手順が記載されています。 ダウンロード可能なチェックリストを使用して、今後のインスタンス監査とユーザーのオンボーディングに向けて作業を文書化します。*
 

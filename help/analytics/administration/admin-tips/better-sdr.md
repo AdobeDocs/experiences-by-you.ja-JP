@@ -78,13 +78,13 @@ _測定カンファレンスについて学習します。 Funnelのマップを
 1. デザイナーやプロダクトマネージャーと各ステップを進め、Adobe funnelの成功事例について話し合いましょう。 コンバージョン率とは？ 特定のパスを選択しているか？ 特定の機能を利用しているか？
 1. Funnelの各ステップと全体でfunnelのパフォーマンスを把握するために必要な指標やディメンションについて質問します。
 1. Funnelの各ステップの上に、計算された指標を含め、そのステップで測定される指標とディメンションを追加します。
-1. 各funnelの開始時に、プロダクトマネージャーがパフォーマンスのトラッキングに使用できるダッシュボードに表示されるレポートを書き出します。 これらのレポートには、[ フォールアウトレポート ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当月](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[ トレンドのコンバージョン率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)など、そのfunnelに特有のものがあります。
+1. 各funnelの開始時に、プロダクトマネージャーがパフォーマンスのトラッキングに使用できるダッシュボードに表示されるレポートを書き出します。 これらのレポートには、[&#x200B; フォールアウトレポート &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[当月](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[&#x200B; トレンドのコンバージョン率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)など、そのfunnelに特有のものがあります。
 1. 確認した新しい指標とディメンションをSDRに追加し、関係者に送信して2回目のレビューを行います。
 
 ### プレビューダッシュボードでは
 
 1. Funnel マップをガイドとして使用して、モックアップ ダッシュボードを作成します。
-1. [ エグゼクティブサマリーダッシュボード ](driving-success-with-executive-summary-dashboards.md)、各ファネルのダッシュボードなど、全体的なビューが必要です。
+1. [&#x200B; エグゼクティブサマリーダッシュボード &#x200B;](driving-success-with-executive-summary-dashboards.md)、各ファネルのダッシュボードなど、全体的なビューが必要です。
 1. また、製品のパフォーマンスやコンテンツのパフォーマンスなど、web サイトやアプリに特化したものもあります。
 1. 関係者に配布して、設計に関するフィードバックを得ます。
 1. 必要に応じて更新し、新しい指標やディメンションをSDRに追加できます。
@@ -128,7 +128,7 @@ _要件の収集、データ文化の構築、データに関する深い考え�
 
 ### データを簡素化
 
-また、[ プレビューダッシュボード ](#the-preview-dashboards)を通じて、プロセスの使用方法と表示を示しました。 新しいソリューションはすべて&#x200B;_ハード_&#x200B;です。 学ぶことがたくさんあり、[!DNL Adobe Analytics]の非常に大きなカスタマイズ性を考えると、学習曲線は急になる可能性があります。 しかし、その80%は削除しました。 関係者は、コードを記述する前から、ダッシュボードがどのように表示されるのかを把握しています。 読み方を理解して、意味を理解してくれます。 顧客は、成功を定義する指標やディメンションを把握しているので、成功の文字通りの姿を知ることができます。 成功をどのように視覚化するかを説明しました。 実際のダッシュボードの配信は、怖い新しい学習タスクではなく、新鮮なものです。
+また、[&#x200B; プレビューダッシュボード &#x200B;](#the-preview-dashboards)を通じて、プロセスの使用方法と表示を示しました。 新しいソリューションはすべて&#x200B;_ハード_&#x200B;です。 学ぶことがたくさんあり、[!DNL Adobe Analytics]の非常に大きなカスタマイズ性を考えると、学習曲線は急になる可能性があります。 しかし、その80%は削除しました。 関係者は、コードを記述する前から、ダッシュボードがどのように表示されるのかを把握しています。 読み方を理解して、意味を理解してくれます。 顧客は、成功を定義する指標やディメンションを把握しているので、成功の文字通りの姿を知ることができます。 成功をどのように視覚化するかを説明しました。 実際のダッシュボードの配信は、怖い新しい学習タスクではなく、新鮮なものです。
 
 これは必ずしも、SDRをまとめる最も手っ取り早い方法ではありません。 経営陣が関与する必要があるため、手間のかかる作業や、スケジュールの調整も必要になります。 しかし、最終的には、大規模な分析ツールの導入には時間とコストがかかるため、導入率と満足度を高める必要があります。 この手法は、それを実現するのに大いに役立ちます。
 

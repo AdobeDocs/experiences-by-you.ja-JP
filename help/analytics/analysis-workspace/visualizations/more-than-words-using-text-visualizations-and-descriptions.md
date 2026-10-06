@@ -75,7 +75,7 @@ ht-degree: 0%
 
 この文書の作成者：
 
-![ ダン・カミングス ](assets/text09.png)
+![&#x200B; ダン・カミングス &#x200B;](assets/text09.png)
 
 McDonald’s Corporationの&#x200B;**Dan Cummings** （シニア製品エンジニアリング [!DNL Analytics] マネージャー）
 

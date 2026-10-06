@@ -156,7 +156,7 @@ ht-degree: 0%
 
 この文書の作成者：
 
-![ デビー・カーン ](assets/calc13.jpeg)
+![&#x200B; デビー・カーン &#x200B;](assets/calc13.jpeg)
 
 Adswerveの&#x200B;**Debbie Kern**、シニア [!DNL Adobe Analytics] マネージャー
 
