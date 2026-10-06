@@ -1,5 +1,5 @@
 ---
-title: 内部 [!DNL Adobe Analytics]  サイト （Confluenceまたはその他）を作成する
+title: 内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成する
 description: トレーニングドキュメントをあらゆるユーザーが共有し、確認できる一元的な場所を作成します。
 solution: Analytics
 feature-set: Analytics
@@ -11,16 +11,29 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 2fc27a2c-15e0-432e-a435-d7e4793ce670
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
-
 ---
-
 # 内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成する
 
-**WHAT:** トレーニングドキュメントの作成に関する[このヒント &#x200B;](create-basic-videos-and-training.md){target="_blank"}の推奨事項に従っている場合、ハードドライブに保存することはできません。 これらをすべてのユーザーが共有および参照できる一元的な場所を作成します。すべてのドキュメントを投稿し、異なるバージョンを管理できる内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成します。
+**WHAT:** トレーニングドキュメントの作成に関する[このヒント ](create-basic-videos-and-training.md){target="_blank"}の推奨事項に従っている場合、ハードドライブに保存することはできません。 これらをすべてのユーザーが共有および参照できる一元的な場所を作成します。すべてのドキュメントを投稿し、異なるバージョンを管理できる内部[!DNL Adobe Analytics] サイト （Confluenceまたはその他）を作成します。
 
 **理由：**&#x200B;単一の共有リポジトリを設定すると、すべての新規ユーザーをディレクションし、すべてのドキュメントの最新バージョンに関する信頼できる唯一の情報源を提供する1つの場所が得られます。 最適なバージョン管理とコラボレーションが可能になります。
 
@@ -39,7 +52,7 @@ ht-degree: 0%
 
 この文書は次の人によって共同作成されました：
 
-![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
+![ クリステル・ガイドン ](assets/Christel-Headshot-150.png)
 
 Christel Guidon氏（NortonLifeLock、デジタル [!DNL Analytics] プラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン

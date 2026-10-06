@@ -7,22 +7,33 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 2%
-
 ---
-
 # マーケター向けのトラブルシューティング：5つの一般的なワークフローと配信エラー
 
-作成者：[&#x200B; スライ パトラ &#x200B;](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、Meijer、シニアコンサルタント
+作成者：[ スライ パトラ ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、Meijer、シニアコンサルタント
 
-過去5年間、[!DNL Adobe]のExperience Cloud製品に関するシニアエンジニアおよびカスタマーエキスパートとして、1934年に設立されたアメリカのスーパーセンターチェーンである[Meijer](https://www.meijer.com/){target="_blank"}のビジネスユーザーが、ACSで複雑なマーケティングおよびトランザクションキャンペーンを実行できるようにしています。 私が取り組んだプロジェクトには、[!DNL Adobe] Audience Managerと統合されたパーソナライゼーション用のオファーと注文詳細を保存するカスタマイズされたキャンペーンや、セグメント取り込み用のCustomer insightなどがあります。
+過去5年間、[!DNL Adobe]のExperience Cloud製品に関するシニアエンジニアおよび顧客エキスパートとして、1934年に設立されたアメリカのスーパーセンターチェーンである[Meijer](https://www.meijer.com/){target="_blank"}のビジネスユーザーが、ACSで複雑なマーケティングおよびトランザクションキャンペーンを実行できるようにしています。 私が取り組んだプロジェクトには、[!DNL Adobe] Audience Managerと統合されたパーソナライゼーション用のオファーと注文詳細を保存するカスタマイズされたキャンペーンや、セグメント取り込み用のCustomer insightなどがあります。
 
 ACSを使用している間、解決に時間がかかり、フラストレーションが生じる可能性のあるエラーに遭遇しました。 最も一般的なエラーを把握することで、迅速な問題解決と生産性の向上に役立ちます。 以下は、同様のエラーが発生したときに効果的に解決するのに役立つトラブルシューティングのヒントです。
 
@@ -59,7 +70,7 @@ ACSを使用している間、解決に時間がかかり、フラストレー�
 
 ![紐付けの詳細を含むワークフロー](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-[紐付け](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=ja)の詳細をご覧ください。
+[紐付け](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)の詳細をご覧ください。
 
 ## 共通フィールドデータセットエラー
 
@@ -94,7 +105,7 @@ ACSを使用している間、解決に時間がかかり、フラストレー�
 
 エラーポイントは、**エンリッチメントアクティビティ**&#x200B;で発生する可能性があります。 最も一般的なものの1つは下に表示されます。
 
-![&#x200B; フィールド名が削除されましたエラー](/help/_assets/kt-13256/field-name-dropped-error.png)
+![ フィールド名が削除されましたエラー](/help/_assets/kt-13256/field-name-dropped-error.png)
 
 これは、アクティビティでエクスプレッション名を手動で編集した場合に発生します。 この画像は、式が`name`から`i__name`に変更されたことを示しています。
 

@@ -1,27 +1,34 @@
 ---
 title: 社内オンボーディングとトレーニングのロードショーを開発
-description: ' [!DNL Marketo Engage]  インスタンスのドキュメントと変更履歴を作成および維持するための堅牢な手順を確立する方法について説明します。 これにより、チームの知識共有の時間を節約できるだけでなく、インスタンスの健全性と効率性を向上させることができます。'
+description: '[!DNL Marketo Engage] インスタンスのドキュメントと変更履歴を作成および維持するための堅牢な手順を確立する方法について説明します。 これにより、チームの知識共有の時間を節約できるだけでなく、インスタンスの健全性と効率性を向上させることができます。'
 role: Admin
 level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '856'
 ht-degree: 0%
-
 ---
-
 # 社内オンボーディングとトレーニングのロードショーを開発
 
 新しい[!DNL Marketo Engage] インスタンスを公開したら、関連チームが作業に[!DNL Marketo Engage]を活用できるようにスピードアップします。
 
-これらの内部オンボーディングとトレーニングのベストプラクティスは、Adobe Marketo Engageのお客様であるNaomi Liu氏によって提供されました。これは、[内部オンボーディング &#x200B;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=_blank}および[&#x200B; トレーニングのベストプラクティス &#x200B;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=_blank}が、Electronics for Imagingのグローバルチームに新しいインスタンスを導入した経験から得られたものです。 そのインサイトに従って、社内チームの効果的なトレーニング計画を策定しましょう。
+これらの内部オンボーディングとトレーニングのベストプラクティスは、Adobe Marketo Engageのお客様であるNaomi Liu氏によって提供されました。これは、[内部オンボーディング ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank}および[ トレーニングのベストプラクティス ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank}が、Electronics for Imagingのグローバルチームに新しいインスタンスを導入した経験から得られたものです。 そのインサイトに従って、社内チームの効果的なトレーニング計画を策定しましょう。
 
 ## 新しいインスタンスを導入する際に、社内オンボーディングプランを開発する理由を教えてください。
 
@@ -48,7 +55,7 @@ Marketo Engageの管理者は、新しいテクノロジースタック能力を
 
 ## サンプルカリキュラム：社内トレーニングロードショー
 
-ここでは、マーケティングビジネスパートナー向けにカスタマイズするために、Naomi Liuが提案したトレーニングカリキュラムのサンプルを紹介します。 オフラインのカスタマイズ用の[&#x200B; サンプルトレーニングカリキュラム &#x200B;](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"}をダウンロードします。
+ここでは、マーケティングビジネスパートナー向けにカスタマイズするために、Naomi Liuが提案したトレーニングカリキュラムのサンプルを紹介します。 オフラインのカスタマイズ用の[ サンプルトレーニングカリキュラム ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"}をダウンロードします。
 
 | セッションタイトル | 目標 | トレーニング方法 | 時間配分 |
 |--- |--- |--- |--- |
@@ -64,7 +71,7 @@ Marketo Engageの管理者は、新しいテクノロジースタック能力を
 
 ## 次の手順
 
-* [&#x200B; サンプルトレーニングカリキュラム &#x200B;](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} スプレッドシートをダウンロードして、社内トレーニングモジュールを開発します。
+* [ サンプルトレーニングカリキュラム ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} スプレッドシートをダウンロードして、社内トレーニングモジュールを開発します。
 * セッションのトピックに適したチームを入力します。
 * トレーニング教材の作成に使用する方法を選択します。
 

@@ -1,27 +1,40 @@
 ---
-title: ヒストグラムでインサイトを開放します。 [!DNL Analytics]の平均値を超えています
+title: ヒストグラムでインサイトを開放します。[!DNL Analytics]の平均以上
 description: Analytics におけるヒストグラムの影響を発見することで、平均を上回るインサイトを得ることができます。
 feature-set: Analytics
 feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 1%
-
 ---
-
 # ヒストグラムでインサイトを解き放つ：[!DNL Analytics]の平均値を超えています
 
 _Analyticsでヒストグラムの影響を確認して、平均以上のインサイトを得ることができます。 ヒストグラムは、顧客の行動、訪問者のエンゲージメント、技術的なパフォーマンス、フォームのエラーなどのデータパターンを明らかにし、[!DNL Adobe] Workspaceでより深いインサイトと情報に基づいた意思決定を可能にします。_
 
-では早速始めましょう。 [&#x200B; ヒストグラム &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja)を使用してください。 その理由を説明しますが、最初の質問、「ヒストグラムとは何か？」に答えましょう 分かります。 多くの場合、多数の棒グラフが表示されているのを見ると、それは棒グラフだと思うかもしれません。 はい、ヒストグラムは似ていますが、私はあなたを保証します、彼らは異なります。 棒グラフでは比較し、ヒストグラムでは変数が発生した頻度を示します。 ご覧ください。 ここに棒グラフがあります。
+では早速始めましょう。 [ ヒストグラム ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)を使用してください。 その理由を説明しますが、最初の質問、「ヒストグラムとは何か？」に答えましょう 分かります。 多くの場合、多数の棒グラフが表示されているのを見ると、それは棒グラフだと思うかもしれません。 はい、ヒストグラムは似ていますが、私はあなたを保証します、彼らは異なります。 棒グラフでは比較し、ヒストグラムでは変数が発生した頻度を示します。 ご覧ください。 ここに棒グラフがあります。
 
 ![棒グラフ 1](assets/bar-chart-1.png)
 
@@ -29,7 +42,7 @@ _Analyticsでヒストグラムの影響を確認して、平均以上のイン�
 
 次に、ヒストグラムを見てみましょう。
 
-![&#x200B; ヒストグラム 1](assets/histogram-1.png)
+![ ヒストグラム 1](assets/histogram-1.png)
 
 X軸の下部には、各顧客が購入したユニット数があります。 最初のバーは、顧客が1 ユニットを購入した頻度を表し、2番目のバーは、10 ユニット以上を購入した顧客まで、2 ユニットを購入した顧客数などを表します。
 
@@ -59,15 +72,15 @@ X軸の下部には、各顧客が購入したユニット数があります。 
 
 - 訪問者のエンゲージメント – 平均ストーリー数が1.2である場合、最初の記事をパーソナライズすることはかなり明白です。 3つ目の記事を読むと、別の大きなグループが存在することを見逃すでしょう。これは、ヒストグラムで明らかになっています。
 
-  ![&#x200B; ヒストグラム 2](assets/histogram-2.png)
+  ![ ヒストグラム 2](assets/histogram-2.png)
 
 - 技術的エラー – 1訪問者あたり平均8.7件のエラーが発生した場合、問題があったことがわかります。 ヒストグラムでは、訪問者の97%が、1つ以上のエラーを経験していることがわかります。しかし、いくつかの異常値が、平均値を押し上げています。 そして、少数の異常値グループのエクスペリエンスの改善に多くの時間を割くのは価値がないと判断するかもしれません。
 
-  ![&#x200B; ヒストグラム 3](assets/histogram-3.png)
+  ![ ヒストグラム 3](assets/histogram-3.png)
 
 - フォームエラー – 訪問者ごとに平均3.6個のフォームエラーメッセージがある場合、これは問題の指標です。 技術的なエラーと同じ異常値の問題がある場合もありますが、ヒストグラムで特定の数のエラーが急増した場合にinsightを利用することもできます。 1つのエラーで大きなスパイクが発生する？ これは、これらすべての訪問者が経験する一般的な問題かもしれませんし、一度すべて異なるエラーが発生した場合もあります。 3つのエラーで大規模なスパイク？ ああ、今は面白い。 同じ3つのエラーであることを示す調査を求められた場合は、訪問者を把握し、相互に関連する可能性の高い問題を修正するのに役立つデータに重点を置きます。
 
-  ![&#x200B; ヒストグラム 4](assets/histogram-4.png)
+  ![ ヒストグラム 4](assets/histogram-4.png)
 
 ご覧のとおり、ヒストグラムには独自の用途があるだけでなく、平均から得られるinsightも深めることができます。 [!DNL Adobe Analytics]のすぐに使えるビジュアライゼーションで、簡単に作成できます。 これらのユースケースが参考になるか、インスピレーションを得られることを願っています。 ハッピー視覚化！
 

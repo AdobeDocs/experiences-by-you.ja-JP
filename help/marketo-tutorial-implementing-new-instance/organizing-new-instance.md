@@ -6,39 +6,46 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # 新しいインスタンスを整理し、命名規則を確立する
 
 新しいMarketo Engageインスタンスを導入する管理者は、組織内の将来のマーケターがインスタンスを容易に移動できる基盤を構築する必要があります。 ツリーフォルダーの構造と命名規則に慣れることで、インスタンスを整頓し、長期的な成功に備えることができます。 このチュートリアルでは、AdobeとMarketo Engage Champion （2019-2020）が推奨する例を取り上げて、フォルダーとアセット名を一貫して[整理できるよう支援します](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
 
 ## フォルダーを構造化し、命名規則を適用する必要があるのはなぜですか？
 
-インスタンスを整理することで、キャンペーン、プログラム、アセットを追跡し、プログラムのパフォーマンスを報告することが容易になります。 インスタンス内のナビゲーションツリーを整理して大規模に構築するには、[&#x200B; フォルダー](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準の命名規則](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、[複製](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}などの機能を使用することをお勧めします。
+インスタンスを整理することで、キャンペーン、プログラム、アセットを追跡し、プログラムのパフォーマンスを報告することが容易になります。 インスタンス内のナビゲーションツリーを整理して大規模に構築するには、[ フォルダー](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準の命名規則](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、[複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}などの機能を使用することをお勧めします。
 
 ## Marketo Engage インスタンスを整理する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3422765/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### 手順1 - プログラムを順番に配置するためのフォルダー構造の設定
 
-インスタンスを整理するための最初のステップは、プログラムとアセットを見つけやすく整理された方法で[&#x200B; フォルダー構造](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=ja)に設定することです。
+インスタンスを整理するための最初のステップは、プログラムとアセットを見つけやすく整理された方法で[ フォルダー構造](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)に設定することです。
 
 以下に、ツリー内のフォルダーを構造化する際の簡単なヒントを示します。
 
 * 見つけやすいようにフラットなフォルダー構造を維持。
 * 組織のチーム構造（地域やチームなど）や取り組み（ニュースレターなど）を反映させるためにフォルダーを構成します。
 * 時間ベースのラベルを含めることで、検索性を高め、アーカイブに適したタイミングを示すことができます（例：2024）。
-   * 管理者は、少なくとも年に1回はフォルダーをアーカイブすることをお勧めします。 年間フォルダー名を使用すると、ライブスマートキャンペーンを簡単に非アクティブ化し、年末にフォルダー全体をアーカイブできます。
+  * 管理者は、少なくとも年に1回はフォルダーをアーカイブすることをお勧めします。 年間フォルダー名を使用すると、ライブスマートキャンペーンを簡単に非アクティブ化し、年末にフォルダー全体をアーカイブできます。
 
 以下は、これらのヒントを実践するためのフォルダーの例です。
 
@@ -48,15 +55,15 @@ ht-degree: 2%
 
 >[!TAB マーケティングアクティビティ]
 
-![&#x200B; フォルダーのマーケティング活動](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
+![ フォルダーのマーケティング活動](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
 >[!TAB  デザインスタジオ ]
 
-![&#x200B; フォルダーデザインスタジオ &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
+![ フォルダーデザインスタジオ ](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
 >[!TAB データベース]
 
-![&#x200B; フォルダーデータベース &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
+![ フォルダーデータベース ](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
 
 >[!ENDTABS]
 
@@ -69,12 +76,12 @@ ht-degree: 2%
 * キャンペーン – インタラクションとステータスの追跡を管理しているすべてのキャンペーンの&#x200B;*フォルダー。*
 * ローカル Assets – このプログラムに固有のすべてのアセットの&#x200B;*フォルダー。*
 
-   * メール
-   * ランディングページ
-   * スマートキャンペーン
-   * リスト - *プログラム固有のリストがある場合にのみ必要です。*
-   * Forms - *プログラム固有のFormsがある場合にのみ必要です。ほとんどのFormsはグローバル Assetsです。*
-   * レポート - *プログラム固有のレポートがある場合にのみ必要です。*
+  * メール
+  * ランディングページ
+  * スマートキャンペーン
+  * リスト - *プログラム固有のリストがある場合にのみ必要です。*
+  * Forms - *プログラム固有のFormsがある場合にのみ必要です。ほとんどのFormsはグローバル Assetsです。*
+  * レポート - *プログラム固有のレポートがある場合にのみ必要です。*
 
 ### 手順3 - プログラムとアセットの命名規則を作成する
 
@@ -116,7 +123,7 @@ ht-degree: 2%
 
 * プログラムプロセスでの順序に基づいてアセットに番号を付けます。
 * 「。」（ドット）または「\_」（アンダースコア）ではなく、「 – 」（ハイフン）を使用して命名規則コンポーネントを区切ります。
-   * なぜでしょうか？ Marketo Engageでは、ドットを使用してプログラム名とキャンペーン名を区切ります。 「\_」を使用すると、アセットがハイパーリンクされているときに表示されなくなります。
+  * なぜでしょうか？ Marketo Engageでは、ドットを使用してプログラム名とキャンペーン名を区切ります。 「\_」を使用すると、アセットがハイパーリンクされているときに表示されなくなります。
 * アセット名に標準的な頭字語を使用することで、参照を短くし、認識を容易にします。
 
 これらを念頭に置いて、次のヒントを次のアセットに適用し、名前を生成するための数式を作成します。
@@ -182,7 +189,7 @@ ht-degree: 2%
 
 * フォルダー構造と命名規則の作成をサポートするために、ワークシート [Marketo Engageの組織と命名規則](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}をダウンロードします。
 * 標準的な命名規則で必要なコンポーネントを決定したら、数式をGoogle シートまたはMicrosoft Excelに組み込むことを検討してください。 今後の使用のために、スプレッドシートに値を入力するだけで、プログラム名を生成できます。
-* 全体的なフォルダー構造を整えたら、最も頻繁に使用するユースケースやチームが受ける最も一般的なリクエストにもとづいて、必要なテンプレートを考える必要があります。 最初のプログラムテンプレートの作成を開始します。 [Adobe Marketo Engage プログラムテンプレート &#x200B;](https://business.adobe.com/jp/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}を使い始めるには、この記事を読んでください。
+* 全体的なフォルダー構造を整えたら、最も頻繁に使用するユースケースやチームが受ける最も一般的なリクエストにもとづいて、必要なテンプレートを考える必要があります。 最初のプログラムテンプレートの作成を開始します。 [Adobe Marketo Engage プログラムテンプレート ](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}を使い始めるには、この記事を読んでください。
 
 ### 制作者
 

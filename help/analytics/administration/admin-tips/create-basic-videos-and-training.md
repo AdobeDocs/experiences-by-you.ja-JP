@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 8%
-
 ---
-
 # 基本的な録画トレーニングセッションとショートビデオを作成する
 
 **WHAT:**&#x200B;基本的なトピックと高度なトピックの範囲をカバーするシンプルで短いトレーニング ビデオを作成します。これにより、新規ユーザーがツールを使い始めても、毎回ミーティングを通じて同じコンテンツを配信することはできません。
@@ -35,13 +48,13 @@ ht-degree: 8%
 
 そうすることで、長いメールを書いたり、別のミーティングを開いたりすることなく、顧客をこれらの宛先に簡単に誘導することができます。 ユーザーのトレーニングに関するその他のヒントやテクニックについては、[[!DNL Adobe] Champion Thomas Edward Buckley氏の記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"}で、ユーザーのトレーニングの簡素化と時間の短縮についてご確認ください。
 
-さらに、[!DNL Adobe]Experience Leagueの[&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と、[無料コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータとビジネス KPIに特化した動画が必要な場合は、ぜひ自社の動画を記録してください。 しかし、一般的な説明動画で十分なら、車輪を再発明する理由はありません。
+さらに、[!DNL Adobe]Experience Leagueの[ ビデオチュートリアル ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と、[無料コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータとビジネス KPIに特化した動画が必要な場合は、ぜひ自社の動画を記録してください。 しかし、一般的な説明動画で十分なら、車輪を再発明する理由はありません。
 
 ## 制作者
 
 この文書は次の人によって共同作成されました：
 
-![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
+![ クリステル・ガイドン ](assets/Christel-Headshot-150.png)
 
 Christel Guidon氏（NortonLifeLock、デジタル [!DNL Analytics] プラットフォームマネージャー）
 [!DNL Adobe Analytics] チャンピオン

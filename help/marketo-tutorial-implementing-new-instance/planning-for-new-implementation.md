@@ -10,13 +10,20 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 9%
-
 ---
-
 # Marketo Engageの新しい導入計画
 
 新しいMarketo Engageインスタンスを導入するには、詳細な計画、チームをまたいだ共同作業、継続的な最適化が必要です。 新しいインスタンスを導入するための完璧な方法はありませんが、インスタンスを経験したMarketo Engage管理者の多くは、事前に計画を立てることで、プロセスがよりスムーズになることに同意しています。
@@ -38,7 +45,7 @@ ht-degree: 9%
 
 ### フェーズ 3 - プログラムライブラリの作成とキャンペーンの設定
 
-- メールテンプレートとランディングページの作成。 [&#x200B; プログラム読み込みライブラリ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)から[&#x200B; スタータープログラムの読み込み](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)を開始します。
+- メールテンプレートとランディングページの作成。 [ プログラム読み込みライブラリ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)から[ スタータープログラムの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)を開始します。
 - セグメント化とPersonalization ルールの設定
 - リードジェネレーションとリードナーチャリングのための初期キャンペーンの実施
 
@@ -294,7 +301,7 @@ Palotos Networksでのオンボーディングと導入経験について、Mark
 >[!NOTE]
 >提供される例は、実際の実装タイムラインに基づいていません。 Marketo Engageのオンボーディングでは、企業のニーズに応じて目標や要件が異なるため、これらを標準的なタイムラインとして利用しないでください。
 
-インスタンス用のMarketo Engageの実装とカスタマイズに関する手作業のサポートについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"}までお問い合わせください。
+インスタンス用のMarketo Engageの実装とカスタマイズに関する手作業のサポートについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}までお問い合わせください。
 
 ### 作成者
 

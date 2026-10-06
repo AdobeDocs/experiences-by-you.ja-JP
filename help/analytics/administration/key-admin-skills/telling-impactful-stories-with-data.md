@@ -1,6 +1,6 @@
 ---
 title: データを活用してインパクトのあるストーリーを語る
-description: データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを使用して、アートとサイエンスを結び付ける場所です。  これらのコンポーネントを活用することで、インパクトのあるデータストーリーを作成するには、次の3つの部分で構成されています。 データを使って効果的にストーリーを語ることで、 [!DNL Analytics] は、より多くのオーディエンスにより親しみやすくなり、データに基づく意思決定を通じて、組織にもたらす価値を高めることができます。
+description: データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを使用して、アートとサイエンスを結び付ける場所です。  これらのコンポーネントを活用することで、インパクトのあるデータストーリーを作成するには、次の3つの部分で構成されています。 データを使って効果的にストーリーを語ることで、[!DNL Analytics]はより多くのオーディエンスに親しみやすくなり、データ主導の意思決定を通じて組織にもたらす価値を高めることができます。
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 6%
-
 ---
-
 # データを活用してインパクトのあるストーリーを語る
 
 データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを使用して、アートとサイエンスを結び付ける場所です。  これらのコンポーネントを活用することで、インパクトのあるデータストーリーを作成するには、次の3つの部分で構成されています。 データを使って効果的にストーリーを語ることで、[!DNL Analytics]はより多くのオーディエンスに親しみやすくなり、データ主導の意思決定を通じて組織にもたらす価値を高めることができます。

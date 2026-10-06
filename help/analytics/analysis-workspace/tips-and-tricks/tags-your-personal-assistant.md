@@ -6,17 +6,37 @@ role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-02-22T00:00:00Z
+last-substantial-update: 2024-02-22T00:00:00.000Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
 exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: 2e0e1a8a-56e7-5bd5-b805-f35a7c0c2ca7
+    internal-label: Projects
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
-
 ---
-
 # タグ – パーソナルアシスタント
 
 _必要な情報を効率的に見つける#TAGSめのパーソナルアシスタントとして、デジタル分析を効率化する方法をご覧ください。 Adobe Analytics ChampionのJeff Bloomerが、このツールの潜在能力を最大限に引き出すための専門家のインサイトを紹介します。_
@@ -73,7 +93,7 @@ _必要な情報を効率的に見つける#TAGSめのパーソナルアシス�
 
 独自のタグを作成する前に、最初に知っておく必要があるのは、既存の&#x200B;**タグ**&#x200B;を検索する方法です。
 
-![&#x200B; タグ Gif](assets/tags-gif.gif)
+![ タグ Gif](assets/tags-gif.gif)
 
 新規または既存のプロジェクトを使用している場合でも、必要なのは、コンポーネント検索バーに移動し、これらの主な用語の1つと一緒に#hashtagを入力して（ビデオを見るだけ）、ENTER キーを押すことだけです。または、認識できる用語が見つかるまでスクロールを開始することもできます。
 
@@ -83,7 +103,7 @@ _必要な情報を効率的に見つける#TAGSめのパーソナルアシス�
 
 さて、先ほど私が話した「パーソナルアシスタント」に戻りましょう。  お気に入りの既存のコンポーネントを選択して、表示されるコンポーネントのみを選択できるようになったと言ったらどうでしょう？
 
-![3個のScreens タグ &#x200B;](assets/3-screens-tags.jpg)
+![3個のScreens タグ ](assets/3-screens-tags.jpg)
 
 
 1. 複数のコンポーネントの選択を開始すると（CTRL+左クリック）、一部のアイコンが上に表示されます。  そのひとつがタグのアイコンです。
@@ -98,7 +118,7 @@ _必要な情報を効率的に見つける#TAGSめのパーソナルアシス�
 
 **旅行業界**&#x200B;で働いていて、**主要営業時間**&#x200B;のレポートをまとめているとします。  「旅行」という言葉だけで検索を始めると、必要以上に多くの結果が得られる可能性があります。  実際、必要な結果の半分でも含む&#x200B;**Workspace**&#x200B;を取り出しただけでは、コンポーネントはすぐに利用できなくなります。
 
-![曲がったタグ &#x200B;](assets/tags-example-travel.jpg)
+![曲がったタグ ](assets/tags-example-travel.jpg)
 
 しかし、毎日の作業を通して、**セグメント**、**指標**、その他の関連&#x200B;**コンポーネント**&#x200B;に定期的にタグ付けし、新しい&#x200B;**ワークスペース**&#x200B;を作成する際に、新しい新しいコンポーネントをいくつか作成するだけでした。ルールブックを自分たちに合わせて書き換える方法を真剣に示しました。
 
@@ -132,7 +152,7 @@ _必要な情報を効率的に見つける#TAGSめのパーソナルアシス�
 
 この文書の作成者：
 
-![&#x200B; ジェフ・ブルーマー](assets/jeff-bloomer.png)
+![ ジェフ・ブルーマー](assets/jeff-bloomer.png)
 
 **Jeff Bloomer**、Kroger Personal Finance、デジタル分析担当マネージャー
 

@@ -1,41 +1,52 @@
 ---
-title: AEM Sites成熟度評価
-description: このチェックリストは、AEM Sites インスタンスの成熟度を評価する際に回答する必要がある主な質問の概要を示します。
+title: AEM Sitesの成熟度評価
+description: このチェックリストでは、AEM Sites インスタンスの成熟度を評価する際に、ユーザーとチームが回答すべき主な質問の概要を説明します
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Sites
 feature-set: Marketo Engage, Experience Manager Sites
 audience: author, marketer, developer
 role: Admin
 level: Intermediate
 topic: Administration
-last-substantial-update: 2023-11-03T00:00:00Z
+last-substantial-update: 2023-11-03T00:00:00.000Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+product_v2:
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '345'
 ht-degree: 0%
-
 ---
+# AEM Sitesの成熟度評価の評価
 
-# AEM Sites成熟度評価チェックリスト
+AEM Sitesインスタンスの現状を把握することは、簡単なことではありません。 一般的に、開始するのに最適な場所はインスタンスを監査することで、この成熟度評価チェックリストを使用して、そのプロセスを導くことができます。
 
-AEM Sites インスタンスの現在の状態を評価すると、非常に困難に感じる場合があります。 一般に、インスタンスの監査から始めるのが最善ですが、この成熟度評価のチェックリストを使用して、そのプロセスを導くことができます。
+[ガイドを読む](assets/AEM-Sites-Maturity-Assessment.xlsx)
 
-[チェックリストをダウンロード](assets/AEM-Sites-Maturity-Assessment.xlsx)
+AEMの成熟度評価では、主にオンプレミスおよびマネージドサービスの導入を対象としています。 AEMの導入ごとに固有の要件があります。それは、検出フェーズやプレオンボーディングからAEM導入フェーズに至るまで、お客様ごとに設定された成功定義と目標に起因します。 成熟度評価は、運用開始後のヘルスチェックの役割を果たします。
 
-AEM成熟度評価は、主にオンプレミスおよびマネージドサービスの実装を対象としています。 各AEMの実装は、ディスカバリーフェーズ、プレオンボーディングからAEMのデプロイメントに至るまで、お客様のサクセス定義や目標によってそれぞれ異なります。 成熟度評価は、運用開始後のヘルスチェックの役割を果たします。
+成熟度評価により、AEM基準とベストプラクティスの評価と遵守が可能になります。
 
-成熟度評価により、AEMの標準とベストプラクティスの評価と遵守が可能になります。
+管理、開発またはオーサリングに関するベストプラクティスについては、次のリソースを参照してください。
 
-管理、開発またはオーサリングのベストプラクティスについては、次のリソースを参照してください。
+* [ベストプラクティスの管理](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
+* [ベストプラクティスの開発](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
+* [オーサリングのベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
 
-* [&#x200B; ベストプラクティスの管理 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=ja)
-* [&#x200B; 開発のベストプラクティス &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=ja)
-* [&#x200B; オーサリングのベストプラクティス &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=ja)
+上記のベストプラクティス領域には、AEMのオーサリング、開発、デプロイに関するベストプラクティスも含まれています。
 
-上記のベストプラクティス領域のそれぞれには、AEMのオーサリング、開発およびデプロイに関するさらなるベストプラクティスも含まれています。
+多くの場合、AEMの成熟度評価は、AEMのベストプラクティスの診断レビューの実施に役立ち、潜在的な問題を積極的に発見、解決、防止するためのロードマップになります。 AEM実装の検出フェーズ（AEM移行前）の一部であったチームで評価を完了することをお勧めします。 関与すべき役割には、アプリケーションオーナー、サイトオーナー、開発チーム、技術リード、セキュリティ/インフラチーム、SEO チーム、サポートチーム（コンテンツオーサー、管理者など）などが含まれます。
 
-ほとんどの場合、AEM成熟度評価は、AEMのベストプラクティスの診断レビューを実行するのに役立ち、潜在的な問題をプロアクティブに検出、解決、防止するためのロードマップが得られます。 評価は、AEM導入の検出フェーズ（AEM移行前）の一部でもあったチームと共に完了することをお勧めします。 関係する役割には、アプリケーション所有者、サイト所有者、開発チーム、テクニカルリード、セキュリティ/インフラストラクチャチーム、SEO チームおよびサポートチーム（コンテンツ作成者、管理者など）があります。
+推奨されるAEM成熟度評価の重点分野：設計とアーキテクチャ、製品管理と戦略、デジタルアセット管理と配信、[!DNL Analytics]、テストとセキュリティ。
 
-推奨されるAEM成熟度評価の重点分野は次のとおりです。設計とアーキテクチャ、製品管理と戦略、デジタルアセット管理と配信、[!DNL Analytics] ール、テストとセキュリティです。
-
-複数のExperience League記事の情報と彼自身のベストプラクティスをまとめていただいた、AEM チャンピオンの Greg Dimeris に心から感謝します。
+複数のExperience Leagueの記事と自身のベストプラクティスからこの情報を集約するAEM ChampionのGreg Dimeris氏に大きな拍手を送ります。

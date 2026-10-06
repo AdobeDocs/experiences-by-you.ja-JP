@@ -1,6 +1,6 @@
 ---
-title: マーケターにとっての [!DNL Adobe] [!DNL Campaign]の成功に関する10のベストプラクティス
-description: デジタル消費者の変革を促進し、顧客により優れた体験を提供するために、実務担当者が [!DNL Adobe] [!DNL Campaign]人の担当者に役立つ10のベストプラクティスをご紹介します。
+title: マーケターにとっての[!DNL Adobe] [!DNL Campaign]の成功に関する10のベストプラクティス
+description: '[!DNL Adobe] [!DNL Campaign]の実務担当者がデジタル消費者の変革を実現して加速し、顧客により優れた体験を提供するための10のベストプラクティスを紹介します。'
 doc-type: article
 solution: Campaign
 feature-set: Campaign
@@ -8,15 +8,34 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 44e3e3da9c7c45a73b7fc40374b8e31972fbd166
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1351'
 ht-degree: 78%
-
 ---
-
 # マーケター向け[!DNL [!DNL Adobe] [!DNL Campaign]]の成功事例を紹介する10のベストプラクティス
 
 Christian Klimczykは、主に[!DNL [!DNL Adobe] [!DNL Campaign]]に焦点を当てた[!DNL [!DNL Adobe] Experience Cloud]の7年の専門知識を持つ自称「[!DNL Adobe] Nerd」です。 大手CPG企業の[!DNL Adobe] プラットフォームオーナーとして、Christian氏と彼のチームは、あらゆる消費者とのコミュニケーションとインタラクションに[!DNL [!DNL Campaign]]を使用しています。 厳しい規制要件と、ダイレクトメール、メール、SMS／MMS にわたるマルチチャネルの消費者マーケティングキャンペーンをシームレスに調整および管理します。

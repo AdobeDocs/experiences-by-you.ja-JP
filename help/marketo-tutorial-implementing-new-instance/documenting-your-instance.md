@@ -6,24 +6,31 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08T00:00:00Z
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 0%
-
+ht-degree: 1%
 ---
-
 # インスタンスのガバナンスとドキュメントに関する入門
 
 優れたドキュメントは、実際のインスタンス実装そのものとほぼ同じくらい重要です。 ガバナンスガイドは、Marketo Engage インスタンスの設定の詳細を説明する重要な資料です。プログラム/フォルダー構造、コミュニケーション制限などのトピックについて説明します。 この生きているドキュメントは、Marketo Engage管理者またはパワーユーザー向けの参考資料であり、Marketo Engage インスタンスと組織に合わせた特定のベストプラクティスと管理基準を示しています。
 
 それだけではありません。 Marketo Engageの習熟度を高めるために、イネーブルメントに関する補足資料やトレーニング教材が必要になる場合があります。 これらのリソースには、インタラクティブな演習、アクセス用のクイズ、Marketo Engage内の許可されたアクションに関するガイドラインなどが含まれ、組織内のあらゆるMarketo Engageユーザーにメリットをもたらします。 包括的なガバナンスガイドの作成や、最初の重要な設定の側面の文書化など、オンボーディング中に下された意思決定を記録することは、現在のチームおよび次世代の新入社員がMarketo Engageを活用して成果を上げることができるようにするための鍵となります。
 
-このチュートリアルでは、ドキュメントとガバナンスの重要性を理解することで、エキスパートの同業者[Marketo Engage Governance and Training Documentationの概要](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank}および[&#x200B; インスタンスのドキュメントを作成する方法](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}からベストプラクティスを学習して、プロセスを適切に構築し、社内ユーザーに関連するドキュメントを維持するのに役立ちます。
+このチュートリアルでは、ドキュメントとガバナンスの重要性を理解することで、エキスパートの同業者[Marketo Engage Governance and Training Documentationの概要](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank}および[ インスタンスのドキュメントを作成する方法](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank}からベストプラクティスを学習して、プロセスを適切に構築し、社内ユーザーに関連するドキュメントを維持するのに役立ちます。
 
 ## インスタンスの実装中に変更や決定を文書化することが重要な理由
 
@@ -68,7 +75,7 @@ Marketo Engageの導入を成功させるためには、プロセスの実施に
    * 人物ライフサイクル
    * データ管理
 1. Marketo Engageインスタンスでの構築
-   * [&#x200B; センターオブエクセレンス（COE） &#x200B;](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
+   * [ センターオブエクセレンス（COE） ](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
    * フォルダー構造
    * 命名規則
    * プログラムの整理
@@ -103,7 +110,7 @@ Marketo Engageの導入を成功させるためには、プロセスの実施に
 
 ## 次の手順
 
-* [&#x200B; サンプルドキュメントと変更履歴](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)をダウンロードして、組織のニーズに合わせて調整してください。
+* [ サンプルドキュメントと変更履歴](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)をダウンロードして、組織のニーズに合わせて調整してください。
 * 組織が定期的に参照および更新することを好む、アクセス可能なプラットフォームにドキュメントを保存します。 例えば、一部のMarketo Engage Championでは、Confluence （Atlassianによる）またはExcel スプレッドシートを使用しています。
 * ガバナンスのために作成したすべてのルールに、それを適用し、ドキュメントを適応させ、経時的に最新の状態に保つ所有者を設定します。
 

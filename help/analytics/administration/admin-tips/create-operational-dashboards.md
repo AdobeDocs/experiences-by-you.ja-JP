@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace内で運用ダッシュボードを作成する
-description: ' [!DNL Adobe Analytics] Workspaceのダッシュボード機能が、コミュニケーションと効率性にどのような革命をもたらすのかを解説します。'
+description: '[!DNL Adobe Analytics] Workspaceのダッシュボード機能が、コミュニケーションと効率性にどのような革命をもたらすのかを解説します。'
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # Analysis Workspace内での運用ダッシュボードの作成
 
 _[!DNL Adobe Analytics] Workspaceのダッシュボード機能が、コミュニケーションと効率性にどのような革命をもたらすのかを解説します。 FAQ、ニュースと通知、およびバグと機能ダッシュボードを作成して、情報の効率化、ユーザーエクスペリエンスの向上、エンゲージメントの強化を実現する方法を説明します。_
@@ -28,7 +41,7 @@ _[!DNL Adobe Analytics] Workspaceのダッシュボード機能が、コミュ�
 
 ユーザーが「自分のVPNがオフになっている」、「今は読めない」などの理由で、Confluence サイトへの紹介を無視することがよくあることに気づきました。基本的に「後で読みます」というのは、読まれることはなく、同じ質問が来週も繰り返されます。
 
-***実現ヒット：**&#x200B;Workspaceの汎用性は、画期的な機能になる可能性があります。 ユーザーはWorkspace内で素早く直接的な回答を好むので、追加の手順を避けるようにしましょう。*
+***実現ヒット：**Workspaceの汎用性は、画期的な機能になる可能性があります。 ユーザーはWorkspace内で素早く直接的な回答を好むので、追加の手順を避けるようにしましょう。*
 
 まず、全社的に共有する運用ダッシュボードを作成しました。 これまでに、利用者に情報を提供し、情報を一元化し、不満を解消してきました。 これは容易に改善できるプロセスであり、時間をかけて効率を向上できます。
 
@@ -49,7 +62,7 @@ _[!DNL Adobe Analytics] Workspaceのダッシュボード機能が、コミュ�
 
 答えを繰り返す無限のループにうんざりしていますか？ やめろ！ FAQ ダッシュボードを作成することで、時間を節約できます。 ユーザーは質問する前に調べることもできますし、回答の中ですぐにリンクすることもできます。
 
-タイトルとしてフォーマットされた質問と、コンテンツとして回答/説明が含まれる[&#x200B; テキストビジュアライゼーション &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=ja)を作成するだけで、質問だけを表示するように折りたたまれます。 関連性ごとのグループ化（ページや商品など）やパネルを利用することができます。 よくあるクエリを最上部に配置し、シンプルなクエリを維持します。
+タイトルとしてフォーマットされた質問と、コンテンツとして回答/説明が含まれる[ テキストビジュアライゼーション ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)を作成するだけで、質問だけを表示するように折りたたまれます。 関連性ごとのグループ化（ページや商品など）やパネルを利用することができます。 よくあるクエリを最上部に配置し、シンプルなクエリを維持します。
 
 長いメールを書いたり、古い説明を再発見したりする代わりに、FAQ ダッシュボードを更新しましょう。 今すぐ始めて、時間をかけて拡大しましょう。 ハイパーリンクを使用して、レポート内の他のダッシュボードや関連するFAQを参照できます。 他のダッシュボードからFAQにリンクすることで、必要に応じて複雑なコンテキストを提供できます。
 
@@ -59,13 +72,13 @@ FAQを包括的に理解できたら、社内で共有し、アクセスと学�
 
 FAQ ダッシュボードのスクリーンショットを以下に示します。
 
-![&#x200B; スクリーンショット 1](assets/screenshot-1_v2.png)
+![ スクリーンショット 1](assets/screenshot-1_v2.png)
 
 ![低トラフィック FAQ1](assets/low-traffic-faq.png)
 
-![&#x200B; ビデオに関するFAQを追跡](assets/track-video-faq.png)
+![ ビデオに関するFAQを追跡](assets/track-video-faq.png)
 
-![&#x200B; ダウンロードの追跡に関するFAQ](assets/track-downloads-faq.png)
+![ ダウンロードの追跡に関するFAQ](assets/track-downloads-faq.png)
 
 ## 2 - ニュースとアナウンスのダッシュボード
 
@@ -82,7 +95,7 @@ FAQ ダッシュボードのスクリーンショットを以下に示します�
 
 ニュースと発表ダッシュボードは次のようになります。
 
-![&#x200B; スクリーンショット 2](assets/screenshot-2.png)
+![ スクリーンショット 2](assets/screenshot-2.png)
 
 ## 3 - バグ、機能、メジャーリリースログ
 
@@ -100,7 +113,7 @@ FAQ ダッシュボードのスクリーンショットを以下に示します�
 
 ログの例を次に示します。
 
-![&#x200B; スクリーンショット 3](assets/screenshot-3.png)
+![ スクリーンショット 3](assets/screenshot-3.png)
 
 [!DNL Adobe Analytics] Workspaceで運用用ダッシュボードを作成することは、私にとって画期的なことでした。 多くの管理職と同様に、私は社内ハブを管理し、回答の重複や効果的なユーザーコミュニケーションに苦慮していました。 そこで、動的なリポジトリを導入する必要がありました。そこで同社は、Workspaceの優れた汎用性がエンゲージメントに変革をもたらすことを認識しました。 [!DNL Adobe Analytics] Workspaceのダッシュボード機能を活用してください。 ユーザーエクスペリエンスを向上させ、時間を節約し、より整理整頓された環境を享受しましょう。 カスタマージャーニーは今から始まります。これらのダッシュボードは、効率性と使いやすさの鍵となります。
 
@@ -108,7 +121,7 @@ FAQ ダッシュボードのスクリーンショットを以下に示します�
 
 この文書の作成者：
 
-![&#x200B; クリステル・ガイドン &#x200B;](assets/Christel-Headshot-150.png)
+![ クリステル・ガイドン ](assets/Christel-Headshot-150.png)
 
 **Christel Guidon**、デジタル [!DNL Analytics] プラットフォームマネージャー（Gen）
 

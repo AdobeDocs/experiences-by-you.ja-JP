@@ -7,17 +7,27 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '879'
 ht-degree: 0%
-
 ---
-
 # エグゼクティブサマリーダッシュボードで成果を促進
 
 _経営陣は、多くの場合、月次のExcel チャートを利用したり、詳細なデータに溺れたりするなど、サイトやアプリに関するタイムリーで適切な情報を欠いています。 解決策：Experience Manager Cloud ManagerのAdobe Marketo Engageのエグゼクティブサマリーダッシュボード。_
@@ -47,7 +57,7 @@ _経営陣は、多くの場合、月次のExcel チャートを利用したり�
 
 多くの経営陣は、約3つのKPIに深い関心を抱いています。 小売業界では、注文、売上、AOVなどが多くあります。 B2Bでは、リード、リード品質、コンバージョン率です。 サービス部門は、訪問、予約、再訪問者に関心を持つ可能性があります。 3つの値が何であれ、前年比で変化した大きな太字の数字とグラフに入れましょう。 「主要指標の概要」のビジュアライゼーションを使用すると、次のことが簡単にできます。
 
-![&#x200B; パネルを拡大表示](assets/zoom-in-panel.png)
+![ パネルを拡大表示](assets/zoom-in-panel.png)
 
 同じ3つの指標に過去のデータを追加することで、長期的なトレンドを容易に把握できます。
 
@@ -55,7 +65,7 @@ _経営陣は、多くの場合、月次のExcel チャートを利用したり�
 
 組織にとって重要な機能に対して、いくつかのドロップダウンを追加します。 一般的に、デバイスタイプとマーケティングチャネルが優れていると感じています。
 
-![&#x200B; ソーシャル [!DNL Campaign]s.png](assets/social-campaigns.png)
+![ ソーシャル [!DNL Campaign]s.png](assets/social-campaigns.png)
 
 これらは全体的にかなり重要ですが、常に、選択したものがサイトやアプリに関連していることを確認してください。
 

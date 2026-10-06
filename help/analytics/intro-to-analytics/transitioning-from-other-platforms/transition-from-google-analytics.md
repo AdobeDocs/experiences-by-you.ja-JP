@@ -1,6 +1,6 @@
 ---
-title: Google [!DNL Analytics]から [!DNL Adobe Analytics] への移行に関する包括的なガイド
-description: 同等の機能の場所と、Google [!DNL Analytics] から [!DNL Adobe Analytics]への移行時に効率的に使用する方法について説明します
+title: Google [!DNL Analytics]から[!DNL Adobe Analytics]への移行に関する包括的なガイド
+description: 同等の機能の場所と、Google [!DNL Analytics]から[!DNL Adobe Analytics]への移行時に効率的に使用する方法について説明します
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3362'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # Google [!DNL Analytics]から[!DNL Adobe Analytics]への移行に関する包括的なガイド{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## &#x200B;1. 概要
@@ -94,22 +107,23 @@ ht-degree: 1%
 * フォールアウト
 * フロー
 * グラフ
-   * 積み上げ領域（積み上げ領域と積み上げ領域なし）
-   * 折れ線グラフ
-   * 散布図
-   * 棒グラフ（積み上げ/積み上げ解除）
-   * 箇条書き
-   * ドーナツ
-   * ヒストグラム
-   * 横棒グラフ（積み上げ/積み上げ解除）
+  * 積み上げ領域（積み上げ領域と積み上げ領域なし）
+  * 折れ線グラフ
+  * 散布図
+  * 棒グラフ（積み上げ/積み上げ解除）
+  * 箇条書き
+  * ドーナツ
+  * ヒストグラム
+  * 横棒グラフ（積み上げ/積み上げ解除）
 * マップ
 * サマリーブロック
-   * 変更概要
-   * 概要テキスト
-   * テキスト（コンテキストを与えるための追加情報を入力する空きテキストフィールド）
+  * 変更概要
+  * 概要テキスト
+  * テキスト（コンテキストを与えるための追加情報を入力する空きテキストフィールド）
 * ベン
 
-各パネルとビジュアライゼーションにはタイトルを付け、説明を適用することで、情報に表示される内容を説明することができます。[!DNL Adobe]では、セグメント（基本的にデータのフィルター）は過去にさかのぼって適用され、これらはフリーフォームテーブルの列に取り込んで、データを並べて比較できます。 例えば、ユーザーがサイト上の2つの異なるカテゴリをトラフィックと比較したい場合、「カテゴリ A」のセグメントと「カテゴリ B」のセグメントを作成できます。
+各パネルとビジュアライゼーションにはタイトルを付け、説明を適用することで、情報に表示される内容を説明することができます。
+[!DNL Adobe]では、セグメント（基本的にデータのフィルター）は過去にさかのぼって適用され、これらはフリーフォームテーブルの列に取り込んで、データを並べて比較できます。 例えば、ユーザーがサイト上の2つの異なるカテゴリをトラフィックと比較したい場合、「カテゴリ A」のセグメントと「カテゴリ B」のセグメントを作成できます。
 
 ![analytics-page-views-report](assets/ga-to-aa_3.png)
 
@@ -137,7 +151,7 @@ Workspaceなら、クリエイティビティを発揮できます。「標準�
 
 >[!IMPORTANT]
 >
->ドロップダウンとフリーフォームの分類の使用について詳しくは、<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=ja>を参照してください
+>ドロップダウンとフリーフォームの分類の使用について詳しくは、<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>を参照してください
 
 ##### 2.1.2.2. Google [!DNL Analytics]: ダッシュボード、カスタムレポート、保存されたレポート
 
@@ -267,8 +281,8 @@ Google [!DNL Analytics]から拡張された方法でデータを取得する必
 
 このガイド以外にも、戦略の改善に役立つリソースが数多くあります。
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/ja?lang=ja#home) - チュートリアル、ビデオ、ドキュメント、コミュニティフォーラムが含まれています
-* [[!DNL Adobe]  ユーザーグループ &#x200B;](https://analytics-augs.adobe.com/) - ユーザー同士が接続し、実装を改善するのに役立つコミュニティ実行イベントのハブ。
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=ja#home) - チュートリアル、ビデオ、ドキュメント、コミュニティフォーラムが含まれています
+* [[!DNL Adobe]  ユーザーグループ ](https://analytics-augs.adobe.com/) - ユーザー同士が接続し、実装を改善するのに役立つコミュニティ実行イベントのハブ。
 * [[!DNL Adobe Analytics] User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - [!DNL Adobe Analytics] ユーザーグループセッションを作成できませんでした。 世界中の以前のユーザーグループセッションを再視聴して、同僚がこのツールをどのように使用しているかをご確認ください。
 * [Measure Chat Slack channel](https://www.measure.chat/) – 世界中の[!DNL Adobe Analytics]人のユーザーとつながり、業界の知識を共有し、同僚の質問を行い、測定に焦点を当てた興味グループに参加します。
 * その他！
