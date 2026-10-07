@@ -1,40 +1,50 @@
 ---
-title: Web SDK 実装の戦略的ガイド
-description: Web SDK 実装に関する戦略的ガイドをダウンロードして、今日のデジタル環境における最適化された web パフォーマンス、効率的なタグ管理、Adobeサイド処理、サーバーサイドのサードパーティタグ統合、cookie のない環境のサポート、データ品質の向上をご覧ください。
+title: Web SDK戦略ガイド
+description: web パフォーマンスの最適化、効率的なタグ管理、Adobeサイドの処理、サーバーサイドのサードパーティタグ統合、クッキーレス環境のサポート、今日のデジタル環境におけるデータ品質の向上を実現するために、web SDKを導入する方法をアドビの戦略的ガイドでご確認ください。
 solution: Analytics
 feature: Data Configuration and Collection
 role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-05-14T00:00:00Z
+last-substantial-update: 2024-05-14T00:00:00.000Z
 jira: KT-15488
 thumbnail: KT-15488.jpeg
 exl-id: b0719779-f260-45b7-bdd6-1a3145bcb251
-source-git-commit: 4340bd82fd13397762c5b1ebd17d5d03d8180c3e
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '214'
 ht-degree: 0%
-
 ---
+# Web SDK戦略ガイド
 
-# Web SDK 実装の戦略的ガイド
+web パフォーマンスの最適化、効率的なタグ管理、Adobeサイドの処理、サーバーサイドのサードパーティタグ統合、クッキーレス環境のサポート、今日のデジタル環境におけるデータ品質の向上を実現するために、web SDKを導入する方法をアドビの戦略的ガイドでご確認ください。
 
-Web SDK 実装に関する戦略的ガイドをダウンロードして、今日のデジタル環境における最適化された web パフォーマンス、効率的なタグ管理、Adobeサイド処理、サーバーサイドのサードパーティタグ統合、cookie のない環境のサポート、データ品質の向上をご覧ください。
+今日のデジタル環境では、web パフォーマンスの最適化とデータの効果的な活用が成功の重要な要素です。 Web SDKを導入することで、パフォーマンスの向上、効率的なタグ管理、Adobe側の処理、サーバーサイドのサードパーティタグ統合、クッキーレス環境のサポート、データ品質の向上を実現できます。
 
-今日のデジタル環境では、web パフォーマンスの最適化とデータの効果的な活用が、成功の重要な要因となっています。 Web SDK を実装すると、より高速なパフォーマンス、効率的なタグ管理、Adobe側の処理、サーバーサイドのサードパーティタグ統合、クックレス環境のサポート、データ品質の向上を実現できます。
+こうした利点があるにもかかわらず、Web SDKを導入するという考え方は、完全には圧倒されるとは言わないまでも、非常に困難なものです。 Web SDKを導入する際に役立つ戦略的ガイドを作成しました。
 
-これらのメリットにもかかわらず、Web SDK を実装するという考えは、完全に圧倒されるとは言わないまでも、困難な場合があります。 そのため、Web SDK を実装するこのジャーニーを開始する際に役立つ、この戦略的ガイドを作成しました。
-
-[Web SDK 実装の戦略的ガイド &#x200B;](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"} をダウンロードします。
+Web SDKの導入に関する[戦略ガイド &#x200B;](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}をダウンロードしてください。
 
 
 ## 作成者
 
-このドキュメントの作成者：
+この文書の作成者：
 
-![&#x200B; メガン・ヘッド・ショット &#x200B;](assets/meghan-head-shot.png)
+![&#x200B; メーガン・ヘッド・ショット &#x200B;](assets/meghan-head-shot.png)
 
-**メガン・パワーズ**
+**メーガンの力**
 
-CarMax およびAdobe Analytics Champion のデータガバナンス、Strategy &amp; Analytics 担当シニアマネージャー
+CarMaxおよびAdobe Analytics Championのデータガバナンス、戦略、分析担当シニアマネージャー

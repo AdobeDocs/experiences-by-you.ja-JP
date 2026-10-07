@@ -1,18 +1,31 @@
 ---
 title: ユーザーによる Analytics
-description: ユーザーによる Analytics は、Adobe Analytics の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
+description: Analytics by You は、Adobe Analytics の知識によって一定レベルの専門知識と影響力を獲得した日常のユーザーが作成したユーザー生成コンテンツを特徴としています。
 role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 28%
-
+source-wordcount: '277'
+ht-degree: 22%
 ---
-
 # [!DNL Analytics]件のユーザー：ユーザー別のユーザーのリソース。
 
 [!DNL Adobe Experience Cloud]個のソリューションの最も強力な点は？ あなた。 製品を手に入れ、掘り下げ、素晴らしい革新的な方法で適用するユーザーは、有意義な体験と成果を生み出します。 「Experiences by You」では、[!DNL Adobe Experience Cloud]製品の使用経験があり、高度な専門知識や影響力を有する日常的なユーザーが制作したコンテンツが紹介されています。 このピアツーピアの知識は、コラボレーションと発見を促進し、製品の専門知識をレベルアップするために必要なインスピレーションを見つけることを可能にします。

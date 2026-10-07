@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-04T00:00:00Z
+last-substantial-update: 2024-05-04T00:00:00.000Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '2235'
 ht-degree: 0%
-
 ---
-
 # ネイティブ CRM コネクタのフィールドの同期
 
 組織内でSalesforceまたはMicrosoft Dynamicsを使用していますか？ その場合、Marketo Engageのネイティブ CRM コネクタ（Salesforce、Microsoft Dynamics、Veeva）を使用すると、Marketo EngageとCRM間で関連情報をシームレスに共有することで、マーケティング活動と営業活動を連携させることができます。 初期CRM同期を設定する前に、Marketo Engage データベースをクリーンに保つために、2つのシステム間で同期するフィールドを特定してください。
@@ -56,10 +63,10 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 
 * Marketo Engageではフラットデータベースを使用するので、データディクショナリのフォーマットを次のように設定することをお勧めします。
 
-   * 最初の列：Marketo Engage フィールド名
-   * 2列目：Marketo Engage API名
-   * 3番目の列：[Marketo Engage フィールドの種類](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} （ブール値、通貨、日付など）
-   * 後続の列では、CRM オブジェクトタイプ（リード、取引先責任者、アカウント、商談）に対して、Marketo Engageに付与するアクセス権レベル（読み取り、書き込み、編集）の列を追加して、これを繰り返します
+  * 最初の列：Marketo Engage フィールド名
+  * 2列目：Marketo Engage API名
+  * 3番目の列：[Marketo Engage フィールドの種類](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} （ブール値、通貨、日付など）
+  * 後続の列では、CRM オブジェクトタイプ（リード、取引先責任者、アカウント、商談）に対して、Marketo Engageに付与するアクセス権レベル（読み取り、書き込み、編集）の列を追加して、これを繰り返します
   <br>
 
   その例を次に示します。
@@ -68,9 +75,9 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 
 * まず、CRMに自動的にマッピングされるデフォルトフィールドを追加します。
 
-   * [Salesforce](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
-   * [Microsoft Dynamics](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
-   * [Veeva](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
+  * [Salesforce](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
+  * [Microsoft Dynamics](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
+  * [Veeva](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
 
 * Marketo Engageの各デフォルトフィールドが、同期するCRMのフィールドと一致することを確認します。 例えば、Marketo Engageの「購読解除」フィールドは、CRMの「電子メールオプトアウト」フィールドである可能性があります。
 * 必要に応じて、CRM APIの名前、権限、および[&#x200B; データタイプ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}を調整します。
@@ -90,9 +97,9 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 * Marketo Engageに既に存在するフィールドのフィールドをCRMに作成し、新しいCRM フィールドの表示名とAPI名でデータディクショナリを更新します。
 * CRM （[Microsoft Dynamics](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Salesforce](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}）のリード オブジェクトと取引先責任者オブジェクト間でフィールドマッピングを実行します。 リードが連絡先に変換されると、フィールドをMarketo Engageの1つのフィールドに統合できるようになります。
 * Marketo Sync Profileが、データディクショナリに記載されているように、各フィールドに対する適切な権限を持っていることを確認します。
-   * [Salesforceでプロファイル権限を設定](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
-   * [Microsoft Dynamicsでプロファイル権限を設定する](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
-   * [Veevaでプロファイル権限を設定](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
+  * [Salesforceでプロファイル権限を設定](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
+  * [Microsoft Dynamicsでプロファイル権限を設定する](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
+  * [Veevaでプロファイル権限を設定](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
 
 **手順6:**&#x200B;最初の同期を実行
 
@@ -105,17 +112,17 @@ Adobe Marketo EngageとCRMを初回に同期することで、既存の標準フ
 
 * 新しい同期フィールドの表示とAPI名を確認または更新します。
 * 再マッピングが必要な可能性のある重複フィールドを特定します。 フィールドの重複は、次のような場合に発生します。
-   * CRMのカスタムフィールドは、同等のフィールドが既にMarketo Engageに存在する場合、Marketo Engageで初めて同期したときに、新しい（重複する可能性がある）フィールドを作成します。
-   * Marketo-Engage専用のカスタムフィールド（つまり、Marketo Engageで直接作成されたフィールド）と、CRMから同期された同等のフィールドがある場合があります。
+  * CRMのカスタムフィールドは、同等のフィールドが既にMarketo Engageに存在する場合、Marketo Engageで初めて同期したときに、新しい（重複する可能性がある）フィールドを作成します。
+  * Marketo-Engage専用のカスタムフィールド（つまり、Marketo Engageで直接作成されたフィールド）と、CRMから同期された同等のフィールドがある場合があります。
 
 
 
 **手順8:**&#x200B;重複したフィールドが表示された場合は、Adobe カスタマーサポートに連絡して再マッピングを実行してください
 
 * 再マッピングが必要なフィールドについては、次の情報をサポートに問い合わせてください。
-   * CRMによって作成された新しい重複フィールドの表示とAPI名。
-   * CRM フィールドをマッピングするMarketo Engage フィールドの表示名。
-   * この例[HERE](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}を参照してください。
+  * CRMによって作成された新しい重複フィールドの表示とAPI名。
+  * CRM フィールドをマッピングするMarketo Engage フィールドの表示名。
+  * この例[HERE](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}を参照してください。
 * 再マッピングが完了したら、Marketo Engageで再マッピングされたフィールドのAPI名を確認し、データディクショナリの「API名」列の値を更新して、最も正確な情報が含まれていることを確認します。
 
 ## 次の手順
