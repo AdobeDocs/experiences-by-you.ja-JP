@@ -83,7 +83,7 @@ ht-degree: 12%
 
 ## その他のリソース
 
-* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
+* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=ja&lang=ja)
 * [Adobe Experience Cloudのドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
 * [Experience Cloud チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)
 * [business.adobe.com](https://business.adobe.com/jp)
