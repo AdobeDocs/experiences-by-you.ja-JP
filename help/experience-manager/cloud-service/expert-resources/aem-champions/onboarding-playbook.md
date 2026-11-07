@@ -48,7 +48,7 @@ ht-degree: 1%
 
 テクニカルリーダーのRakesh Pasupuleti氏のアドバイスをご覧ください。 Rakeshは[!DNL Adobe] Experience Manager チャンピオンであり、オンボーディングプレイブックの使用方法に関するアイデアを共有しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506878?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース {#additional-resources}
 
