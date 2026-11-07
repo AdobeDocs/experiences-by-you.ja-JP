@@ -34,7 +34,7 @@ ht-degree: 13%
 
 テクニカルリーダーのRakesh Pasupuleti氏のアドバイスをご覧ください。 Rakeshは[!DNL Adobe] Experience Manager チャンピオンであり、[!DNL Cloud Manager]の環境タイプを理解する方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506977?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース {#additional-resources}
 
